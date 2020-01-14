@@ -1,0 +1,26 @@
+<resources>
+    <array name="category_array">
+        <item>Lön</item>
+        <item>Övrigt</item>
+    </array>
+    <array name="category_array_expense">
+        <item>Livsmedel</item>
+        <item>Boende</item>
+        <item>Fritid</item>
+        <item>Resor</item>
+        <item>Övrigt</item>
+    </array>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="btnLogIn">Logga in</string>
+    <string name="btnSaveIncome">Lägg till inkomst</string>
+    <string name="btnSaveExpense">Lägg till utgift</string>
+    <string name="app_name">P1.3</string>
+    <string name="welcome">Välkommen</string>
+    <string name="log_in_lastname">Efternamn</string>
+    <string name="log_in_name">Namn</string>
+
+
+</resources>

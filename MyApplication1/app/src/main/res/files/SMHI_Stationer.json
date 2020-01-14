@@ -1,0 +1,7114 @@
+[
+  {
+    "Id": 154860,
+    "Namn": "Abelvattnet Aut",
+    "Latitud": 65.53,
+    "Longitud": 14.97,
+    "Höjd (m)": 665,
+    "Aktiv": "Nej"
+  },
+  {
+    "Id": 188790,
+    "Namn": "Abisko",
+    "Latitud": 68.353791,
+    "Longitud": 18.816438,
+    "Höjd (m)": 392.303,
+    "Aktiv": "Ja"
+  },
+  {
+    "Id": 188800,
+    "Namn": "Abisko",
+    "Latitud": 68.3557,
+    "Longitud": 18.8206,
+    "Höjd (m)": 388,
+    "Aktiv": "Nej"
+  },
+  {
+    "Id": 158990,
+    "Namn": "Abraur",
+    "Latitud": 65.9867,
+    "Longitud": 18.9236,
+    "Höjd (m)": 370,
+    "Aktiv": "Nej"
+  },
+  {
+    "Id": 85600,
+    "Namn": "Adelsnäs",
+    "Latitud": 58.19981830624454,
+    "Longitud": 15.980181430334518,
+    "Höjd (m)": 97,
+    "Aktiv": "Nej"
+  },
+  {
+    "Id": 97280,
+    "Namn": "Adelsö A",
+    "Latitud": 59.357934,
+    "Longitud": 17.521315,
+    "Höjd (m)": 5.612,
+    "Aktiv": "Ja"
+  },
+  {
+    "Id": 92480,
+    "Namn": "Adolfsfors",
+    "Latitud": 59.8,
+    "Longitud": 12.2333,
+    "Höjd (m)": 125,
+    "Aktiv": "Nej"
+  },
+  {
+    "Id": 117330,
+    "Namn": "Agö",
+    "Latitud": 61.55,
+    "Longitud": 17.4666,
+    "Höjd (m)": 20,
+    "Aktiv": "Nej"
+  },
+  {
+    "Id": 178740,
+    "Namn": "Aktse",
+    "Latitud": 67.1498,
+    "Longitud": 18.3061,
+    "Höjd (m)": 530,
+    "Aktiv": "Nej"
+  },
+  {
+    "Id": 75040,
+    "Namn": "Allgunnen",
+    "Latitud": 57.0666,
+    "Longitud": 15.968100000000002,
+    "Höjd (m)": 115,
+    "Aktiv": "Nej"
+  },
+  {
+    "Id": 99090,
+    "Namn": "Almagrundet A",
+    "Latitud": 59.1547,
+    "Longitud": 19.1298,
+    "Höjd (m)": 3,
+    "Aktiv": "Nej"
+  },
+  {
+    "Id": 134590,
+    "Namn": "Almdalen",
+    "Latitud": 63.9967,
+    "Longitud": 14.6701,
+    "Höjd (m)": 615,
+    "Aktiv": "Nej"
+  },
+  {
+    "Id": 53640,
+    "Namn": "Alnarp",
+    "Latitud": 55.65,
+    "Longitud": 13.0833,
+    "Höjd (m)": 10,
+    "Aktiv": "Nej"
+  },
+  {
+    "Id": 53390,
+    "Namn": "Alnarp Fruktavdelning",
+    "Latitud": 55.6571,
+    "Longitud": 13.0923,
+    "Höjd (m)": 10,
+    "Aktiv": "Nej"
+  },
+  {
+    "Id": 178790,
+    "Namn": "Aluokta",
+    "Latitud": 67.3094,
+    "Longitud": 18.9011,
+    "Höjd (m)": 385,
+    "Aktiv": "Nej"
+  },
+  {
+    "Id": 82000,
+    "Namn": "Alvhem",
+    "Latitud": 58.0067,
+    "Longitud": 12.1454,
+    "Höjd (m)": 5,
+    "Aktiv": "Nej"
+  },
+  {
+    "Id": 73250,
+    "Namn": "Ambjörnarp",
+    "Latitud": 57.4166,
+    "Longitud": 13.2833,
+    "Höjd (m)": 220,
+    "Aktiv": "Nej"
+  },
+  {
+    "Id": 156990,
+    "Namn": "Ammarnäs",
+    "Latitud": 65.9744,
+    "Longitud": 16.2283,
+    "Höjd (m)": 440,
+    "Aktiv": "Nej"
+  },
+  {
+    "Id": 74600,
+    "Namn": "Aneboda II",
+    "Latitud": 57.11667457705683,
+    "Longitud": 14.56389526848219,
+    "Höjd (m)": 195,
+    "Aktiv": "Nej"
+  },
+  {
+    "Id": 74510,
+    "Namn": "Aneby",
+    "Latitud": 57.8232,
+    "Longitud": 14.8913,
+    "Höjd (m)": 240,
+    "Aktiv": "Nej"
+  },
+  {
+    "Id": 144530,
+    "Namn": "Ankarvattnet",
+    "Latitud": 64.8666,
+    "Longitud": 14.25,
+    "Höjd (m)": 460,
+    "Aktiv": "Nej"
+  },
+  {
+    "Id": 95230,
+    "Namn": "Arboga",
+    "Latitud": 59.3833,
+    "Longitud": 15.8333,
+    "Höjd (m)": 50,
+    "Aktiv": "Nej"
+  },
+  {
+    "Id": 167710,
+    "Namn": "Arjeplog A",
+    "Latitud": 66.051337,
+    "Longitud": 17.839638,
+    "Höjd (m)": 430.839,
+    "Aktiv": "Ja"
+  },
+  {
+    "Id": 97390,
+    "Namn": "Arlanda",
+    "Latitud": 59.66,
+    "Longitud": 17.9208,
+    "Höjd (m)": 26,
+    "Aktiv": "Nej"
+  },
+  {
+    "Id": 53770,
+    "Namn": "Arlöv sockerbruk",
+    "Latitud": 55.6333,
+    "Longitud": 13.0667,
+    "Höjd (m)": 3,
+    "Aktiv": "Nej"
+  },
+  {
+    "Id": 159880,
+    "Namn": "Arvidsjaur A",
+    "Latitud": 65.594059,
+    "Longitud": 19.264192,
+    "Höjd (m)": 382.45,
+    "Aktiv": "Ja"
+  },
+  {
+    "Id": 92400,
+    "Namn": "Arvika",
+    "Latitud": 59.6658,
+    "Longitud": 12.591,
+    "Höjd (m)": 77,
+    "Aktiv": "Nej"
+  },
+  {
+    "Id": 92410,
+    "Namn": "Arvika A",
+    "Latitud": 59.67426,
+    "Longitud": 12.635414,
+    "Höjd (m)": 65.758,
+    "Aktiv": "Ja"
+  },
+  {
+    "Id": 97630,
+    "Namn": "Aske",
+    "Latitud": 59.6166,
+    "Longitud": 17.65,
+    "Höjd (m)": 15,
+    "Aktiv": "Nej"
+  },
+  {
+    "Id": 84660,
+    "Namn": "Askersund",
+    "Latitud": 58.88,
+    "Longitud": 14.9,
+    "Höjd (m)": 100,
+    "Aktiv": "Nej"
+  },
+  {
+    "Id": 94370,
+    "Namn": "Asphyttan",
+    "Latitud": 59.6112,
+    "Longitud": 14.1859,
+    "Höjd (m)": 130,
+    "Aktiv": "Nej"
+  },
+  {
+    "Id": 106070,
+    "Namn": "Avesta",
+    "Latitud": 60.141299,
+    "Longitud": 16.171548,
+    "Höjd (m)": 99.043,
+    "Aktiv": "Ja"
+  },
+  {
+    "Id": 84340,
+    "Namn": "Axstål Mo",
+    "Latitud": 58.5719,
+    "Longitud": 14.5722,
+    "Höjd (m)": 91,
+    "Aktiv": "Ja"
+  },
+  {
+    "Id": 105550,
+    "Namn": "Backa",
+    "Latitud": 60.923,
+    "Longitud": 15.1145,
+    "Höjd (m)": 230,
+    "Aktiv": "Nej"
+  },
+  {
+    "Id": 139570,
+    "Namn": "Balsjö",
+    "Latitud": 63.925,
+    "Longitud": 19.0611,
+    "Höjd (m)": 195,
+    "Aktiv": "Nej"
+  },
+  {
+    "Id": 97260,
+    "Namn": "Barkarby",
+    "Latitud": 59.4166,
+    "Longitud": 17.8833,
+    "Höjd (m)": 17,
+    "Aktiv": "Nej"
+  },
+  {
+    "Id": 62180,
+    "Namn": "Barkåkra",
+    "Latitud": 56.2979,
+    "Longitud": 12.8441,
+    "Höjd (m)": 18,
+    "Aktiv": "Ja"
+  },
+  {
+    "Id": 82540,
+    "Namn": "Bastorp",
+    "Latitud": 58.904,
+    "Longitud": 12.038,
+    "Höjd (m)": 150,
+    "Aktiv": "Nej"
+  },
+  {
+    "Id": 97190,
+    "Namn": "Beckomberga",
+    "Latitud": 59.3658,
+    "Longitud": 17.8974,
+    "Höjd (m)": 15,
+    "Aktiv": "Nej"
+  },
+  {
+    "Id": 125470,
+    "Namn": "Bensjö",
+    "Latitud": 62.7139,
+    "Longitud": 15.4667,
+    "Höjd (m)": 310,
+    "Aktiv": "Nej"
+  },
+  {
+    "Id": 74080,
+    "Namn": "Berg",
+    "Latitud": 57.121,
+    "Longitud": 14.6931,
+    "Höjd (m)": 250,
+    "Aktiv": "Nej"
+  },
+  {
+    "Id": 98610,
+    "Namn": "Berga",
+    "Latitud": 59.0833,
+    "Longitud": 18.1166,
+    "Höjd (m)": 15,
+    "Aktiv": "Nej"
+  },
+  {
+    "Id": 98040,
+    "Namn": "Berga Mo",
+    "Latitud": 59.0688,
+    "Longitud": 18.1184,
+    "Höjd (m)": 4,
+    "Aktiv": "Ja"
+  },
+  {
+    "Id": 96610,
+    "Namn": "Bie",
+    "Latitud": 59.083043509330324,
+    "Longitud": 16.213451816419287,
+    "Höjd (m)": 21,
+    "Aktiv": "Nej"
+  },
+  {
+    "Id": 136020,
+    "Namn": "Bispgården",
+    "Latitud": 63.0509,
+    "Longitud": 16.5358,
+    "Höjd (m)": 190,
+    "Aktiv": "Nej"
+  },
+  {
+    "Id": 106080,
+    "Namn": "Bjurfors",
+    "Latitud": 60.1316,
+    "Longitud": 16.1282,
+    "Höjd (m)": 125,
+    "Aktiv": "Nej"
+  },
+  {
+    "Id": 116650,
+    "Namn": "Bjuråker",
+    "Latitud": 61.85,
+    "Longitud": 16.5833,
+    "Höjd (m)": 66,
+    "Aktiv": "Nej"
+  },
+  {
+    "Id": 151290,
+    "Namn": "Bjuröklubb",
+    "Latitud": 64.4806,
+    "Longitud": 21.5787,
+    "Höjd (m)": 36,
+    "Aktiv": "Nej"
+  },
+  {
+    "Id": 151280,
+    "Namn": "Bjuröklubb A",
+    "Latitud": 64.479937,
+    "Longitud": 21.575395,
+    "Höjd (m)": 35.41,
+    "Aktiv": "Ja"
+  },
+  {
+    "Id": 85160,
+    "Namn": "Bjärka-Säby",
+    "Latitud": 58.2662,
+    "Longitud": 15.7431,
+    "Höjd (m)": 100,
+    "Aktiv": "Nej"
+  },
+  {
+    "Id": 53650,
+    "Namn": "Björka",
+    "Latitud": 55.7,
+    "Longitud": 13.6333,
+    "Höjd (m)": 32,
+    "Aktiv": "Nej"
+  },
+  {
+    "Id": 142030,
+    "Namn": "Björkede",
+    "Latitud": 64.0432,
+    "Longitud": 12.9414,
+    "Höjd (m)": 451,
+    "Aktiv": "Nej"
+  },
+  {
+    "Id": 163680,
+    "Namn": "Björkfors",
+    "Latitud": 65.9166,
+    "Longitud": 23.4666,
+    "Höjd (m)": 10,
+    "Aktiv": "Nej"
+  },
+  {
+    "Id": 107040,
+    "Namn": "Björklinge",
+    "Latitud": 60.0514,
+    "Longitud": 17.5667,
+    "Höjd (m)": 31,
+    "Aktiv": "Nej"
+  },
+  {
+    "Id": 178820,
+    "Namn": "Björkudden",
+    "Latitud": 67.3956,
+    "Longitud": 18.7156,
+    "Höjd (m)": 376,
+    "Aktiv": "Ja"
+  },
+  {
+    "Id": 83640,
+    "Namn": "Björnegården",
+    "Latitud": 58.5166,
+    "Longitud": 13.0666,
+    "Höjd (m)": 75,
+    "Aktiv": "Nej"
+  },
+  {
+    "Id": 155710,
+    "Namn": "Blaikliden",
+    "Latitud": 65.0464,
+    "Longitud": 15.7486,
+    "Höjd (m)": 520,
+    "Aktiv": "Nej"
+  },
+  {
+    "Id": 75140,
+    "Namn": "Blankaström",
+    "Latitud": 57.2166,
+    "Longitud": 15.9166,
+    "Höjd (m)": 80,
+    "Aktiv": "Nej"
+  },
+  {
+    "Id": 92170,
+    "Namn": "Blomskog",
+    "Latitud": 59.2891,
+    "Longitud": 12.0542,
+    "Höjd (m)": 110,
+    "Aktiv": "Nej"
+  },
+  {
+    "Id": 92130,
+    "Namn": "Blomskog A",
+    "Latitud": 59.221298,
+    "Longitud": 12.07544,
+    "Höjd (m)": 169.645,
+    "Aktiv": "Ja"
+  },
+  {
+    "Id": 132110,
+    "Namn": "Blåhammaren A",
+    "Latitud": 63.1864,
+    "Longitud": 12.1761,
+    "Höjd (m)": 1090,
+    "Aktiv": "Ja"
+  },
+  {
+    "Id": 78050,
+    "Namn": "Bobbenarve",
+    "Latitud": 57.0333,
+    "Longitud": 18.2833,
+    "Höjd (m)": 8,
+    "Aktiv": "Nej"
+  },
+  {
+    "Id": 161940,
+    "Namn": "Boden Mo",
+    "Latitud": 65.8151,
+    "Longitud": 21.6396,
+    "Höjd (m)": 25,
+    "Aktiv": "Ja"
+  },
+  {
+    "Id": 170630,
+    "Namn": "Bodträskfors",
+    "Latitud": 66.0792,
+    "Longitud": 20.925,
+    "Höjd (m)": 30,
+    "Aktiv": "Nej"
+  },
+  {
+    "Id": 155900,
+    "Namn": "Boksjö",
+    "Latitud": 65.6772,
+    "Longitud": 15.8245,
+    "Höjd (m)": 475,
+    "Aktiv": "Nej"
+  },
+  {
+    "Id": 72400,
+    "Namn": "Bollebygd",
+    "Latitud": 57.661,
+    "Longitud": 12.5521,
+    "Höjd (m)": 65,
+    "Aktiv": "Nej"
+  },
+  {
+    "Id": 54300,
+    "Namn": "Bollerup",
+    "Latitud": 55.492614,
+    "Longitud": 14.039535,
+    "Höjd (m)": 57.568,
+    "Aktiv": "Nej"
+  },
+  {
+    "Id": 83170,
+    "Namn": "Borgunda",
+    "Latitud": 58.288,
+    "Longitud": 13.7995,
+    "Höjd (m)": 181,
+    "Aktiv": "Nej"
+  },
+  {
+    "Id": 105310,
+    "Namn": "Borlänge",
+    "Latitud": 60.502,
+    "Longitud": 15.4606,
+    "Höjd (m)": 120,
+    "Aktiv": "Nej"
+  },
+  {
+    "Id": 105280,
+    "Namn": "Borlänge Aut",
+    "Latitud": 60.4889,
+    "Longitud": 15.4324,
+    "Höjd (m)": 140,
+    "Aktiv": "Nej"
+  },
+  {
+    "Id": 105260,
+    "Namn": "Borlänge Flygplats",
+    "Latitud": 60.4294,
+    "Longitud": 15.5079,
+    "Höjd (m)": 152,
+    "Aktiv": "Ja"
+  },
+  {
+    "Id": 72450,
+    "Namn": "Borås",
+    "Latitud": 57.7611,
+    "Longitud": 12.9493,
+    "Höjd (m)": 135,
+    "Aktiv": "Ja"
+  },
+  {
+    "Id": 102390,
+    "Namn": "Brattmon V",
+    "Latitud": 60.75686,
+    "Longitud": 12.77226,
+    "Höjd (m)": 199,
+    "Aktiv": "Ja"
+  },
+  {
+    "Id": 138270,
+    "Namn": "Bredbyn",
+    "Latitud": 63.4608,
+    "Longitud": 18.0592,
+    "Höjd (m)": 85,
+    "Aktiv": "Nej"
+  },
+  {
+    "Id": 91130,
+    "Namn": "Bredviken",
+    "Latitud": 59.2184,
+    "Longitud": 11.9858,
+    "Höjd (m)": 100,
+    "Aktiv": "Nej"
+  },
+  {
+    "Id": 96640,
+    "Namn": "Broddbo",
+    "Latitud": 59.982905033725366,
+    "Longitud": 16.46339931900027,
+    "Höjd (m)": 31,
+    "Aktiv": "Nej"
+  },
+  {
+    "Id": 106040,
+    "Namn": "Brovallen",
+    "Latitud": 60.098908,
+    "Longitud": 16.30259,
+    "Höjd (m)": 100.154,
+    "Aktiv": "Ja"
+  },
+  {
+    "Id": 92370,
+    "Namn": "Brunsberg",
+    "Latitud": 59.6166,
+    "Longitud": 12.9833,
+    "Höjd (m)": 70,
+    "Aktiv": "Nej"
+  },
+  {
+    "Id": 127130,
+    "Namn": "Brämön A",
+    "Latitud": 62.219794,
+    "Longitud": 17.739043,
+    "Höjd (m)": 18.13,
+    "Aktiv": "Ja"
+  },
+  {
+    "Id": 161930,
+    "Namn": "Brännbergs försöksgård",
+    "Latitud": 65.8,
+    "Longitud": 21.2666,
+    "Höjd (m)": 88,
+    "Aktiv": "Nej"
+  },
+  {
+    "Id": 145450,
+    "Namn": "Brännåkersfjället V",
+    "Latitud": 64.7507,
+    "Longitud": 15.8307,
+    "Höjd (m)": 630,
+    "Aktiv": "Nej"
+  },
+  {
+    "Id": 82640,
+    "Namn": "Brålanda",
+    "Latitud": 58.5666,
+    "Longitud": 12.3666,
+    "Höjd (m)": 65,
+    "Aktiv": "Nej"
+  },
+  {
+    "Id": 157870,
+    "Namn": "Buresjön A",
+    "Latitud": 65.557969,
+    "Longitud": 17.855422,
+    "Höjd (m)": 394.05,
+    "Aktiv": "Ja"
+  },
+  {
+    "Id": 78240,
+    "Namn": "Buttle",
+    "Latitud": 57.4034,
+    "Longitud": 18.5297,
+    "Höjd (m)": 45,
+    "Aktiv": "Nej"
+  },
+  {
+    "Id": 133030,
+    "Namn": "Bydalen V",
+    "Latitud": 63.044,
+    "Longitud": 13.8907,
+    "Höjd (m)": 1000,
+    "Aktiv": "Nej"
+  },
+  {
+    "Id": 150210,
+    "Namn": "Bygdsiljum",
+    "Latitud": 64.35,
+    "Longitud": 20.5,
+    "Höjd (m)": 131,
+    "Aktiv": "Nej"
+  },
+  {
+    "Id": 84620,
+    "Namn": "Bällefors",
+    "Latitud": 58.5833,
+    "Longitud": 14.1166,
+    "Höjd (m)": 90,
+    "Aktiv": "Nej"
+  },
+  {
+    "Id": 62600,
+    "Namn": "Båstad",
+    "Latitud": 56.45002488800973,
+    "Longitud": 12.797382561816,
+    "Höjd (m)": 9,
+    "Aktiv": "Nej"
+  },
+  {
+    "Id": 136610,
+    "Namn": "Bölestrand",
+    "Latitud": 63.1333,
+    "Longitud": 16.15,
+    "Höjd (m)": 220,
+    "Aktiv": "Nej"
+  },
+  {
+    "Id": 123460,
+    "Namn": "Börtnan A",
+    "Latitud": 62.754813,
+    "Longitud": 13.842737,
+    "Höjd (m)": 467.246,
+    "Aktiv": "Ja"
+  },
+  {
+    "Id": 94390,
+    "Namn": "Daglösen A",
+    "Latitud": 59.661182,
+    "Longitud": 14.180272,
+    "Höjd (m)": 133.077,
+    "Aktiv": "Ja"
+  },
+  {
+    "Id": 115630,
+    "Namn": "Dalfors",
+    "Latitud": 61.2139,
+    "Longitud": 15.4083,
+    "Höjd (m)": 236,
+    "Aktiv": "Nej"
+  },
+  {
+    "Id": 160600,
+    "Namn": "Dalliden",
+    "Latitud": 65.01573508044659,
+    "Longitud": 20.31265813190601,
+    "Höjd (m)": 330,
+    "Aktiv": "Nej"
+  },
+  {
+    "Id": 73430,
+    "Namn": "Dalsjöfors",
+    "Latitud": 57.722,
+    "Longitud": 13.1238,
+    "Höjd (m)": 257,
+    "Aktiv": "Nej"
+  },
+  {
+    "Id": 115040,
+    "Namn": "Dalstuga",
+    "Latitud": 61.0666,
+    "Longitud": 15.7,
+    "Höjd (m)": 240,
+    "Aktiv": "Nej"
+  },
+  {
+    "Id": 156850,
+    "Namn": "Danasjö",
+    "Latitud": 65.5374,
+    "Longitud": 16.5393,
+    "Höjd (m)": 652,
+    "Aktiv": "Nej"
+  },
+  {
+    "Id": 107120,
+    "Namn": "Dannemora",
+    "Latitud": 60.2026,
+    "Longitud": 17.9049,
+    "Höjd (m)": 41,
+    "Aktiv": "Nej"
+  },
+  {
+    "Id": 94140,
+    "Namn": "Degerfors",
+    "Latitud": 59.2333,
+    "Longitud": 14.45,
+    "Höjd (m)": 85,
+    "Aktiv": "Nej"
+  },
+  {
+    "Id": 116480,
+    "Namn": "Delsbo",
+    "Latitud": 61.7854,
+    "Longitud": 16.5505,
+    "Höjd (m)": 88,
+    "Aktiv": "Nej"
+  },
+  {
+    "Id": 116490,
+    "Namn": "Delsbo A",
+    "Latitud": 61.826408,
+    "Longitud": 16.538549,
+    "Höjd (m)": 70.667,
+    "Aktiv": "Ja"
+  },
+  {
+    "Id": 156770,
+    "Namn": "Dikanäs",
+    "Latitud": 65.2337,
+    "Longitud": 16.0018,
+    "Höjd (m)": 484,
+    "Aktiv": "Nej"
+  },
+  {
+    "Id": 156790,
+    "Namn": "Dikanäs Skansnäs",
+    "Latitud": 65.32350000000001,
+    "Longitud": 16.0353,
+    "Höjd (m)": 525,
+    "Aktiv": "Nej"
+  },
+  {
+    "Id": 81320,
+    "Namn": "Dingle",
+    "Latitud": 58.5289,
+    "Longitud": 11.5724,
+    "Höjd (m)": 20,
+    "Aktiv": "Nej"
+  },
+  {
+    "Id": 91370,
+    "Namn": "Djurskog",
+    "Latitud": 59.6072,
+    "Longitud": 11.9321,
+    "Höjd (m)": 280,
+    "Aktiv": "Nej"
+  },
+  {
+    "Id": 105640,
+    "Namn": "Domnarvet",
+    "Latitud": 60.5,
+    "Longitud": 15.45,
+    "Höjd (m)": 128,
+    "Aktiv": "Nej"
+  },
+  {
+    "Id": 75120,
+    "Namn": "Drageryd",
+    "Latitud": 57.2001,
+    "Longitud": 15.9666,
+    "Höjd (m)": 77,
+    "Aktiv": "Nej"
+  },
+  {
+    "Id": 123060,
+    "Namn": "Dravagen A",
+    "Latitud": 62.09357,
+    "Longitud": 13.60862,
+    "Höjd (m)": 566.642,
+    "Aktiv": "Ja"
+  },
+  {
+    "Id": 96120,
+    "Namn": "Dunker",
+    "Latitud": 59.1469,
+    "Longitud": 16.8536,
+    "Höjd (m)": 35,
+    "Aktiv": "Nej"
+  },
+  {
+    "Id": 132240,
+    "Namn": "Duved",
+    "Latitud": 63.4,
+    "Longitud": 12.9333,
+    "Höjd (m)": 385,
+    "Aktiv": "Nej"
+  },
+  {
+    "Id": 116240,
+    "Namn": "Dönje",
+    "Latitud": 61.395,
+    "Longitud": 16.4145,
+    "Höjd (m)": 85,
+    "Aktiv": "Nej"
+  },
+  {
+    "Id": 103050,
+    "Namn": "Edebäck",
+    "Latitud": 60.0666,
+    "Longitud": 13.55,
+    "Höjd (m)": 155,
+    "Aktiv": "Nej"
+  },
+  {
+    "Id": 132590,
+    "Namn": "Edevik",
+    "Latitud": 63.9812,
+    "Longitud": 12.8709,
+    "Höjd (m)": 425,
+    "Aktiv": "Nej"
+  },
+  {
+    "Id": 115230,
+    "Namn": "Edsbyn",
+    "Latitud": 61.378400000000006,
+    "Longitud": 15.8352,
+    "Höjd (m)": 161,
+    "Aktiv": "Nej"
+  },
+  {
+    "Id": 115220,
+    "Namn": "Edsbyn A",
+    "Latitud": 61.360655,
+    "Longitud": 15.714382,
+    "Höjd (m)": 183.648,
+    "Aktiv": "Ja"
+  },
+  {
+    "Id": 62530,
+    "Namn": "Eftra-Broen V",
+    "Latitud": 56.86254,
+    "Longitud": 12.6628,
+    "Höjd (m)": 10,
+    "Aktiv": "Ja"
+  },
+  {
+    "Id": 107440,
+    "Namn": "Eggegrund A",
+    "Latitud": 60.729808,
+    "Longitud": 17.55835,
+    "Höjd (m)": 3.731,
+    "Aktiv": "Ja"
+  },
+  {
+    "Id": 53710,
+    "Namn": "Ekebo",
+    "Latitud": 55.95,
+    "Longitud": 13.1333,
+    "Höjd (m)": 80,
+    "Aktiv": "Nej"
+  },
+  {
+    "Id": 64330,
+    "Namn": "Ekefors",
+    "Latitud": 56.5546,
+    "Longitud": 14.7571,
+    "Höjd (m)": 145,
+    "Aktiv": "Nej"
+  },
+  {
+    "Id": 66470,
+    "Namn": "Ekerum",
+    "Latitud": 56.7849,
+    "Longitud": 16.5812,
+    "Höjd (m)": 40,
+    "Aktiv": "Nej"
+  },
+  {
+    "Id": 96140,
+    "Namn": "Eklången",
+    "Latitud": 59.2358,
+    "Longitud": 16.7429,
+    "Höjd (m)": 35,
+    "Aktiv": "Nej"
+  },
+  {
+    "Id": 98630,
+    "Namn": "Ekskogen",
+    "Latitud": 59.63299891047581,
+    "Longitud": 18.22975983642804,
+    "Höjd (m)": 4,
+    "Aktiv": "Nej"
+  },
+  {
+    "Id": 97370,
+    "Namn": "Enköping Mo",
+    "Latitud": 59.6557,
+    "Longitud": 17.1121,
+    "Höjd (m)": 26,
+    "Aktiv": "Ja"
+  },
+  {
+    "Id": 82380,
+    "Namn": "Erikstad",
+    "Latitud": 58.6336,
+    "Longitud": 12.4129,
+    "Höjd (m)": 65,
+    "Aktiv": "Nej"
+  },
+  {
+    "Id": 82350,
+    "Namn": "Erikstad-Bergarud V",
+    "Latitud": 58.60033,
+    "Longitud": 12.41302,
+    "Höjd (m)": 59,
+    "Aktiv": "Ja"
+  },
+  {
+    "Id": 96230,
+    "Namn": "Eskilstuna",
+    "Latitud": 59.3867,
+    "Longitud": 16.4647,
+    "Höjd (m)": 8,
+    "Aktiv": "Nej"
+  },
+  {
+    "Id": 96190,
+    "Namn": "Eskilstuna A",
+    "Latitud": 59.382072,
+    "Longitud": 16.452618,
+    "Höjd (m)": 12.577,
+    "Aktiv": "Ja"
+  },
+  {
+    "Id": 181970,
+    "Namn": "Esrange",
+    "Latitud": 67.89110000000001,
+    "Longitud": 21.084600000000002,
+    "Höjd (m)": 328,
+    "Aktiv": "Ja"
+  },
+  {
+    "Id": 63470,
+    "Namn": "Exens flygplats",
+    "Latitud": 56.6778,
+    "Longitud": 13.7792,
+    "Höjd (m)": 127,
+    "Aktiv": "Nej"
+  },
+  {
+    "Id": 72120,
+    "Namn": "Fagered",
+    "Latitud": 57.1978,
+    "Longitud": 12.8129,
+    "Höjd (m)": 100,
+    "Aktiv": "Nej"
+  },
+  {
+    "Id": 107330,
+    "Namn": "Fagerviken",
+    "Latitud": 60.542,
+    "Longitud": 17.7478,
+    "Höjd (m)": 5,
+    "Aktiv": "Nej"
+  },
+  {
+    "Id": 86090,
+    "Namn": "Falerum",
+    "Latitud": 58.1425,
+    "Longitud": 16.2102,
+    "Höjd (m)": 80,
+    "Aktiv": "Nej"
+  },
+  {
+    "Id": 62520,
+    "Namn": "Falkenberg",
+    "Latitud": 56.8994,
+    "Longitud": 12.4798,
+    "Höjd (m)": 5,
+    "Aktiv": "Nej"
+  },
+  {
+    "Id": 83090,
+    "Namn": "Falköping",
+    "Latitud": 58.1584,
+    "Longitud": 13.5397,
+    "Höjd (m)": 205,
+    "Aktiv": "Nej"
+  },
+  {
+    "Id": 52230,
+    "Namn": "Falsterbo",
+    "Latitud": 55.3836,
+    "Longitud": 12.8203,
+    "Höjd (m)": 5,
+    "Aktiv": "Ja"
+  },
+  {
+    "Id": 52240,
+    "Namn": "Falsterbo A",
+    "Latitud": 55.383698,
+    "Longitud": 12.8166,
+    "Höjd (m)": 1.575,
+    "Aktiv": "Ja"
+  },
+  {
+    "Id": 105370,
+    "Namn": "Falun-Lugnet",
+    "Latitud": 60.619,
+    "Longitud": 15.6603,
+    "Höjd (m)": 140,
+    "Aktiv": "Ja"
+  },
+  {
+    "Id": 98620,
+    "Namn": "Farsta",
+    "Latitud": 59.3165,
+    "Longitud": 18.3664,
+    "Höjd (m)": 6,
+    "Aktiv": "Nej"
+  },
+  {
+    "Id": 162800,
+    "Namn": "Farstugrunden Aut",
+    "Latitud": 65.33,
+    "Longitud": 22.75,
+    "Höjd (m)": 1,
+    "Aktiv": "Nej"
+  },
+  {
+    "Id": 95320,
+    "Namn": "Fellingsbro-Finnåker",
+    "Latitud": 59.5345,
+    "Longitud": 15.5857,
+    "Höjd (m)": 51,
+    "Aktiv": "Nej"
+  },
+  {
+    "Id": 94430,
+    "Namn": "Filipstad",
+    "Latitud": 59.7166,
+    "Longitud": 14.1666,
+    "Höjd (m)": 141,
+    "Aktiv": "Nej"
+  },
+  {
+    "Id": 107140,
+    "Namn": "Film A",
+    "Latitud": 60.235807,
+    "Longitud": 17.90432,
+    "Höjd (m)": 33.381,
+    "Aktiv": "Ja"
+  },
+  {
+    "Id": 107130,
+    "Namn": "Films Kyrkby",
+    "Latitud": 60.2357,
+    "Longitud": 17.9072,
+    "Höjd (m)": 39,
+    "Aktiv": "Nej"
+  },
+  {
+    "Id": 125020,
+    "Namn": "Finneby",
+    "Latitud": 62.0424,
+    "Longitud": 15.4655,
+    "Höjd (m)": 259,
+    "Aktiv": "Nej"
+  },
+  {
+    "Id": 118610,
+    "Namn": "Finngrundets Fyrskepp",
+    "Latitud": 61.0666,
+    "Longitud": 18.6833,
+    "Höjd (m)": 5,
+    "Aktiv": "Nej"
+  },
+  {
+    "Id": 85410,
+    "Namn": "Finspång",
+    "Latitud": 58.7104,
+    "Longitud": 15.8215,
+    "Höjd (m)": 41,
+    "Aktiv": "Nej"
+  },
+  {
+    "Id": 122360,
+    "Namn": "Fjällnäs",
+    "Latitud": 62.5772,
+    "Longitud": 12.2223,
+    "Höjd (m)": 780,
+    "Aktiv": "Nej"
+  },
+  {
+    "Id": 136491,
+    "Namn": "Fjällsjö",
+    "Latitud": 63.7972,
+    "Longitud": 16.4056,
+    "Höjd (m)": 215,
+    "Aktiv": "Nej"
+  },
+  {
+    "Id": 74420,
+    "Namn": "Flahult",
+    "Latitud": 57.689800000000005,
+    "Longitud": 14.1455,
+    "Höjd (m)": 224,
+    "Aktiv": "Nej"
+  },
+  {
+    "Id": 104390,
+    "Namn": "Flaten",
+    "Latitud": 60.651,
+    "Longitud": 14.4277,
+    "Höjd (m)": 296,
+    "Aktiv": "Nej"
+  },
+  {
+    "Id": 122430,
+    "Namn": "Flatruet V",
+    "Latitud": 62.72909,
+    "Longitud": 12.7264,
+    "Höjd (m)": 932,
+    "Aktiv": "Ja"
+  },
+  {
+    "Id": 96040,
+    "Namn": "Floda A",
+    "Latitud": 59.055828,
+    "Longitud": 16.394354,
+    "Höjd (m)": 31.337,
+    "Aktiv": "Ja"
+  },
+  {
+    "Id": 112510,
+    "Namn": "Flötningen",
+    "Latitud": 61.8526,
+    "Longitud": 12.2689,
+    "Höjd (m)": 670,
+    "Aktiv": "Nej"
+  },
+  {
+    "Id": 106100,
+    "Namn": "Folkärna",
+    "Latitud": 60.169,
+    "Longitud": 16.3125,
+    "Höjd (m)": 68,
+    "Aktiv": "Nej"
+  },
+  {
+    "Id": 137080,
+    "Namn": "Forse",
+    "Latitud": 63.146061,
+    "Longitud": 17.022256,
+    "Höjd (m)": 125.604,
+    "Aktiv": "Ja"
+  },
+  {
+    "Id": 93580,
+    "Namn": "Forshult",
+    "Latitud": 59.9445,
+    "Longitud": 13.5335,
+    "Höjd (m)": 110,
+    "Aktiv": "Nej"
+  },
+  {
+    "Id": 148050,
+    "Namn": "Fredrika",
+    "Latitud": 64.0763,
+    "Longitud": 18.419,
+    "Höjd (m)": 300,
+    "Aktiv": "Nej"
+  },
+  {
+    "Id": 148040,
+    "Namn": "Fredrika A",
+    "Latitud": 64.074384,
+    "Longitud": 18.361876,
+    "Höjd (m)": 327.684,
+    "Aktiv": "Ja"
+  },
+  {
+    "Id": 104090,
+    "Namn": "Fredriksberg",
+    "Latitud": 60.1418,
+    "Longitud": 14.2145,
+    "Höjd (m)": 305,
+    "Aktiv": "Ja"
+  },
+  {
+    "Id": 126630,
+    "Namn": "Fränsta",
+    "Latitud": 62.5,
+    "Longitud": 16.1833,
+    "Höjd (m)": 110,
+    "Aktiv": "Nej"
+  },
+  {
+    "Id": 126300,
+    "Namn": "Fränsta II",
+    "Latitud": 62.5165,
+    "Longitud": 16.2084,
+    "Höjd (m)": 110,
+    "Aktiv": "Nej"
+  },
+  {
+    "Id": 63530,
+    "Namn": "Fröslida",
+    "Latitud": 56.8666,
+    "Longitud": 13.0666,
+    "Höjd (m)": 70,
+    "Aktiv": "Nej"
+  },
+  {
+    "Id": 134110,
+    "Namn": "Frösön",
+    "Latitud": 63.1974,
+    "Longitud": 14.4863,
+    "Höjd (m)": 376,
+    "Aktiv": "Ja"
+  },
+  {
+    "Id": 134130,
+    "Namn": "Frösön D",
+    "Latitud": 63.1947,
+    "Longitud": 14.4898,
+    "Höjd (m)": 375,
+    "Aktiv": "Nej"
+  },
+  {
+    "Id": 151550,
+    "Namn": "Furuögrund",
+    "Latitud": 64.9112,
+    "Longitud": 21.2263,
+    "Höjd (m)": 10,
+    "Aktiv": "Nej"
+  },
+  {
+    "Id": 73390,
+    "Namn": "Fägerhult",
+    "Latitud": 57.6468,
+    "Longitud": 13.2369,
+    "Höjd (m)": 170,
+    "Aktiv": "Nej"
+  },
+  {
+    "Id": 84390,
+    "Namn": "Fägre",
+    "Latitud": 58.649300000000004,
+    "Longitud": 14.1265,
+    "Höjd (m)": 95,
+    "Aktiv": "Nej"
+  },
+  {
+    "Id": 160740,
+    "Namn": "Fällfors",
+    "Latitud": 65.1317,
+    "Longitud": 20.7891,
+    "Höjd (m)": 195,
+    "Aktiv": "Nej"
+  },
+  {
+    "Id": 160750,
+    "Namn": "Fällfors Mo",
+    "Latitud": 65.1089,
+    "Longitud": 20.7652,
+    "Höjd (m)": 195,
+    "Aktiv": "Nej"
+  },
+  {
+    "Id": 79580,
+    "Namn": "Fårö",
+    "Latitud": 57.8987,
+    "Longitud": 19.1592,
+    "Höjd (m)": 8,
+    "Aktiv": "Nej"
+  },
+  {
+    "Id": 78550,
+    "Namn": "Fårösund Ar A",
+    "Latitud": 57.916537,
+    "Longitud": 18.953317,
+    "Höjd (m)": 12.756,
+    "Aktiv": "Ja"
+  },
+  {
+    "Id": 134410,
+    "Namn": "Föllinge A",
+    "Latitud": 63.676114,
+    "Longitud": 14.604795,
+    "Höjd (m)": 361.8,
+    "Aktiv": "Ja"
+  },
+  {
+    "Id": 134460,
+    "Namn": "Föllinge-Vägskälet",
+    "Latitud": 63.7606,
+    "Longitud": 14.4323,
+    "Höjd (m)": 475,
+    "Aktiv": "Nej"
+  },
+  {
+    "Id": 94410,
+    "Namn": "Gammalkroppa",
+    "Latitud": 59.6833,
+    "Longitud": 14.3166,
+    "Höjd (m)": 200,
+    "Aktiv": "Nej"
+  },
+  {
+    "Id": 82030,
+    "Namn": "Garn",
+    "Latitud": 58.0492,
+    "Longitud": 12.1563,
+    "Höjd (m)": 15,
+    "Aktiv": "Nej"
+  },
+  {
+    "Id": 82110,
+    "Namn": "Gendalen",
+    "Latitud": 58.158197,
+    "Longitud": 12.644827,
+    "Höjd (m)": 87.63,
+    "Aktiv": "Nej"
+  },
+  {
+    "Id": 63340,
+    "Namn": "Genevad",
+    "Latitud": 56.5684,
+    "Longitud": 13.0338,
+    "Höjd (m)": 20,
+    "Aktiv": "Nej"
+  },
+  {
+    "Id": 155790,
+    "Namn": "Gielas A",
+    "Latitud": 65.326863,
+    "Longitud": 15.064473,
+    "Höjd (m)": 578.328,
+    "Aktiv": "Ja"
+  },
+  {
+    "Id": 73170,
+    "Namn": "Gislaved",
+    "Latitud": 57.2847,
+    "Longitud": 13.5324,
+    "Höjd (m)": 165,
+    "Aktiv": "Nej"
+  },
+  {
+    "Id": 135640,
+    "Namn": "Gisselås",
+    "Latitud": 63.7,
+    "Longitud": 15.3666,
+    "Höjd (m)": 320,
+    "Aktiv": "Nej"
+  },
+  {
+    "Id": 76420,
+    "Namn": "Gladhammar A",
+    "Latitud": 57.706792,
+    "Longitud": 16.452623,
+    "Höjd (m)": 35.277,
+    "Aktiv": "Ja"
+  },
+  {
+    "Id": 62550,
+    "Namn": "Glommen",
+    "Latitud": 56.9303,
+    "Longitud": 12.3579,
+    "Höjd (m)": 6,
+    "Aktiv": "Nej"
+  },
+  {
+    "Id": 159770,
+    "Namn": "Glommersträsk",
+    "Latitud": 65.276362,
+    "Longitud": 19.683854,
+    "Höjd (m)": 394.387,
+    "Aktiv": "Ja"
+  },
+  {
+    "Id": 85450,
+    "Namn": "Godegård",
+    "Latitud": 58.7936,
+    "Longitud": 15.1694,
+    "Höjd (m)": 130,
+    "Aktiv": "Nej"
+  },
+  {
+    "Id": 89240,
+    "Namn": "Gotska Sandön",
+    "Latitud": 58.3928,
+    "Longitud": 19.197,
+    "Höjd (m)": 12,
+    "Aktiv": "Nej"
+  },
+  {
+    "Id": 89230,
+    "Namn": "Gotska Sandön A",
+    "Latitud": 58.393938,
+    "Longitud": 19.193992,
+    "Höjd (m)": 15.911,
+    "Aktiv": "Ja"
+  },
+  {
+    "Id": 127600,
+    "Namn": "Gran",
+    "Latitud": 62.0166,
+    "Longitud": 17.6333,
+    "Höjd (m)": 20,
+    "Aktiv": "Nej"
+  },
+  {
+    "Id": 103290,
+    "Namn": "Granåbron",
+    "Latitud": 60.4403,
+    "Longitud": 13.8944,
+    "Höjd (m)": 310,
+    "Aktiv": "Nej"
+  },
+  {
+    "Id": 72070,
+    "Namn": "Grimeton",
+    "Latitud": 57.1088,
+    "Longitud": 12.394,
+    "Höjd (m)": 35,
+    "Aktiv": "Nej"
+  },
+  {
+    "Id": 112170,
+    "Namn": "Grundforsen",
+    "Latitud": 61.2797,
+    "Longitud": 12.8568,
+    "Höjd (m)": 412,
+    "Aktiv": "Nej"
+  },
+  {
+    "Id": 108300,
+    "Namn": "Grundkallen",
+    "Latitud": 60.5,
+    "Longitud": 18.8666,
+    "Höjd (m)": 23,
+    "Aktiv": "Nej"
+  },
+  {
+    "Id": 84610,
+    "Namn": "Gränna",
+    "Latitud": 58.0333,
+    "Longitud": 14.4666,
+    "Höjd (m)": 130,
+    "Aktiv": "Nej"
+  },
+  {
+    "Id": 105360,
+    "Namn": "Gråda Kraftverk",
+    "Latitud": 60.6046,
+    "Longitud": 15.0146,
+    "Höjd (m)": 155,
+    "Aktiv": "Nej"
+  },
+  {
+    "Id": 95380,
+    "Namn": "Grönbo",
+    "Latitud": 59.6396,
+    "Longitud": 15.418,
+    "Höjd (m)": 85,
+    "Aktiv": "Nej"
+  },
+  {
+    "Id": 99150,
+    "Namn": "Grönskär",
+    "Latitud": 59.2792,
+    "Longitud": 19.0306,
+    "Höjd (m)": 9,
+    "Aktiv": "Nej"
+  },
+  {
+    "Id": 122610,
+    "Namn": "Grövelsjön",
+    "Latitud": 62.0991,
+    "Longitud": 12.3153,
+    "Höjd (m)": 815,
+    "Aktiv": "Nej"
+  },
+  {
+    "Id": 145130,
+    "Namn": "Gubbhögen A",
+    "Latitud": 64.217157,
+    "Longitud": 15.552907,
+    "Höjd (m)": 310.221,
+    "Aktiv": "Ja"
+  },
+  {
+    "Id": 147570,
+    "Namn": "Gunnarn",
+    "Latitud": 65.0074,
+    "Longitud": 17.7085,
+    "Höjd (m)": 280,
+    "Aktiv": "Nej"
+  },
+  {
+    "Id": 147560,
+    "Namn": "Gunnarn A",
+    "Latitud": 65.009413,
+    "Longitud": 17.699266,
+    "Höjd (m)": 275.491,
+    "Aktiv": "Ja"
+  },
+  {
+    "Id": 76430,
+    "Namn": "Gunnebo",
+    "Latitud": 57.7166,
+    "Longitud": 16.5333,
+    "Höjd (m)": 18,
+    "Aktiv": "Nej"
+  },
+  {
+    "Id": 87360,
+    "Namn": "Gustaf Dalen A",
+    "Latitud": 58.5929,
+    "Longitud": 17.4704,
+    "Höjd (m)": 25,
+    "Aktiv": "Nej"
+  },
+  {
+    "Id": 98180,
+    "Namn": "Gustavsberg",
+    "Latitud": 59.3226,
+    "Longitud": 18.3725,
+    "Höjd (m)": 10,
+    "Aktiv": "Nej"
+  },
+  {
+    "Id": 103090,
+    "Namn": "Gustavsfors",
+    "Latitud": 60.1514,
+    "Longitud": 13.7975,
+    "Höjd (m)": 190,
+    "Aktiv": "Nej"
+  },
+  {
+    "Id": 103100,
+    "Namn": "Gustavsfors A",
+    "Latitud": 60.153272,
+    "Longitud": 13.79903,
+    "Höjd (m)": 187.153,
+    "Aktiv": "Ja"
+  },
+  {
+    "Id": 125490,
+    "Namn": "Gustavsnäs D",
+    "Latitud": 62.8108,
+    "Longitud": 15.9333,
+    "Höjd (m)": 300,
+    "Aktiv": "Nej"
+  },
+  {
+    "Id": 144300,
+    "Namn": "Gäddede",
+    "Latitud": 64.5037,
+    "Longitud": 14.1596,
+    "Höjd (m)": 328,
+    "Aktiv": "Nej"
+  },
+  {
+    "Id": 144310,
+    "Namn": "Gäddede A",
+    "Latitud": 64.504446,
+    "Longitud": 14.220701,
+    "Höjd (m)": 553.025,
+    "Aktiv": "Ja"
+  },
+  {
+    "Id": 180760,
+    "Namn": "Gällivare A",
+    "Latitud": 67.140743,
+    "Longitud": 20.641312,
+    "Höjd (m)": 358.975,
+    "Aktiv": "Ja"
+  },
+  {
+    "Id": 180740,
+    "Namn": "Gällivare Flygplats",
+    "Latitud": 67.1358,
+    "Longitud": 20.8144,
+    "Höjd (m)": 312,
+    "Aktiv": "Nej"
+  },
+  {
+    "Id": 54650,
+    "Namn": "Gärsnäs",
+    "Latitud": 55.55,
+    "Longitud": 14.1833,
+    "Höjd (m)": 45,
+    "Aktiv": "Nej"
+  },
+  {
+    "Id": 106630,
+    "Namn": "Gästrike-Hammarby IV",
+    "Latitud": 60.55,
+    "Longitud": 16.5833,
+    "Höjd (m)": 70,
+    "Aktiv": "Nej"
+  },
+  {
+    "Id": 107400,
+    "Namn": "Gävle",
+    "Latitud": 60.6537,
+    "Longitud": 17.1693,
+    "Höjd (m)": 16,
+    "Aktiv": "Nej"
+  },
+  {
+    "Id": 107420,
+    "Namn": "Gävle A",
+    "Latitud": 60.716082,
+    "Longitud": 17.160666,
+    "Höjd (m)": 16.125,
+    "Aktiv": "Ja"
+  },
+  {
+    "Id": 84520,
+    "Namn": "Gårdsjö A",
+    "Latitud": 58.876807,
+    "Longitud": 14.387526,
+    "Höjd (m)": 210.675,
+    "Aktiv": "Ja"
+  },
+  {
+    "Id": 74350,
+    "Namn": "Gödeberg",
+    "Latitud": 57.5666,
+    "Longitud": 14.6333,
+    "Höjd (m)": 350,
+    "Aktiv": "Nej"
+  },
+  {
+    "Id": 72630,
+    "Namn": "Göteborg",
+    "Latitud": 57.69962180561998,
+    "Longitud": 11.967325204171052,
+    "Höjd (m)": 30,
+    "Aktiv": "Nej"
+  },
+  {
+    "Id": 71420,
+    "Namn": "Göteborg A",
+    "Latitud": 57.715642,
+    "Longitud": 11.992377,
+    "Höjd (m)": 3.038,
+    "Aktiv": "Ja"
+  },
+  {
+    "Id": 74180,
+    "Namn": "Hagshult Mo",
+    "Latitud": 57.2926,
+    "Longitud": 14.1399,
+    "Höjd (m)": 169,
+    "Aktiv": "Ja"
+  },
+  {
+    "Id": 62260,
+    "Namn": "Hallands Väderö A",
+    "Latitud": 56.449629,
+    "Longitud": 12.545327,
+    "Höjd (m)": 9.172,
+    "Aktiv": "Ja"
+  },
+  {
+    "Id": 135460,
+    "Namn": "Hallhåxåsen A",
+    "Latitud": 63.768458,
+    "Longitud": 15.327907,
+    "Höjd (m)": 375.391,
+    "Aktiv": "Ja"
+  },
+  {
+    "Id": 135440,
+    "Namn": "Hallviken",
+    "Latitud": 63.73,
+    "Longitud": 15.5,
+    "Höjd (m)": 337,
+    "Aktiv": "Nej"
+  },
+  {
+    "Id": 62400,
+    "Namn": "Halmstad",
+    "Latitud": 56.6737,
+    "Longitud": 12.9242,
+    "Höjd (m)": 24,
+    "Aktiv": "Ja"
+  },
+  {
+    "Id": 62390,
+    "Namn": "Halmstad",
+    "Latitud": 56.675,
+    "Longitud": 12.9247,
+    "Höjd (m)": 25,
+    "Aktiv": "Nej"
+  },
+  {
+    "Id": 62410,
+    "Namn": "Halmstad Flygflottilj",
+    "Latitud": 56.6833,
+    "Longitud": 12.8333,
+    "Höjd (m)": 30,
+    "Aktiv": "Nej"
+  },
+  {
+    "Id": 54310,
+    "Namn": "Hammenhög",
+    "Latitud": 55.5049,
+    "Longitud": 14.1589,
+    "Höjd (m)": 50,
+    "Aktiv": "Nej"
+  },
+  {
+    "Id": 114410,
+    "Namn": "Hamra A",
+    "Latitud": 61.659866,
+    "Longitud": 14.991798,
+    "Höjd (m)": 453.588,
+    "Aktiv": "Ja"
+  },
+  {
+    "Id": 64020,
+    "Namn": "Hanö A",
+    "Latitud": 56.0135,
+    "Longitud": 14.846294,
+    "Höjd (m)": 58.622,
+    "Aktiv": "Ja"
+  },
+  {
+    "Id": 163950,
+    "Namn": "Haparanda",
+    "Latitud": 65.8367,
+    "Longitud": 24.113,
+    "Höjd (m)": 5,
+    "Aktiv": "Nej"
+  },
+  {
+    "Id": 163960,
+    "Namn": "Haparanda A",
+    "Latitud": 65.8237,
+    "Longitud": 24.111235,
+    "Höjd (m)": 13.243,
+    "Aktiv": "Ja"
+  },
+  {
+    "Id": 170670,
+    "Namn": "Harads",
+    "Latitud": 66.0833,
+    "Longitud": 20.9666,
+    "Höjd (m)": 35,
+    "Aktiv": "Nej"
+  },
+  {
+    "Id": 161780,
+    "Namn": "Haraholmen",
+    "Latitud": 65.2391,
+    "Longitud": 21.6317,
+    "Höjd (m)": 4,
+    "Aktiv": "Nej"
+  },
+  {
+    "Id": 180710,
+    "Namn": "Harrträsk",
+    "Latitud": 67.0333,
+    "Longitud": 20.7,
+    "Höjd (m)": 410,
+    "Aktiv": "Nej"
+  },
+  {
+    "Id": 87150,
+    "Namn": "Harstena",
+    "Latitud": 58.2502,
+    "Longitud": 17.0095,
+    "Höjd (m)": 5,
+    "Aktiv": "Nej"
+  },
+  {
+    "Id": 87140,
+    "Namn": "Harstena A",
+    "Latitud": 58.2505,
+    "Longitud": 17.0106,
+    "Höjd (m)": 14,
+    "Aktiv": "Ja"
+  },
+  {
+    "Id": 62080,
+    "Namn": "Hasslarp",
+    "Latitud": 56.1333,
+    "Longitud": 12.8166,
+    "Höjd (m)": 10,
+    "Aktiv": "Nej"
+  },
+  {
+    "Id": 123250,
+    "Namn": "Hede",
+    "Latitud": 62.4107,
+    "Longitud": 13.5184,
+    "Höjd (m)": 430,
+    "Aktiv": "Nej"
+  },
+  {
+    "Id": 74410,
+    "Namn": "Hedenstorp",
+    "Latitud": 57.7653,
+    "Longitud": 14.1111,
+    "Höjd (m)": 210,
+    "Aktiv": "Nej"
+  },
+  {
+    "Id": 123340,
+    "Namn": "Hedeviken",
+    "Latitud": 62.4112,
+    "Longitud": 13.6748,
+    "Höjd (m)": 410,
+    "Aktiv": "Ja"
+  },
+  {
+    "Id": 161650,
+    "Namn": "Hednoret",
+    "Latitud": 65.8333,
+    "Longitud": 21.55,
+    "Höjd (m)": 27,
+    "Aktiv": "Nej"
+  },
+  {
+    "Id": 62030,
+    "Namn": "Helsingborg",
+    "Latitud": 56.0431,
+    "Longitud": 12.6906,
+    "Höjd (m)": 5,
+    "Aktiv": "Nej"
+  },
+  {
+    "Id": 62040,
+    "Namn": "Helsingborg A",
+    "Latitud": 56.0304,
+    "Longitud": 12.7653,
+    "Höjd (m)": 43,
+    "Aktiv": "Ja"
+  },
+  {
+    "Id": 155940,
+    "Namn": "Hemavan",
+    "Latitud": 65.7968,
+    "Longitud": 15.1045,
+    "Höjd (m)": 475,
+    "Aktiv": "Nej"
+  },
+  {
+    "Id": 155970,
+    "Namn": "Hemavan Flygplats",
+    "Latitud": 65.8077,
+    "Longitud": 15.0854,
+    "Höjd (m)": 458,
+    "Aktiv": "Ja"
+  },
+  {
+    "Id": 155960,
+    "Namn": "Hemavan-Gierevarto A",
+    "Latitud": 65.781303,
+    "Longitud": 15.062329,
+    "Höjd (m)": 793.504,
+    "Aktiv": "Ja"
+  },
+  {
+    "Id": 138400,
+    "Namn": "Hemling",
+    "Latitud": 63.6574,
+    "Longitud": 18.5318,
+    "Höjd (m)": 190,
+    "Aktiv": "Nej"
+  },
+  {
+    "Id": 138390,
+    "Namn": "Hemling A",
+    "Latitud": 63.650327,
+    "Longitud": 18.546578,
+    "Höjd (m)": 182.186,
+    "Aktiv": "Ja"
+  },
+  {
+    "Id": 78140,
+    "Namn": "Hemse",
+    "Latitud": 57.243655,
+    "Longitud": 18.378776,
+    "Höjd (m)": 22.072,
+    "Aktiv": "Nej"
+  },
+  {
+    "Id": 85210,
+    "Namn": "Herrberga",
+    "Latitud": 58.3935,
+    "Longitud": 15.2184,
+    "Höjd (m)": 90,
+    "Aktiv": "Nej"
+  },
+  {
+    "Id": 78250,
+    "Namn": "Herrvik",
+    "Latitud": 57.4208,
+    "Longitud": 18.9174,
+    "Höjd (m)": 5,
+    "Aktiv": "Nej"
+  },
+  {
+    "Id": 73230,
+    "Namn": "Hestra D",
+    "Latitud": 57.4669,
+    "Longitud": 13.6319,
+    "Höjd (m)": 220,
+    "Aktiv": "Nej"
+  },
+  {
+    "Id": 52560,
+    "Namn": "Hilleshög",
+    "Latitud": 55.925,
+    "Longitud": 12.8472,
+    "Höjd (m)": 60,
+    "Aktiv": "Nej"
+  },
+  {
+    "Id": 68550,
+    "Namn": "Hoburg",
+    "Latitud": 56.9222,
+    "Longitud": 18.1471,
+    "Höjd (m)": 38,
+    "Aktiv": "Nej"
+  },
+  {
+    "Id": 68560,
+    "Namn": "Hoburg A",
+    "Latitud": 56.920945,
+    "Longitud": 18.150568,
+    "Höjd (m)": 34.118,
+    "Aktiv": "Ja"
+  },
+  {
+    "Id": 86200,
+    "Namn": "Holma",
+    "Latitud": 58.3339,
+    "Longitud": 16.8157,
+    "Höjd (m)": 5,
+    "Aktiv": "Nej"
+  },
+  {
+    "Id": 140360,
+    "Namn": "Holmögadd A",
+    "Latitud": 63.5949,
+    "Longitud": 20.7565,
+    "Höjd (m)": 6,
+    "Aktiv": "Nej"
+  },
+  {
+    "Id": 140460,
+    "Namn": "Holmön A",
+    "Latitud": 63.806963,
+    "Longitud": 20.864478,
+    "Höjd (m)": 6.535,
+    "Aktiv": "Ja"
+  },
+  {
+    "Id": 75520,
+    "Namn": "Horn A",
+    "Latitud": 57.886124,
+    "Longitud": 15.862283,
+    "Höjd (m)": 89.822,
+    "Aktiv": "Ja"
+  },
+  {
+    "Id": 146070,
+    "Namn": "Hoting",
+    "Latitud": 64.1236,
+    "Longitud": 16.2149,
+    "Höjd (m)": 240,
+    "Aktiv": "Nej"
+  },
+  {
+    "Id": 146050,
+    "Namn": "Hoting A",
+    "Latitud": 64.087476,
+    "Longitud": 16.235561,
+    "Höjd (m)": 241.55,
+    "Aktiv": "Ja"
+  },
+  {
+    "Id": 81370,
+    "Namn": "Hud V",
+    "Latitud": 58.66076,
+    "Longitud": 11.41775,
+    "Höjd (m)": 95,
+    "Aktiv": "Ja"
+  },
+  {
+    "Id": 117440,
+    "Namn": "Hudiksvall",
+    "Latitud": 61.7167,
+    "Longitud": 17.086000000000002,
+    "Höjd (m)": 5,
+    "Aktiv": "Ja"
+  },
+  {
+    "Id": 75410,
+    "Namn": "Hultsfred",
+    "Latitud": 57.4931,
+    "Longitud": 15.8528,
+    "Höjd (m)": 109,
+    "Aktiv": "Nej"
+  },
+  {
+    "Id": 125450,
+    "Namn": "Hunge",
+    "Latitud": 62.754,
+    "Longitud": 15.0921,
+    "Höjd (m)": 342,
+    "Aktiv": "Nej"
+  },
+  {
+    "Id": 125440,
+    "Namn": "Hunge A",
+    "Latitud": 62.75036,
+    "Longitud": 15.084452,
+    "Höjd (m)": 343.238,
+    "Aktiv": "Ja"
+  },
+  {
+    "Id": 62250,
+    "Namn": "Hunnestorp V",
+    "Latitud": 56.40404,
+    "Longitud": 12.94361,
+    "Höjd (m)": 159,
+    "Aktiv": "Ja"
+  },
+  {
+    "Id": 98290,
+    "Namn": "Husarö",
+    "Latitud": 59.5052,
+    "Longitud": 18.8417,
+    "Höjd (m)": 10,
+    "Aktiv": "Nej"
+  },
+  {
+    "Id": 74480,
+    "Namn": "Huskvarna",
+    "Latitud": 57.7865,
+    "Longitud": 14.2874,
+    "Höjd (m)": 99,
+    "Aktiv": "Nej"
+  },
+  {
+    "Id": 88590,
+    "Namn": "Huvudskär",
+    "Latitud": 58.9639,
+    "Longitud": 18.5708,
+    "Höjd (m)": 5,
+    "Aktiv": "Nej"
+  },
+  {
+    "Id": 89560,
+    "Namn": "Huvudskär Ost A",
+    "Latitud": 58.9334,
+    "Longitud": 19.1833,
+    "Höjd (m)": 4,
+    "Aktiv": "Nej"
+  },
+  {
+    "Id": 149700,
+    "Namn": "Hällnäs",
+    "Latitud": 64.3088,
+    "Longitud": 19.6293,
+    "Höjd (m)": 245,
+    "Aktiv": "Nej"
+  },
+  {
+    "Id": 149710,
+    "Namn": "Hällnäs Skogsskola",
+    "Latitud": 64.3333,
+    "Longitud": 19.5,
+    "Höjd (m)": 175,
+    "Aktiv": "Nej"
+  },
+  {
+    "Id": 149160,
+    "Namn": "Hällnäs-Lund",
+    "Latitud": 64.2684,
+    "Longitud": 19.6314,
+    "Höjd (m)": 181,
+    "Aktiv": "Nej"
+  },
+  {
+    "Id": 83190,
+    "Namn": "Hällum A",
+    "Latitud": 58.321774,
+    "Longitud": 13.037921,
+    "Höjd (m)": 70.071,
+    "Aktiv": "Ja"
+  },
+  {
+    "Id": 128370,
+    "Namn": "Härnö",
+    "Latitud": 62.6183,
+    "Longitud": 18.0618,
+    "Höjd (m)": 10,
+    "Aktiv": "Nej"
+  },
+  {
+    "Id": 127380,
+    "Namn": "Härnösand",
+    "Latitud": 62.636383,
+    "Longitud": 17.921417,
+    "Höjd (m)": 17.655,
+    "Aktiv": "Ja"
+  },
+  {
+    "Id": 85180,
+    "Namn": "Härsnäs",
+    "Latitud": 58.288376,
+    "Longitud": 15.233642,
+    "Höjd (m)": 126.803,
+    "Aktiv": "Ja"
+  },
+  {
+    "Id": 97610,
+    "Namn": "Hässelby",
+    "Latitud": 59.3727,
+    "Longitud": 17.8197,
+    "Höjd (m)": 25,
+    "Aktiv": "Nej"
+  },
+  {
+    "Id": 75380,
+    "Namn": "Hässleby",
+    "Latitud": 57.6295,
+    "Longitud": 15.5725,
+    "Höjd (m)": 190,
+    "Aktiv": "Nej"
+  },
+  {
+    "Id": 63080,
+    "Namn": "Hässleholm",
+    "Latitud": 56.1367,
+    "Longitud": 13.7445,
+    "Höjd (m)": 50,
+    "Aktiv": "Nej"
+  },
+  {
+    "Id": 63160,
+    "Namn": "Hästveda Mo",
+    "Latitud": 56.2799,
+    "Longitud": 13.9432,
+    "Höjd (m)": 103,
+    "Aktiv": "Ja"
+  },
+  {
+    "Id": 81630,
+    "Namn": "Hållö",
+    "Latitud": 58.3333,
+    "Longitud": 11.2166,
+    "Höjd (m)": 16,
+    "Aktiv": "Nej"
+  },
+  {
+    "Id": 91520,
+    "Namn": "Hångstad",
+    "Latitud": 59.8633,
+    "Longitud": 11.9746,
+    "Höjd (m)": 130,
+    "Aktiv": "Nej"
+  },
+  {
+    "Id": 62160,
+    "Namn": "Höganäs",
+    "Latitud": 56.1917,
+    "Longitud": 12.6014,
+    "Höjd (m)": 5,
+    "Aktiv": "Nej"
+  },
+  {
+    "Id": 145340,
+    "Namn": "Högland",
+    "Latitud": 64.5666,
+    "Longitud": 15.9166,
+    "Höjd (m)": 401,
+    "Aktiv": "Nej"
+  },
+  {
+    "Id": 133050,
+    "Namn": "Höglekardalen",
+    "Latitud": 63.078524,
+    "Longitud": 13.748789,
+    "Höjd (m)": 594.865,
+    "Aktiv": "Nej"
+  },
+  {
+    "Id": 95020,
+    "Namn": "Högsjö",
+    "Latitud": 59.0297,
+    "Longitud": 15.6858,
+    "Höjd (m)": 69,
+    "Aktiv": "Nej"
+  },
+  {
+    "Id": 83610,
+    "Namn": "Högstena",
+    "Latitud": 58.2333,
+    "Longitud": 13.7166,
+    "Höjd (m)": 211,
+    "Aktiv": "Nej"
+  },
+  {
+    "Id": 91660,
+    "Namn": "Högsäter",
+    "Latitud": 59.88,
+    "Longitud": 11.97,
+    "Höjd (m)": 135,
+    "Aktiv": "Nej"
+  },
+  {
+    "Id": 162970,
+    "Namn": "Högsön",
+    "Latitud": 65.8849,
+    "Longitud": 22.3961,
+    "Höjd (m)": 8,
+    "Aktiv": "Nej"
+  },
+  {
+    "Id": 151240,
+    "Namn": "Hökmarksberget V",
+    "Latitud": 64.43583,
+    "Longitud": 21.27997,
+    "Höjd (m)": 92,
+    "Aktiv": "Nej"
+  },
+  {
+    "Id": 53630,
+    "Namn": "Hököpinge",
+    "Latitud": 55.5,
+    "Longitud": 13.0166,
+    "Höjd (m)": 17,
+    "Aktiv": "Nej"
+  },
+  {
+    "Id": 117370,
+    "Namn": "Hölick",
+    "Latitud": 61.6239,
+    "Longitud": 17.4401,
+    "Höjd (m)": 5,
+    "Aktiv": "Nej"
+  },
+  {
+    "Id": 102540,
+    "Namn": "Höljes",
+    "Latitud": 60.9066,
+    "Longitud": 12.5843,
+    "Höjd (m)": 230,
+    "Aktiv": "Nej"
+  },
+  {
+    "Id": 53530,
+    "Namn": "Hörby A",
+    "Latitud": 55.863303,
+    "Longitud": 13.666218,
+    "Höjd (m)": 113.388,
+    "Aktiv": "Ja"
+  },
+  {
+    "Id": 105230,
+    "Namn": "Idkerberget",
+    "Latitud": 60.3758,
+    "Longitud": 15.231,
+    "Höjd (m)": 260,
+    "Aktiv": "Nej"
+  },
+  {
+    "Id": 112540,
+    "Namn": "Idre Fjäll A",
+    "Latitud": 61.888611,
+    "Longitud": 12.852089,
+    "Höjd (m)": 869.407,
+    "Aktiv": "Ja"
+  },
+  {
+    "Id": 147270,
+    "Namn": "Idvattnet",
+    "Latitud": 64.4542,
+    "Longitud": 17.0794,
+    "Höjd (m)": 352,
+    "Aktiv": "Nej"
+  },
+  {
+    "Id": 169880,
+    "Namn": "Jokkmokk",
+    "Latitud": 66.6135,
+    "Longitud": 19.8316,
+    "Höjd (m)": 240,
+    "Aktiv": "Nej"
+  },
+  {
+    "Id": 170860,
+    "Namn": "Jokkmokk Flygplats Mo",
+    "Latitud": 66.499,
+    "Longitud": 20.131,
+    "Höjd (m)": 275,
+    "Aktiv": "Ja"
+  },
+  {
+    "Id": 62560,
+    "Namn": "Jonstorp",
+    "Latitud": 56.931,
+    "Longitud": 12.5514,
+    "Höjd (m)": 25,
+    "Aktiv": "Nej"
+  },
+  {
+    "Id": 53250,
+    "Namn": "Jordberga",
+    "Latitud": 55.4114,
+    "Longitud": 13.4001,
+    "Höjd (m)": 40,
+    "Aktiv": "Nej"
+  },
+  {
+    "Id": 143440,
+    "Namn": "Jormlien",
+    "Latitud": 64.73060000000001,
+    "Longitud": 13.986,
+    "Höjd (m)": 360,
+    "Aktiv": "Nej"
+  },
+  {
+    "Id": 136420,
+    "Namn": "Junsele",
+    "Latitud": 63.6845,
+    "Longitud": 16.9508,
+    "Höjd (m)": 215,
+    "Aktiv": "Nej"
+  },
+  {
+    "Id": 136410,
+    "Namn": "Junsele A",
+    "Latitud": 63.683914,
+    "Longitud": 16.949956,
+    "Höjd (m)": 218.766,
+    "Aktiv": "Ja"
+  },
+  {
+    "Id": 166810,
+    "Namn": "Jäckvik",
+    "Latitud": 66.387364,
+    "Longitud": 16.971446,
+    "Höjd (m)": 433.56,
+    "Aktiv": "Ja"
+  },
+  {
+    "Id": 167800,
+    "Namn": "Jäkkvik V",
+    "Latitud": 66.32417,
+    "Longitud": 17.09442,
+    "Höjd (m)": 552,
+    "Aktiv": "Nej"
+  },
+  {
+    "Id": 126480,
+    "Namn": "Järkvissle",
+    "Latitud": 62.8166,
+    "Longitud": 16.6833,
+    "Höjd (m)": 90,
+    "Aktiv": "Nej"
+  },
+  {
+    "Id": 139260,
+    "Namn": "Järnäsklubb A",
+    "Latitud": 63.435094,
+    "Longitud": 19.673059,
+    "Höjd (m)": 5.928,
+    "Aktiv": "Ja"
+  },
+  {
+    "Id": 133240,
+    "Namn": "Järpströmmen",
+    "Latitud": 63.3915,
+    "Longitud": 13.388,
+    "Höjd (m)": 380,
+    "Aktiv": "Nej"
+  },
+  {
+    "Id": 116430,
+    "Namn": "Järvsö",
+    "Latitud": 61.7111,
+    "Longitud": 16.1667,
+    "Höjd (m)": 140,
+    "Aktiv": "Ja"
+  },
+  {
+    "Id": 74470,
+    "Namn": "Jönköping",
+    "Latitud": 57.7666,
+    "Longitud": 14.1833,
+    "Höjd (m)": 98,
+    "Aktiv": "Nej"
+  },
+  {
+    "Id": 74460,
+    "Namn": "Jönköpings Flygplats",
+    "Latitud": 57.7514,
+    "Longitud": 14.0733,
+    "Höjd (m)": 226,
+    "Aktiv": "Ja"
+  },
+  {
+    "Id": 74450,
+    "Namn": "Jönköpings Gamla Flygplats",
+    "Latitud": 57.75,
+    "Longitud": 14.17,
+    "Höjd (m)": 98,
+    "Aktiv": "Nej"
+  },
+  {
+    "Id": 163940,
+    "Namn": "Kalix",
+    "Latitud": 65.85,
+    "Longitud": 23.2,
+    "Höjd (m)": 6,
+    "Aktiv": "Nej"
+  },
+  {
+    "Id": 66430,
+    "Namn": "Kalmar",
+    "Latitud": 56.727,
+    "Longitud": 16.2944,
+    "Höjd (m)": 15,
+    "Aktiv": "Nej"
+  },
+  {
+    "Id": 66420,
+    "Namn": "Kalmar Flygplats",
+    "Latitud": 56.6784,
+    "Longitud": 16.2922,
+    "Höjd (m)": 6,
+    "Aktiv": "Ja"
+  },
+  {
+    "Id": 168910,
+    "Namn": "Karats",
+    "Latitud": 66.6932,
+    "Longitud": 18.814600000000002,
+    "Höjd (m)": 414,
+    "Aktiv": "Nej"
+  },
+  {
+    "Id": 192830,
+    "Namn": "Karesuando",
+    "Latitud": 68.4421,
+    "Longitud": 22.450200000000002,
+    "Höjd (m)": 330,
+    "Aktiv": "Nej"
+  },
+  {
+    "Id": 192840,
+    "Namn": "Karesuando A",
+    "Latitud": 68.441772,
+    "Longitud": 22.443463,
+    "Höjd (m)": 329.68,
+    "Aktiv": "Ja"
+  },
+  {
+    "Id": 84310,
+    "Namn": "Karlsborg Mo",
+    "Latitud": 58.514,
+    "Longitud": 14.5102,
+    "Höjd (m)": 95,
+    "Aktiv": "Ja"
+  },
+  {
+    "Id": 76090,
+    "Namn": "Karlshammar",
+    "Latitud": 57.15,
+    "Longitud": 16.45,
+    "Höjd (m)": 8,
+    "Aktiv": "Nej"
+  },
+  {
+    "Id": 64130,
+    "Namn": "Karlshamn",
+    "Latitud": 56.1813,
+    "Longitud": 14.8517,
+    "Höjd (m)": 50,
+    "Aktiv": "Ja"
+  },
+  {
+    "Id": 65090,
+    "Namn": "Karlskrona-Söderstjerna Mo",
+    "Latitud": 56.1498,
+    "Longitud": 15.5921,
+    "Höjd (m)": 2,
+    "Aktiv": "Ja"
+  },
+  {
+    "Id": 93250,
+    "Namn": "Karlstad",
+    "Latitud": 59.384,
+    "Longitud": 13.4455,
+    "Höjd (m)": 80,
+    "Aktiv": "Nej"
+  },
+  {
+    "Id": 93230,
+    "Namn": "Karlstad Aut",
+    "Latitud": 59.361,
+    "Longitud": 13.4728,
+    "Höjd (m)": 46,
+    "Aktiv": "Nej"
+  },
+  {
+    "Id": 93220,
+    "Namn": "Karlstad Flygplats",
+    "Latitud": 59.4446,
+    "Longitud": 13.3374,
+    "Höjd (m)": 107,
+    "Aktiv": "Ja"
+  },
+  {
+    "Id": 64040,
+    "Namn": "Karpalund",
+    "Latitud": 56.05,
+    "Longitud": 14.1,
+    "Höjd (m)": 4,
+    "Aktiv": "Nej"
+  },
+  {
+    "Id": 139200,
+    "Namn": "Kasa D",
+    "Latitud": 63.3266,
+    "Longitud": 19.0532,
+    "Höjd (m)": 30,
+    "Aktiv": "Nej"
+  },
+  {
+    "Id": 188820,
+    "Namn": "Katterjåkk",
+    "Latitud": 68.4218,
+    "Longitud": 18.1698,
+    "Höjd (m)": 515,
+    "Aktiv": "Nej"
+  },
+  {
+    "Id": 188850,
+    "Namn": "Katterjåkk A",
+    "Latitud": 68.420182,
+    "Longitud": 18.168044,
+    "Höjd (m)": 514.248,
+    "Aktiv": "Ja"
+  },
+  {
+    "Id": 189780,
+    "Namn": "Kattuvuoma",
+    "Latitud": 68.2833,
+    "Longitud": 19.9,
+    "Höjd (m)": 355,
+    "Aktiv": "Nej"
+  },
+  {
+    "Id": 106160,
+    "Namn": "Kerstinbo A",
+    "Latitud": 60.268299,
+    "Longitud": 16.973839,
+    "Höjd (m)": 55.695,
+    "Aktiv": "Ja"
+  },
+  {
+    "Id": 85460,
+    "Namn": "Kettstaka A",
+    "Latitud": 58.716164,
+    "Longitud": 15.027133,
+    "Höjd (m)": 224.876,
+    "Aktiv": "Ja"
+  },
+  {
+    "Id": 94190,
+    "Namn": "Kilsbergen-Suttarboda A",
+    "Latitud": 59.299555,
+    "Longitud": 14.895562,
+    "Höjd (m)": 218.353,
+    "Aktiv": "Ja"
+  },
+  {
+    "Id": 73610,
+    "Namn": "Kinnared",
+    "Latitud": 57.0333,
+    "Longitud": 13.1166,
+    "Höjd (m)": 100,
+    "Aktiv": "Nej"
+  },
+  {
+    "Id": 180960,
+    "Namn": "Kiruna",
+    "Latitud": 67.85,
+    "Longitud": 20.2333,
+    "Höjd (m)": 505,
+    "Aktiv": "Nej"
+  },
+  {
+    "Id": 180940,
+    "Namn": "Kiruna Flygplats",
+    "Latitud": 67.827,
+    "Longitud": 20.3387,
+    "Höjd (m)": 459,
+    "Aktiv": "Ja"
+  },
+  {
+    "Id": 155770,
+    "Namn": "Kittelfjäll",
+    "Latitud": 65.25,
+    "Longitud": 15.5,
+    "Höjd (m)": 560,
+    "Aktiv": "Nej"
+  },
+  {
+    "Id": 83670,
+    "Namn": "Klagstorp",
+    "Latitud": 58.33313519975335,
+    "Longitud": 13.880404972908186,
+    "Höjd (m)": 130,
+    "Aktiv": "Nej"
+  },
+  {
+    "Id": 154720,
+    "Namn": "Klimpfjäll",
+    "Latitud": 65.062,
+    "Longitud": 14.7908,
+    "Höjd (m)": 594,
+    "Aktiv": "Nej"
+  },
+  {
+    "Id": 95530,
+    "Namn": "Kloten",
+    "Latitud": 59.8707,
+    "Longitud": 15.2544,
+    "Höjd (m)": 285,
+    "Aktiv": "Nej"
+  },
+  {
+    "Id": 95540,
+    "Namn": "Kloten A",
+    "Latitud": 59.870323,
+    "Longitud": 15.252243,
+    "Höjd (m)": 283.21,
+    "Aktiv": "Ja"
+  },
+  {
+    "Id": 150640,
+    "Namn": "Klutmark",
+    "Latitud": 64.75,
+    "Longitud": 20.6333,
+    "Höjd (m)": 80,
+    "Aktiv": "Nej"
+  },
+  {
+    "Id": 124320,
+    "Namn": "Klövsjö",
+    "Latitud": 62.5335,
+    "Longitud": 14.2028,
+    "Höjd (m)": 549,
+    "Aktiv": "Nej"
+  },
+  {
+    "Id": 124300,
+    "Namn": "KlövsjöHöjden A",
+    "Latitud": 62.495239,
+    "Longitud": 14.154154,
+    "Höjd (m)": 802.503,
+    "Aktiv": "Ja"
+  },
+  {
+    "Id": 63320,
+    "Namn": "Knäred",
+    "Latitud": 56.5216,
+    "Longitud": 13.3369,
+    "Höjd (m)": 60,
+    "Aktiv": "Nej"
+  },
+  {
+    "Id": 103570,
+    "Namn": "Knås",
+    "Latitud": 60.9676,
+    "Longitud": 13.8985,
+    "Höjd (m)": 280,
+    "Aktiv": "Nej"
+  },
+  {
+    "Id": 63610,
+    "Namn": "Kolleberga",
+    "Latitud": 56.0666,
+    "Longitud": 13.2666,
+    "Höjd (m)": 50,
+    "Aktiv": "Nej"
+  },
+  {
+    "Id": 86420,
+    "Namn": "Kolmården-Strömsfors A",
+    "Latitud": 58.689188,
+    "Longitud": 16.306889,
+    "Höjd (m)": 153.613,
+    "Aktiv": "Ja"
+  },
+  {
+    "Id": 86650,
+    "Namn": "Kolmårdssanatoriet",
+    "Latitud": 58.66643502749858,
+    "Longitud": 16.330076440454466,
+    "Höjd (m)": 90,
+    "Aktiv": "Nej"
+  },
+  {
+    "Id": 182720,
+    "Namn": "Kompelusvaara",
+    "Latitud": 67.0919,
+    "Longitud": 22.2178,
+    "Höjd (m)": 263,
+    "Aktiv": "Nej"
+  },
+  {
+    "Id": 173960,
+    "Namn": "Korpilombolo M",
+    "Latitud": 66.8542,
+    "Longitud": 23.0571,
+    "Höjd (m)": 178,
+    "Aktiv": "Nej"
+  },
+  {
+    "Id": 145280,
+    "Namn": "Korsselbränna",
+    "Latitud": 64.4571,
+    "Longitud": 15.5423,
+    "Höjd (m)": 178,
+    "Aktiv": "Nej"
+  },
+  {
+    "Id": 133500,
+    "Namn": "Korsvattnet A",
+    "Latitud": 63.838513,
+    "Longitud": 13.500889,
+    "Höjd (m)": 716.605,
+    "Aktiv": "Ja"
+  },
+  {
+    "Id": 65510,
+    "Namn": "Kosta Mo",
+    "Latitud": 56.8403,
+    "Longitud": 15.47,
+    "Höjd (m)": 230,
+    "Aktiv": "Ja"
+  },
+  {
+    "Id": 137040,
+    "Namn": "Kramfors-Gistgårdsön",
+    "Latitud": 63.0502,
+    "Longitud": 17.7658,
+    "Höjd (m)": 5,
+    "Aktiv": "Nej"
+  },
+  {
+    "Id": 64030,
+    "Namn": "Kristianstad",
+    "Latitud": 56.0133,
+    "Longitud": 14.2896,
+    "Höjd (m)": 10,
+    "Aktiv": "Ja"
+  },
+  {
+    "Id": 54990,
+    "Namn": "Kristianstad V",
+    "Latitud": 56.02391,
+    "Longitud": 14.10272,
+    "Höjd (m)": 7,
+    "Aktiv": "Ja"
+  },
+  {
+    "Id": 54550,
+    "Namn": "Kristianstad everöd",
+    "Latitud": 55.9245,
+    "Longitud": 14.0842,
+    "Höjd (m)": 17,
+    "Aktiv": "Nej"
+  },
+  {
+    "Id": 94180,
+    "Namn": "Kristinehamn",
+    "Latitud": 59.310211,
+    "Longitud": 14.099395,
+    "Höjd (m)": 46.71,
+    "Aktiv": "Ja"
+  },
+  {
+    "Id": 148300,
+    "Namn": "Kroksjö",
+    "Latitud": 64.5073,
+    "Longitud": 17.9934,
+    "Höjd (m)": 500,
+    "Aktiv": "Nej"
+  },
+  {
+    "Id": 82360,
+    "Namn": "Kroppefjäll-Granan A",
+    "Latitud": 58.606504,
+    "Longitud": 12.197295,
+    "Höjd (m)": 173.75,
+    "Aktiv": "Ja"
+  },
+  {
+    "Id": 114330,
+    "Namn": "Kräckelbäcken",
+    "Latitud": 61.55,
+    "Longitud": 14.2,
+    "Höjd (m)": 670,
+    "Aktiv": "Nej"
+  },
+  {
+    "Id": 136090,
+    "Namn": "Krångede A",
+    "Latitud": 63.151232,
+    "Longitud": 16.169932,
+    "Höjd (m)": 183.123,
+    "Aktiv": "Ja"
+  },
+  {
+    "Id": 117430,
+    "Namn": "Kuggören A",
+    "Latitud": 61.702663,
+    "Longitud": 17.521597,
+    "Höjd (m)": 8.568,
+    "Aktiv": "Ja"
+  },
+  {
+    "Id": 149610,
+    "Namn": "Kulbäcksliden",
+    "Latitud": 64.2,
+    "Longitud": 19.5666,
+    "Höjd (m)": 200,
+    "Aktiv": "Nej"
+  },
+  {
+    "Id": 62190,
+    "Namn": "Kullen",
+    "Latitud": 56.3012,
+    "Longitud": 12.454,
+    "Höjd (m)": 72,
+    "Aktiv": "Nej"
+  },
+  {
+    "Id": 85390,
+    "Namn": "Kvarn Mo",
+    "Latitud": 58.6277,
+    "Longitud": 15.4372,
+    "Höjd (m)": 72,
+    "Aktiv": "Ja"
+  },
+  {
+    "Id": 114270,
+    "Namn": "Kvarnberg",
+    "Latitud": 61.4446,
+    "Longitud": 14.8744,
+    "Höjd (m)": 434,
+    "Aktiv": "Nej"
+  },
+  {
+    "Id": 167980,
+    "Namn": "Kvikkjokk-Årrenjarka",
+    "Latitud": 66.8876,
+    "Longitud": 18.0179,
+    "Höjd (m)": 314,
+    "Aktiv": "Nej"
+  },
+  {
+    "Id": 167990,
+    "Namn": "Kvikkjokk-Årrenjarka A",
+    "Latitud": 66.88735,
+    "Longitud": 18.019798,
+    "Höjd (m)": 314.692,
+    "Aktiv": "Ja"
+  },
+  {
+    "Id": 83660,
+    "Namn": "Kvänum",
+    "Latitud": 58.31649131114783,
+    "Longitud": 13.147217541940066,
+    "Höjd (m)": 75,
+    "Aktiv": "Nej"
+  },
+  {
+    "Id": 83040,
+    "Namn": "Kymbo V",
+    "Latitud": 58.0794,
+    "Longitud": 13.78495,
+    "Höjd (m)": 222,
+    "Aktiv": "Ja"
+  },
+  {
+    "Id": 92630,
+    "Namn": "Kyrkerud",
+    "Latitud": 59.3833,
+    "Longitud": 12.1166,
+    "Höjd (m)": 110,
+    "Aktiv": "Nej"
+  },
+  {
+    "Id": 72140,
+    "Namn": "Källsjö",
+    "Latitud": 57.232236,
+    "Longitud": 12.701835,
+    "Höjd (m)": 153.9,
+    "Aktiv": "Ja"
+  },
+  {
+    "Id": 71510,
+    "Namn": "Kärna",
+    "Latitud": 57.8402777777778,
+    "Longitud": 11.8086111111111,
+    "Höjd (m)": 21,
+    "Aktiv": "Ja"
+  },
+  {
+    "Id": 85650,
+    "Namn": "Kärnskogen",
+    "Latitud": 58.85,
+    "Longitud": 15.2833,
+    "Höjd (m)": 108,
+    "Aktiv": "Nej"
+  },
+  {
+    "Id": 53480,
+    "Namn": "Kävlinge",
+    "Latitud": 55.8,
+    "Longitud": 13.1,
+    "Höjd (m)": 30,
+    "Aktiv": "Nej"
+  },
+  {
+    "Id": 98400,
+    "Namn": "Kårsta",
+    "Latitud": 59.6575,
+    "Longitud": 18.2718,
+    "Höjd (m)": 20,
+    "Aktiv": "Nej"
+  },
+  {
+    "Id": 96310,
+    "Namn": "Köping",
+    "Latitud": 59.5171,
+    "Longitud": 15.9909,
+    "Höjd (m)": 10,
+    "Aktiv": "Nej"
+  },
+  {
+    "Id": 53270,
+    "Namn": "Köpinge",
+    "Latitud": 55.4575,
+    "Longitud": 13.9379,
+    "Höjd (m)": 10,
+    "Aktiv": "Nej"
+  },
+  {
+    "Id": 71140,
+    "Namn": "Laesö Ost A",
+    "Latitud": 57.1834,
+    "Longitud": 11.5332,
+    "Höjd (m)": 4,
+    "Aktiv": "Nej"
+  },
+  {
+    "Id": 182930,
+    "Namn": "Lainio",
+    "Latitud": 67.7615,
+    "Longitud": 22.3518,
+    "Höjd (m)": 315,
+    "Aktiv": "Nej"
+  },
+  {
+    "Id": 167730,
+    "Namn": "Laisvallsby",
+    "Latitud": 66.1347,
+    "Longitud": 17.1748,
+    "Höjd (m)": 460,
+    "Aktiv": "Nej"
+  },
+  {
+    "Id": 171790,
+    "Namn": "Lakaträsk A",
+    "Latitud": 66.278871,
+    "Longitud": 21.128535,
+    "Höjd (m)": 185.031,
+    "Aktiv": "Ja"
+  },
+  {
+    "Id": 87450,
+    "Namn": "Landsort",
+    "Latitud": 58.740392,
+    "Longitud": 17.865477,
+    "Höjd (m)": 12.653,
+    "Aktiv": "Nej"
+  },
+  {
+    "Id": 87440,
+    "Namn": "Landsort A",
+    "Latitud": 58.742854,
+    "Longitud": 17.868392,
+    "Höjd (m)": 17.484,
+    "Aktiv": "Ja"
+  },
+  {
+    "Id": 72420,
+    "Namn": "Landvetter Flygplats",
+    "Latitud": 57.6764,
+    "Longitud": 12.2919,
+    "Höjd (m)": 154,
+    "Aktiv": "Ja"
+  },
+  {
+    "Id": 83210,
+    "Namn": "Lanna",
+    "Latitud": 58.3476,
+    "Longitud": 13.1296,
+    "Höjd (m)": 80,
+    "Aktiv": "Nej"
+  },
+  {
+    "Id": 192710,
+    "Namn": "Lannavaara",
+    "Latitud": 68.0502,
+    "Longitud": 21.9814,
+    "Höjd (m)": 630,
+    "Aktiv": "Nej"
+  },
+  {
+    "Id": 171770,
+    "Namn": "Lappträsket",
+    "Latitud": 66.2283,
+    "Longitud": 21.7881,
+    "Höjd (m)": 60,
+    "Aktiv": "Nej"
+  },
+  {
+    "Id": 180770,
+    "Namn": "Latnivaara A",
+    "Latitud": 67.255054,
+    "Longitud": 20.270367,
+    "Höjd (m)": 453.191,
+    "Aktiv": "Ja"
+  },
+  {
+    "Id": 146380,
+    "Namn": "Laxbäcken",
+    "Latitud": 64.6389,
+    "Longitud": 16.4142,
+    "Höjd (m)": 345,
+    "Aktiv": "Nej"
+  },
+  {
+    "Id": 104120,
+    "Namn": "Lejen",
+    "Latitud": 60.2,
+    "Longitud": 14.4,
+    "Höjd (m)": 340,
+    "Aktiv": "Nej"
+  },
+  {
+    "Id": 105450,
+    "Namn": "Leksand",
+    "Latitud": 60.724766,
+    "Longitud": 15.014262,
+    "Höjd (m)": 172.638,
+    "Aktiv": "Ja"
+  },
+  {
+    "Id": 91620,
+    "Namn": "Lennartsfors",
+    "Latitud": 59.3,
+    "Longitud": 11.9333,
+    "Höjd (m)": 125,
+    "Aktiv": "Nej"
+  },
+  {
+    "Id": 65450,
+    "Namn": "Lessebo",
+    "Latitud": 56.7486,
+    "Longitud": 15.2747,
+    "Höjd (m)": 170,
+    "Aktiv": "Nej"
+  },
+  {
+    "Id": 83320,
+    "Namn": "Lidköping",
+    "Latitud": 58.4666,
+    "Longitud": 13.1166,
+    "Höjd (m)": 50,
+    "Aktiv": "Nej"
+  },
+  {
+    "Id": 103600,
+    "Namn": "Likenäs",
+    "Latitud": 60.649560937339444,
+    "Longitud": 13.01400391705643,
+    "Höjd (m)": 160,
+    "Aktiv": "Nej"
+  },
+  {
+    "Id": 114510,
+    "Namn": "Lillhärdal",
+    "Latitud": 61.8547,
+    "Longitud": 14.0921,
+    "Höjd (m)": 440,
+    "Aktiv": "Nej"
+  },
+  {
+    "Id": 166940,
+    "Namn": "Lillviken-Roparudden V",
+    "Latitud": 66.48603,
+    "Longitud": 16.41734,
+    "Höjd (m)": 483,
+    "Aktiv": "Nej"
+  },
+  {
+    "Id": 95350,
+    "Namn": "Lindesberg",
+    "Latitud": 59.5737,
+    "Longitud": 15.2365,
+    "Höjd (m)": 70,
+    "Aktiv": "Nej"
+  },
+  {
+    "Id": 85250,
+    "Namn": "Linköping",
+    "Latitud": 58.4166,
+    "Longitud": 15.6333,
+    "Höjd (m)": 64,
+    "Aktiv": "Nej"
+  },
+  {
+    "Id": 126310,
+    "Namn": "Ljungaverk",
+    "Latitud": 62.4861,
+    "Longitud": 16.0694,
+    "Höjd (m)": 85,
+    "Aktiv": "Nej"
+  },
+  {
+    "Id": 63500,
+    "Namn": "Ljungby",
+    "Latitud": 56.8203,
+    "Longitud": 13.9469,
+    "Höjd (m)": 145,
+    "Aktiv": "Nej"
+  },
+  {
+    "Id": 63510,
+    "Namn": "Ljungby A",
+    "Latitud": 56.852482,
+    "Longitud": 13.879433,
+    "Höjd (m)": 148.485,
+    "Aktiv": "Ja"
+  },
+  {
+    "Id": 63050,
+    "Namn": "Ljungbyhed",
+    "Latitud": 56.0752,
+    "Longitud": 13.2318,
+    "Höjd (m)": 43,
+    "Aktiv": "Nej"
+  },
+  {
+    "Id": 81130,
+    "Namn": "Ljungskile",
+    "Latitud": 58.2159,
+    "Longitud": 11.9321,
+    "Höjd (m)": 70,
+    "Aktiv": "Nej"
+  },
+  {
+    "Id": 126460,
+    "Namn": "Ljungå",
+    "Latitud": 62.7594,
+    "Longitud": 16.3141,
+    "Höjd (m)": 220,
+    "Aktiv": "Nej"
+  },
+  {
+    "Id": 116500,
+    "Namn": "Ljusdal",
+    "Latitud": 61.8333,
+    "Longitud": 16.1333,
+    "Höjd (m)": 140,
+    "Aktiv": "Nej"
+  },
+  {
+    "Id": 122330,
+    "Namn": "Ljusnedal",
+    "Latitud": 62.5493,
+    "Longitud": 12.6043,
+    "Höjd (m)": 585,
+    "Aktiv": "Ja"
+  },
+  {
+    "Id": 123070,
+    "Namn": "Lofsdalen",
+    "Latitud": 62.1132,
+    "Longitud": 13.2841,
+    "Höjd (m)": 610,
+    "Aktiv": "Nej"
+  },
+  {
+    "Id": 74530,
+    "Namn": "Lommaryd",
+    "Latitud": 57.8887,
+    "Longitud": 14.7342,
+    "Höjd (m)": 240,
+    "Aktiv": "Nej"
+  },
+  {
+    "Id": 162880,
+    "Namn": "Luleå",
+    "Latitud": 65.62,
+    "Longitud": 22.1307,
+    "Höjd (m)": 5,
+    "Aktiv": "Nej"
+  },
+  {
+    "Id": 162860,
+    "Namn": "Luleå Flygplats",
+    "Latitud": 65.5434,
+    "Longitud": 22.1193,
+    "Höjd (m)": 17,
+    "Aktiv": "Ja"
+  },
+  {
+    "Id": 162870,
+    "Namn": "Luleå-Bergnäset",
+    "Latitud": 65.5762,
+    "Longitud": 22.109,
+    "Höjd (m)": 12,
+    "Aktiv": "Ja"
+  },
+  {
+    "Id": 53430,
+    "Namn": "Lund",
+    "Latitud": 55.693194,
+    "Longitud": 13.225057,
+    "Höjd (m)": 26.451,
+    "Aktiv": "Ja"
+  },
+  {
+    "Id": 53440,
+    "Namn": "Lund Lth",
+    "Latitud": 55.7142,
+    "Longitud": 13.2152,
+    "Höjd (m)": 73,
+    "Aktiv": "Nej"
+  },
+  {
+    "Id": 128390,
+    "Namn": "Lungö A",
+    "Latitud": 62.641715,
+    "Longitud": 18.089929,
+    "Höjd (m)": 14.325,
+    "Aktiv": "Ja"
+  },
+  {
+    "Id": 83460,
+    "Namn": "Lurö",
+    "Latitud": 58.7904,
+    "Longitud": 13.2534,
+    "Höjd (m)": 55,
+    "Aktiv": "Nej"
+  },
+  {
+    "Id": 148330,
+    "Namn": "Lycksele A",
+    "Latitud": 64.548121,
+    "Longitud": 18.713023,
+    "Höjd (m)": 210.07,
+    "Aktiv": "Ja"
+  },
+  {
+    "Id": 97240,
+    "Namn": "Lyckås",
+    "Latitud": 59.4,
+    "Longitud": 17.6666,
+    "Höjd (m)": 15,
+    "Aktiv": "Nej"
+  },
+  {
+    "Id": 83130,
+    "Namn": "Längjum",
+    "Latitud": 58.2212,
+    "Longitud": 13.0607,
+    "Höjd (m)": 95,
+    "Aktiv": "Nej"
+  },
+  {
+    "Id": 137110,
+    "Namn": "Lännäs",
+    "Latitud": 63.16629,
+    "Longitud": 17.65431,
+    "Höjd (m)": 30,
+    "Aktiv": "Nej"
+  },
+  {
+    "Id": 156730,
+    "Namn": "Långvattnet",
+    "Latitud": 65.1049,
+    "Longitud": 16.6919,
+    "Höjd (m)": 420,
+    "Aktiv": "Nej"
+  },
+  {
+    "Id": 127140,
+    "Namn": "Lörudden",
+    "Latitud": 62.2314,
+    "Longitud": 17.6623,
+    "Höjd (m)": 2,
+    "Aktiv": "Nej"
+  },
+  {
+    "Id": 151220,
+    "Namn": "Lövånger",
+    "Latitud": 64.3636,
+    "Longitud": 21.3152,
+    "Höjd (m)": 21,
+    "Aktiv": "Nej"
+  },
+  {
+    "Id": 53220,
+    "Namn": "Maglarp Aut",
+    "Latitud": 55.384,
+    "Longitud": 13.0595,
+    "Höjd (m)": 17,
+    "Aktiv": "Nej"
+  },
+  {
+    "Id": 85040,
+    "Namn": "Malexander",
+    "Latitud": 58.0729,
+    "Longitud": 15.2352,
+    "Höjd (m)": 195,
+    "Aktiv": "Nej"
+  },
+  {
+    "Id": 85050,
+    "Namn": "Malexander A",
+    "Latitud": 58.071585,
+    "Longitud": 15.232986,
+    "Höjd (m)": 197.27,
+    "Aktiv": "Ja"
+  },
+  {
+    "Id": 180750,
+    "Namn": "Malmberget",
+    "Latitud": 67.16810000000001,
+    "Longitud": 20.6389,
+    "Höjd (m)": 400,
+    "Aktiv": "Nej"
+  },
+  {
+    "Id": 85240,
+    "Namn": "Malmslätt",
+    "Latitud": 58.4004,
+    "Longitud": 15.5327,
+    "Höjd (m)": 93,
+    "Aktiv": "Ja"
+  },
+  {
+    "Id": 53360,
+    "Namn": "Malmö",
+    "Latitud": 55.5782,
+    "Longitud": 13.0141,
+    "Höjd (m)": 13,
+    "Aktiv": "Nej"
+  },
+  {
+    "Id": 53370,
+    "Namn": "Malmö 2",
+    "Latitud": 55.6048,
+    "Longitud": 12.9841,
+    "Höjd (m)": 3,
+    "Aktiv": "Nej"
+  },
+  {
+    "Id": 52350,
+    "Namn": "Malmö A",
+    "Latitud": 55.571456,
+    "Longitud": 13.070773,
+    "Höjd (m)": 19.757,
+    "Aktiv": "Ja"
+  },
+  {
+    "Id": 103410,
+    "Namn": "Malung",
+    "Latitud": 60.6717,
+    "Longitud": 13.7058,
+    "Höjd (m)": 310,
+    "Aktiv": "Nej"
+  },
+  {
+    "Id": 103420,
+    "Namn": "Malung A",
+    "Latitud": 60.676531,
+    "Longitud": 13.707191,
+    "Höjd (m)": 302.583,
+    "Aktiv": "Ja"
+  },
+  {
+    "Id": 158750,
+    "Namn": "Malå",
+    "Latitud": 65.181157,
+    "Longitud": 18.74212,
+    "Höjd (m)": 308.635,
+    "Aktiv": "Ja"
+  },
+  {
+    "Id": 158740,
+    "Namn": "Malå-Brännan A",
+    "Latitud": 65.151174,
+    "Longitud": 18.59351,
+    "Höjd (m)": 363.111,
+    "Aktiv": "Ja"
+  },
+  {
+    "Id": 85520,
+    "Namn": "Mariedamm",
+    "Latitud": 58.8509,
+    "Longitud": 15.164,
+    "Höjd (m)": 132,
+    "Aktiv": "Nej"
+  },
+  {
+    "Id": 97170,
+    "Namn": "Mariefred",
+    "Latitud": 59.2661,
+    "Longitud": 17.2342,
+    "Höjd (m)": 10,
+    "Aktiv": "Nej"
+  },
+  {
+    "Id": 65130,
+    "Namn": "Marielund",
+    "Latitud": 56.2182,
+    "Longitud": 15.5331,
+    "Höjd (m)": 25,
+    "Aktiv": "Nej"
+  },
+  {
+    "Id": 83440,
+    "Namn": "Mariestad",
+    "Latitud": 58.7136,
+    "Longitud": 13.823,
+    "Höjd (m)": 50,
+    "Aktiv": "Nej"
+  },
+  {
+    "Id": 63280,
+    "Namn": "Markaryd",
+    "Latitud": 56.457653,
+    "Longitud": 13.615888,
+    "Höjd (m)": 113.846,
+    "Aktiv": "Ja"
+  },
+  {
+    "Id": 172920,
+    "Namn": "Markusvinsa",
+    "Latitud": 66.725908,
+    "Longitud": 22.893989,
+    "Höjd (m)": 163.362,
+    "Aktiv": "Ja"
+  },
+  {
+    "Id": 155720,
+    "Namn": "Marsliden",
+    "Latitud": 65.0251,
+    "Longitud": 15.3668,
+    "Höjd (m)": 550,
+    "Aktiv": "Nej"
+  },
+  {
+    "Id": 86330,
+    "Namn": "Marviken",
+    "Latitud": 58.5491,
+    "Longitud": 16.8157,
+    "Höjd (m)": 10,
+    "Aktiv": "Nej"
+  },
+  {
+    "Id": 133180,
+    "Namn": "Mattmar V",
+    "Latitud": 63.30543,
+    "Longitud": 13.87671,
+    "Höjd (m)": 360,
+    "Aktiv": "Nej"
+  },
+  {
+    "Id": 166910,
+    "Namn": "Mierkenis A",
+    "Latitud": 66.680211,
+    "Longitud": 16.105291,
+    "Höjd (m)": 613.982,
+    "Aktiv": "Ja"
+  },
+  {
+    "Id": 166900,
+    "Namn": "Mierkenis Aut",
+    "Latitud": 66.6798,
+    "Longitud": 16.1137,
+    "Höjd (m)": 600,
+    "Aktiv": "Nej"
+  },
+  {
+    "Id": 133630,
+    "Namn": "Mo",
+    "Latitud": 63.3166,
+    "Longitud": 13.4833,
+    "Höjd (m)": 330,
+    "Aktiv": "Nej"
+  },
+  {
+    "Id": 104300,
+    "Namn": "Mockfjärd",
+    "Latitud": 60.5074,
+    "Longitud": 14.9585,
+    "Höjd (m)": 192,
+    "Aktiv": "Nej"
+  },
+  {
+    "Id": 93360,
+    "Namn": "Molkom",
+    "Latitud": 59.6166,
+    "Longitud": 13.75,
+    "Höjd (m)": 93,
+    "Aktiv": "Nej"
+  },
+  {
+    "Id": 73570,
+    "Namn": "Molla",
+    "Latitud": 57.936,
+    "Longitud": 13.0668,
+    "Höjd (m)": 190,
+    "Aktiv": "Nej"
+  },
+  {
+    "Id": 104580,
+    "Namn": "Mora A",
+    "Latitud": 60.960076,
+    "Longitud": 14.504145,
+    "Höjd (m)": 195.417,
+    "Aktiv": "Ja"
+  },
+  {
+    "Id": 77170,
+    "Namn": "Mossen",
+    "Latitud": 57.2833,
+    "Longitud": 17.0042,
+    "Höjd (m)": 10,
+    "Aktiv": "Nej"
+  },
+  {
+    "Id": 85330,
+    "Namn": "Motala Kraftverk",
+    "Latitud": 58.5471,
+    "Longitud": 15.0753,
+    "Höjd (m)": 94,
+    "Aktiv": "Nej"
+  },
+  {
+    "Id": 73560,
+    "Namn": "Mullsjö",
+    "Latitud": 57.9166,
+    "Longitud": 13.8833,
+    "Höjd (m)": 240,
+    "Aktiv": "Nej"
+  },
+  {
+    "Id": 62130,
+    "Namn": "Munka-Ljungby",
+    "Latitud": 56.2287,
+    "Longitud": 12.9834,
+    "Höjd (m)": 20,
+    "Aktiv": "Nej"
+  },
+  {
+    "Id": 144160,
+    "Namn": "Munsvattnet",
+    "Latitud": 64.2734,
+    "Longitud": 14.451,
+    "Höjd (m)": 520,
+    "Aktiv": "Nej"
+  },
+  {
+    "Id": 183980,
+    "Namn": "Muodoslompolo",
+    "Latitud": 67.9443,
+    "Longitud": 23.4441,
+    "Höjd (m)": 240,
+    "Aktiv": "Nej"
+  },
+  {
+    "Id": 170850,
+    "Namn": "Murjek",
+    "Latitud": 66.4826,
+    "Longitud": 20.8813,
+    "Höjd (m)": 260,
+    "Aktiv": "Nej"
+  },
+  {
+    "Id": 160790,
+    "Namn": "Myrheden",
+    "Latitud": 65.2984,
+    "Longitud": 20.2124,
+    "Höjd (m)": 250,
+    "Aktiv": "Nej"
+  },
+  {
+    "Id": 78320,
+    "Namn": "Mästerby",
+    "Latitud": 57.472516,
+    "Longitud": 18.273912,
+    "Höjd (m)": 36.385,
+    "Aktiv": "Ja"
+  },
+  {
+    "Id": 75240,
+    "Namn": "Målilla",
+    "Latitud": 57.3964,
+    "Longitud": 15.8315,
+    "Höjd (m)": 100,
+    "Aktiv": "Nej"
+  },
+  {
+    "Id": 75250,
+    "Namn": "Målilla A",
+    "Latitud": 57.384546,
+    "Longitud": 15.800855,
+    "Höjd (m)": 95.667,
+    "Aktiv": "Ja"
+  },
+  {
+    "Id": 81060,
+    "Namn": "Måseskär",
+    "Latitud": 58.0944,
+    "Longitud": 11.3348,
+    "Höjd (m)": 14,
+    "Aktiv": "Nej"
+  },
+  {
+    "Id": 81050,
+    "Namn": "Måseskär A",
+    "Latitud": 58.093727,
+    "Longitud": 11.331159,
+    "Höjd (m)": 14.973,
+    "Aktiv": "Ja"
+  },
+  {
+    "Id": 66320,
+    "Namn": "Mörbylånga",
+    "Latitud": 56.5256,
+    "Longitud": 16.39,
+    "Höjd (m)": 5,
+    "Aktiv": "Nej"
+  },
+  {
+    "Id": 133190,
+    "Namn": "Mörsil",
+    "Latitud": 63.318301,
+    "Longitud": 13.645829,
+    "Höjd (m)": 420.343,
+    "Aktiv": "Nej"
+  },
+  {
+    "Id": 74630,
+    "Namn": "Naglarp",
+    "Latitud": 57.4666,
+    "Longitud": 14.8833,
+    "Höjd (m)": 250,
+    "Aktiv": "Nej"
+  },
+  {
+    "Id": 191900,
+    "Namn": "Naimakka",
+    "Latitud": 68.6779,
+    "Longitud": 21.5277,
+    "Höjd (m)": 403,
+    "Aktiv": "Nej"
+  },
+  {
+    "Id": 191910,
+    "Namn": "Naimakka A",
+    "Latitud": 68.676196,
+    "Longitud": 21.5229,
+    "Höjd (m)": 402.202,
+    "Aktiv": "Ja"
+  },
+  {
+    "Id": 172680,
+    "Namn": "Naisheden",
+    "Latitud": 66.5333,
+    "Longitud": 22.3666,
+    "Höjd (m)": 95,
+    "Aktiv": "Nej"
+  },
+  {
+    "Id": 170690,
+    "Namn": "Nattavaara",
+    "Latitud": 66.7666,
+    "Longitud": 20.9666,
+    "Höjd (m)": 330,
+    "Aktiv": "Nej"
+  },
+  {
+    "Id": 170930,
+    "Namn": "Nattavaara A",
+    "Latitud": 66.751555,
+    "Longitud": 20.923763,
+    "Höjd (m)": 327.631,
+    "Aktiv": "Ja"
+  },
+  {
+    "Id": 171920,
+    "Namn": "Nattavaara by",
+    "Latitud": 66.7586,
+    "Longitud": 21.0537,
+    "Höjd (m)": 350,
+    "Aktiv": "Nej"
+  },
+  {
+    "Id": 83420,
+    "Namn": "Naven A",
+    "Latitud": 58.6998,
+    "Longitud": 13.1109,
+    "Höjd (m)": 53,
+    "Aktiv": "Ja"
+  },
+  {
+    "Id": 191720,
+    "Namn": "Nedre Soppero V",
+    "Latitud": 68.04398,
+    "Longitud": 21.75496,
+    "Höjd (m)": 355,
+    "Aktiv": "Nej"
+  },
+  {
+    "Id": 71190,
+    "Namn": "Nidingen A",
+    "Latitud": 57.303642,
+    "Longitud": 11.904883,
+    "Höjd (m)": 3.785,
+    "Aktiv": "Ja"
+  },
+  {
+    "Id": 179950,
+    "Namn": "Nikkaluokta",
+    "Latitud": 67.8488,
+    "Longitud": 19.0233,
+    "Höjd (m)": 470,
+    "Aktiv": "Nej"
+  },
+  {
+    "Id": 179960,
+    "Namn": "Nikkaluokta A",
+    "Latitud": 67.852698,
+    "Longitud": 19.021199,
+    "Höjd (m)": 466.765,
+    "Aktiv": "Ja"
+  },
+  {
+    "Id": 114630,
+    "Namn": "Noppikoski",
+    "Latitud": 61.5,
+    "Longitud": 14.85,
+    "Höjd (m)": 340,
+    "Aktiv": "Nej"
+  },
+  {
+    "Id": 134090,
+    "Namn": "Norderön",
+    "Latitud": 63.161065,
+    "Longitud": 14.366099,
+    "Höjd (m)": 320.608,
+    "Aktiv": "Ja"
+  },
+  {
+    "Id": 81540,
+    "Namn": "Nordkoster A",
+    "Latitud": 58.89199,
+    "Longitud": 11.003808,
+    "Höjd (m)": 33.362,
+    "Aktiv": "Ja"
+  },
+  {
+    "Id": 139340,
+    "Namn": "Nordmaling",
+    "Latitud": 63.5739,
+    "Longitud": 19.4875,
+    "Höjd (m)": 4,
+    "Aktiv": "Nej"
+  },
+  {
+    "Id": 128510,
+    "Namn": "Nordvik",
+    "Latitud": 62.8485,
+    "Longitud": 18.0159,
+    "Höjd (m)": 20,
+    "Aktiv": "Nej"
+  },
+  {
+    "Id": 125170,
+    "Namn": "Norrberg-Norrhög V",
+    "Latitud": 62.26317,
+    "Longitud": 15.67093,
+    "Höjd (m)": 327,
+    "Aktiv": "Nej"
+  },
+  {
+    "Id": 171780,
+    "Namn": "Norriån",
+    "Latitud": 66.25,
+    "Longitud": 21.8,
+    "Höjd (m)": 55,
+    "Aktiv": "Nej"
+  },
+  {
+    "Id": 86360,
+    "Namn": "Norrköping",
+    "Latitud": 58.606,
+    "Longitud": 16.2127,
+    "Höjd (m)": 3,
+    "Aktiv": "Nej"
+  },
+  {
+    "Id": 86350,
+    "Namn": "Norrköping-Kungsängen",
+    "Latitud": 58.5842,
+    "Longitud": 16.2383,
+    "Höjd (m)": 5,
+    "Aktiv": "Nej"
+  },
+  {
+    "Id": 86340,
+    "Namn": "Norrköping-SMHI",
+    "Latitud": 58.582785,
+    "Longitud": 16.147034,
+    "Höjd (m)": 40.334,
+    "Aktiv": "Ja"
+  },
+  {
+    "Id": 86370,
+    "Namn": "Norrköping-Sörby",
+    "Latitud": 58.6082,
+    "Longitud": 16.1212,
+    "Höjd (m)": 27,
+    "Aktiv": "Nej"
+  },
+  {
+    "Id": 98460,
+    "Namn": "Norrtälje",
+    "Latitud": 59.7506,
+    "Longitud": 18.7091,
+    "Höjd (m)": 25,
+    "Aktiv": "Nej"
+  },
+  {
+    "Id": 98510,
+    "Namn": "Norrtälje-Väsby",
+    "Latitud": 59.8524,
+    "Longitud": 18.7296,
+    "Höjd (m)": 10,
+    "Aktiv": "Nej"
+  },
+  {
+    "Id": 145260,
+    "Namn": "Norråker",
+    "Latitud": 64.4309,
+    "Longitud": 15.6332,
+    "Höjd (m)": 344,
+    "Aktiv": "Nej"
+  },
+  {
+    "Id": 97160,
+    "Namn": "Norsborg II",
+    "Latitud": 59.2524,
+    "Longitud": 17.7989,
+    "Höjd (m)": 15,
+    "Aktiv": "Nej"
+  },
+  {
+    "Id": 149540,
+    "Namn": "Norsjö",
+    "Latitud": 64.9093,
+    "Longitud": 19.4746,
+    "Höjd (m)": 296,
+    "Aktiv": "Nej"
+  },
+  {
+    "Id": 149560,
+    "Namn": "Norsjö A",
+    "Latitud": 64.92526,
+    "Longitud": 19.374376,
+    "Höjd (m)": 309.576,
+    "Aktiv": "Ja"
+  },
+  {
+    "Id": 97180,
+    "Namn": "Nyckelby",
+    "Latitud": 59.3,
+    "Longitud": 17.7166,
+    "Höjd (m)": 25,
+    "Aktiv": "Nej"
+  },
+  {
+    "Id": 62140,
+    "Namn": "Nyhamnsläge",
+    "Latitud": 56.24514,
+    "Longitud": 12.540074,
+    "Höjd (m)": 12.454,
+    "Aktiv": "Nej"
+  },
+  {
+    "Id": 86660,
+    "Namn": "Nyköping",
+    "Latitud": 58.76647754831064,
+    "Longitud": 16.980029142738964,
+    "Höjd (m)": 23,
+    "Aktiv": "Nej"
+  },
+  {
+    "Id": 86480,
+    "Namn": "Nyköpings Flygplats",
+    "Latitud": 58.7833,
+    "Longitud": 16.9166,
+    "Höjd (m)": 42,
+    "Aktiv": "Nej"
+  },
+  {
+    "Id": 87570,
+    "Namn": "Nynäshamn",
+    "Latitud": 58.919,
+    "Longitud": 17.9318,
+    "Höjd (m)": 10,
+    "Aktiv": "Nej"
+  },
+  {
+    "Id": 74390,
+    "Namn": "Nässjö",
+    "Latitud": 57.6431,
+    "Longitud": 14.6895,
+    "Höjd (m)": 305,
+    "Aktiv": "Nej"
+  },
+  {
+    "Id": 78040,
+    "Namn": "Näsudden Aut",
+    "Latitud": 57.0735,
+    "Longitud": 18.2222,
+    "Höjd (m)": 5,
+    "Aktiv": "Nej"
+  },
+  {
+    "Id": 74240,
+    "Namn": "Nävelsjö",
+    "Latitud": 57.4042,
+    "Longitud": 14.891,
+    "Höjd (m)": 215,
+    "Aktiv": "Nej"
+  },
+  {
+    "Id": 137070,
+    "Namn": "Offer",
+    "Latitud": 63.1492,
+    "Longitud": 17.7617,
+    "Höjd (m)": 27,
+    "Aktiv": "Nej"
+  },
+  {
+    "Id": 76530,
+    "Namn": "Ogestad",
+    "Latitud": 57.8748,
+    "Longitud": 16.1689,
+    "Höjd (m)": 81,
+    "Aktiv": "Nej"
+  },
+  {
+    "Id": 64170,
+    "Namn": "Olofström",
+    "Latitud": 56.2773,
+    "Longitud": 14.5177,
+    "Höjd (m)": 65,
+    "Aktiv": "Nej"
+  },
+  {
+    "Id": 134610,
+    "Namn": "Ope",
+    "Latitud": 63.196645989591715,
+    "Longitud": 14.777396819070047,
+    "Höjd (m)": 350,
+    "Aktiv": "Nej"
+  },
+  {
+    "Id": 162980,
+    "Namn": "Orrbyn",
+    "Latitud": 65.9446,
+    "Longitud": 22.116,
+    "Höjd (m)": 15,
+    "Aktiv": "Nej"
+  },
+  {
+    "Id": 107220,
+    "Namn": "Orrskog",
+    "Latitud": 60.3833,
+    "Longitud": 17.4167,
+    "Höjd (m)": 35,
+    "Aktiv": "Nej"
+  },
+  {
+    "Id": 63220,
+    "Namn": "Osby",
+    "Latitud": 56.3742,
+    "Longitud": 13.9376,
+    "Höjd (m)": 90,
+    "Aktiv": "Ja"
+  },
+  {
+    "Id": 52360,
+    "Namn": "Oskarsgrundet Aut",
+    "Latitud": 55.597,
+    "Longitud": 12.8575,
+    "Höjd (m)": 1,
+    "Aktiv": "Nej"
+  },
+  {
+    "Id": 76160,
+    "Namn": "Oskarshamn",
+    "Latitud": 57.267048,
+    "Longitud": 16.411357,
+    "Höjd (m)": 12.072,
+    "Aktiv": "Ja"
+  },
+  {
+    "Id": 87400,
+    "Namn": "Oxelösund",
+    "Latitud": 58.677169,
+    "Longitud": 17.119858,
+    "Höjd (m)": 7.154,
+    "Aktiv": "Nej"
+  },
+  {
+    "Id": 172940,
+    "Namn": "Paharova A",
+    "Latitud": 66.809377,
+    "Longitud": 22.331543,
+    "Höjd (m)": 227.643,
+    "Aktiv": "Ja"
+  },
+  {
+    "Id": 183760,
+    "Namn": "Pajala",
+    "Latitud": 67.2101,
+    "Longitud": 23.3928,
+    "Höjd (m)": 168,
+    "Aktiv": "Nej"
+  },
+  {
+    "Id": 183750,
+    "Namn": "Pajala A",
+    "Latitud": 67.20363,
+    "Longitud": 23.389945,
+    "Höjd (m)": 163.774,
+    "Aktiv": "Ja"
+  },
+  {
+    "Id": 182910,
+    "Namn": "Parkalompolo A",
+    "Latitud": 67.73014,
+    "Longitud": 22.821936,
+    "Höjd (m)": 312.183,
+    "Aktiv": "Ja"
+  },
+  {
+    "Id": 94450,
+    "Namn": "Persberg",
+    "Latitud": 59.7497,
+    "Longitud": 14.2354,
+    "Höjd (m)": 225,
+    "Aktiv": "Nej"
+  },
+  {
+    "Id": 149340,
+    "Namn": "Petisträsk A",
+    "Latitud": 64.565933,
+    "Longitud": 19.694343,
+    "Höjd (m)": 258.047,
+    "Aktiv": "Ja"
+  },
+  {
+    "Id": 161710,
+    "Namn": "Pite-Rönnskär A",
+    "Latitud": 65.033984,
+    "Longitud": 21.560895,
+    "Höjd (m)": 4.878,
+    "Aktiv": "Ja"
+  },
+  {
+    "Id": 161790,
+    "Namn": "Piteå",
+    "Latitud": 65.262478,
+    "Longitud": 21.473975,
+    "Höjd (m)": 8.268,
+    "Aktiv": "Ja"
+  },
+  {
+    "Id": 161770,
+    "Namn": "Pitsund",
+    "Latitud": 65.23,
+    "Longitud": 21.52,
+    "Höjd (m)": 8,
+    "Aktiv": "Nej"
+  },
+  {
+    "Id": 169980,
+    "Namn": "Porjus",
+    "Latitud": 66.9597,
+    "Longitud": 19.823,
+    "Höjd (m)": 375,
+    "Aktiv": "Nej"
+  },
+  {
+    "Id": 74440,
+    "Namn": "Prästkulla",
+    "Latitud": 57.723627,
+    "Longitud": 14.982914,
+    "Höjd (m)": 294.019,
+    "Aktiv": "Nej"
+  },
+  {
+    "Id": 171810,
+    "Namn": "Pålkem",
+    "Latitud": 66.3888,
+    "Longitud": 21.6098,
+    "Höjd (m)": 265,
+    "Aktiv": "Nej"
+  },
+  {
+    "Id": 171820,
+    "Namn": "Pålkem M",
+    "Latitud": 66.38550000000001,
+    "Longitud": 21.6167,
+    "Höjd (m)": 261,
+    "Aktiv": "Nej"
+  },
+  {
+    "Id": 136320,
+    "Namn": "Ramsele",
+    "Latitud": 63.32,
+    "Longitud": 16.28,
+    "Höjd (m)": 205,
+    "Aktiv": "Nej"
+  },
+  {
+    "Id": 74490,
+    "Namn": "Ramsjöholm",
+    "Latitud": 57.8429,
+    "Longitud": 14.4317,
+    "Höjd (m)": 225,
+    "Aktiv": "Nej"
+  },
+  {
+    "Id": 169930,
+    "Namn": "Randijaur",
+    "Latitud": 66.761,
+    "Longitud": 19.3168,
+    "Höjd (m)": 290,
+    "Aktiv": "Nej"
+  },
+  {
+    "Id": 83280,
+    "Namn": "Remningstorp",
+    "Latitud": 58.4529,
+    "Longitud": 13.6671,
+    "Höjd (m)": 140,
+    "Aktiv": "Nej"
+  },
+  {
+    "Id": 189720,
+    "Namn": "Rensjön A",
+    "Latitud": 68.073031,
+    "Longitud": 19.835086,
+    "Höjd (m)": 493.651,
+    "Aktiv": "Ja"
+  },
+  {
+    "Id": 150090,
+    "Namn": "Rickleå",
+    "Latitud": 64.0875,
+    "Longitud": 20.9444,
+    "Höjd (m)": 10,
+    "Aktiv": "Nej"
+  },
+  {
+    "Id": 95490,
+    "Namn": "Riddarhyttan",
+    "Latitud": 59.8085,
+    "Longitud": 15.5555,
+    "Höjd (m)": 155,
+    "Aktiv": "Nej"
+  },
+  {
+    "Id": 188830,
+    "Namn": "Riksgränsen",
+    "Latitud": 68.4284,
+    "Longitud": 18.1302,
+    "Höjd (m)": 508,
+    "Aktiv": "Nej"
+  },
+  {
+    "Id": 72150,
+    "Namn": "Ringhals",
+    "Latitud": 57.253,
+    "Longitud": 12.1032,
+    "Höjd (m)": 10,
+    "Aktiv": "Nej"
+  },
+  {
+    "Id": 72160,
+    "Namn": "Ringhals Aut",
+    "Latitud": 57.2577,
+    "Longitud": 12.107,
+    "Höjd (m)": 10,
+    "Aktiv": "Nej"
+  },
+  {
+    "Id": 64600,
+    "Namn": "Rinkaby",
+    "Latitud": 55.9833,
+    "Longitud": 14.2666,
+    "Höjd (m)": 7,
+    "Aktiv": "Nej"
+  },
+  {
+    "Id": 86570,
+    "Namn": "Ripsa",
+    "Latitud": 58.9817,
+    "Longitud": 16.9168,
+    "Höjd (m)": 40,
+    "Aktiv": "Nej"
+  },
+  {
+    "Id": 108110,
+    "Namn": "Risinge",
+    "Latitud": 60.174834,
+    "Longitud": 18.223993,
+    "Höjd (m)": 17.21,
+    "Aktiv": "Nej"
+  },
+  {
+    "Id": 147420,
+    "Namn": "Risträsk V",
+    "Latitud": 64.73431,
+    "Longitud": 17.40337,
+    "Höjd (m)": 598,
+    "Aktiv": "Nej"
+  },
+  {
+    "Id": 177920,
+    "Namn": "Ritsem",
+    "Latitud": 67.7261,
+    "Longitud": 17.4718,
+    "Höjd (m)": 521,
+    "Aktiv": "Nej"
+  },
+  {
+    "Id": 177930,
+    "Namn": "Ritsem A",
+    "Latitud": 67.72546,
+    "Longitud": 17.466779,
+    "Höjd (m)": 541.214,
+    "Aktiv": "Ja"
+  },
+  {
+    "Id": 78310,
+    "Namn": "Roma",
+    "Latitud": 57.5069,
+    "Longitud": 18.4539,
+    "Höjd (m)": 32,
+    "Aktiv": "Nej"
+  },
+  {
+    "Id": 78300,
+    "Namn": "Roma Aut",
+    "Latitud": 57.4998,
+    "Longitud": 18.4639,
+    "Höjd (m)": 32,
+    "Aktiv": "Nej"
+  },
+  {
+    "Id": 78290,
+    "Namn": "Roma V",
+    "Latitud": 57.54361,
+    "Longitud": 18.42533,
+    "Höjd (m)": 32,
+    "Aktiv": "Ja"
+  },
+  {
+    "Id": 85010,
+    "Namn": "Romanäs",
+    "Latitud": 58.0694,
+    "Longitud": 15.0222,
+    "Höjd (m)": 155,
+    "Aktiv": "Nej"
+  },
+  {
+    "Id": 65730,
+    "Namn": "Ronneby",
+    "Latitud": 56.2,
+    "Longitud": 15.2833,
+    "Höjd (m)": 10,
+    "Aktiv": "Nej"
+  },
+  {
+    "Id": 65160,
+    "Namn": "Ronneby-Bredåkra",
+    "Latitud": 56.2619,
+    "Longitud": 15.2742,
+    "Höjd (m)": 58,
+    "Aktiv": "Ja"
+  },
+  {
+    "Id": 72300,
+    "Namn": "Rossared D",
+    "Latitud": 57.485,
+    "Longitud": 12.1997,
+    "Höjd (m)": 15,
+    "Aktiv": "Nej"
+  },
+  {
+    "Id": 64620,
+    "Namn": "Ryd",
+    "Latitud": 56.45,
+    "Longitud": 14.7166,
+    "Höjd (m)": 140,
+    "Aktiv": "Nej"
+  },
+  {
+    "Id": 53180,
+    "Namn": "Rynge V",
+    "Latitud": 55.47411,
+    "Longitud": 13.66833,
+    "Höjd (m)": 48,
+    "Aktiv": "Nej"
+  },
+  {
+    "Id": 75160,
+    "Namn": "Ryningsnäs",
+    "Latitud": 57.2666,
+    "Longitud": 15.9333,
+    "Höjd (m)": 90,
+    "Aktiv": "Nej"
+  },
+  {
+    "Id": 105200,
+    "Namn": "Rämshyttan",
+    "Latitud": 60.3333,
+    "Longitud": 15.2,
+    "Höjd (m)": 260,
+    "Aktiv": "Nej"
+  },
+  {
+    "Id": 73480,
+    "Namn": "Rångedala A",
+    "Latitud": 57.784635,
+    "Longitud": 13.164167,
+    "Höjd (m)": 297.467,
+    "Aktiv": "Ja"
+  },
+  {
+    "Id": 140490,
+    "Namn": "Röbäcksdalen",
+    "Latitud": 63.8129,
+    "Longitud": 20.2397,
+    "Höjd (m)": 10,
+    "Aktiv": "Nej"
+  },
+  {
+    "Id": 162790,
+    "Namn": "Rödkallen A",
+    "Latitud": 65.312069,
+    "Longitud": 22.37093,
+    "Höjd (m)": 1.932,
+    "Aktiv": "Ja"
+  },
+  {
+    "Id": 81040,
+    "Namn": "Rörastrand",
+    "Latitud": 58.057816,
+    "Longitud": 11.645397,
+    "Höjd (m)": 9.465,
+    "Aktiv": "Ja"
+  },
+  {
+    "Id": 112080,
+    "Namn": "Rörbäcksnäs",
+    "Latitud": 61.1269,
+    "Longitud": 12.8226,
+    "Höjd (m)": 465,
+    "Aktiv": "Nej"
+  },
+  {
+    "Id": 65360,
+    "Namn": "Rörsbo",
+    "Latitud": 56.601,
+    "Longitud": 15.5192,
+    "Höjd (m)": 140,
+    "Aktiv": "Nej"
+  },
+  {
+    "Id": 98260,
+    "Namn": "Röskär",
+    "Latitud": 59.4166,
+    "Longitud": 18.1666,
+    "Höjd (m)": 15,
+    "Aktiv": "Nej"
+  },
+  {
+    "Id": 134150,
+    "Namn": "Rösta",
+    "Latitud": 63.2443,
+    "Longitud": 14.5535,
+    "Höjd (m)": 360,
+    "Aktiv": "Nej"
+  },
+  {
+    "Id": 116230,
+    "Namn": "Röstebo",
+    "Latitud": 61.3882,
+    "Longitud": 16.4295,
+    "Höjd (m)": 115,
+    "Aktiv": "Nej"
+  },
+  {
+    "Id": 182810,
+    "Namn": "Saittarova A",
+    "Latitud": 67.336272,
+    "Longitud": 22.228813,
+    "Höjd (m)": 240.652,
+    "Aktiv": "Ja"
+  },
+  {
+    "Id": 96550,
+    "Namn": "Sala",
+    "Latitud": 59.90361,
+    "Longitud": 16.657948,
+    "Höjd (m)": 57.575,
+    "Aktiv": "Nej"
+  },
+  {
+    "Id": 96560,
+    "Namn": "Sala A",
+    "Latitud": 59.909311,
+    "Longitud": 16.684333,
+    "Höjd (m)": 56.575,
+    "Aktiv": "Ja"
+  },
+  {
+    "Id": 159680,
+    "Namn": "Saltmyran",
+    "Latitud": 65.4166,
+    "Longitud": 19.5,
+    "Höjd (m)": 350,
+    "Aktiv": "Nej"
+  },
+  {
+    "Id": 178680,
+    "Namn": "Saltoluokta",
+    "Latitud": 67.3833,
+    "Longitud": 18.55,
+    "Höjd (m)": 393,
+    "Aktiv": "Nej"
+  },
+  {
+    "Id": 107050,
+    "Namn": "Sandbro",
+    "Latitud": 60.0042,
+    "Longitud": 17.5833,
+    "Höjd (m)": 35,
+    "Aktiv": "Nej"
+  },
+  {
+    "Id": 76000,
+    "Namn": "Sandbäckshult",
+    "Latitud": 56.9835,
+    "Longitud": 16.283,
+    "Höjd (m)": 37,
+    "Aktiv": "Nej"
+  },
+  {
+    "Id": 54230,
+    "Namn": "Sandhammaren",
+    "Latitud": 55.3872,
+    "Longitud": 14.1947,
+    "Höjd (m)": 4,
+    "Aktiv": "Nej"
+  },
+  {
+    "Id": 98170,
+    "Namn": "Sandhamn",
+    "Latitud": 59.2901,
+    "Longitud": 18.9179,
+    "Höjd (m)": 15,
+    "Aktiv": "Nej"
+  },
+  {
+    "Id": 72340,
+    "Namn": "Sandsjöbacka",
+    "Latitud": 57.5571,
+    "Longitud": 12.0387,
+    "Höjd (m)": 50,
+    "Aktiv": "Nej"
+  },
+  {
+    "Id": 106360,
+    "Namn": "Sandviken",
+    "Latitud": 60.6103,
+    "Longitud": 16.7896,
+    "Höjd (m)": 65,
+    "Aktiv": "Nej"
+  },
+  {
+    "Id": 54390,
+    "Namn": "Sankt Olof",
+    "Latitud": 55.6402,
+    "Longitud": 14.1273,
+    "Höjd (m)": 130,
+    "Aktiv": "Nej"
+  },
+  {
+    "Id": 170920,
+    "Namn": "Sarkavara",
+    "Latitud": 66.7374,
+    "Longitud": 20.3605,
+    "Höjd (m)": 385,
+    "Aktiv": "Nej"
+  },
+  {
+    "Id": 178850,
+    "Namn": "Satis",
+    "Latitud": 67.5009,
+    "Longitud": 18.3911,
+    "Höjd (m)": 425,
+    "Aktiv": "Nej"
+  },
+  {
+    "Id": 145580,
+    "Namn": "Saxnäs V",
+    "Latitud": 64.96782,
+    "Longitud": 15.37907,
+    "Höjd (m)": 542,
+    "Aktiv": "Nej"
+  },
+  {
+    "Id": 127220,
+    "Namn": "Sidsjö D",
+    "Latitud": 62.3809,
+    "Longitud": 17.2854,
+    "Höjd (m)": 60,
+    "Aktiv": "Nej"
+  },
+  {
+    "Id": 135380,
+    "Namn": "Sikåskälen",
+    "Latitud": 63.6198,
+    "Longitud": 15.0929,
+    "Höjd (m)": 490,
+    "Aktiv": "Nej"
+  },
+  {
+    "Id": 104530,
+    "Namn": "Siljansfors",
+    "Latitud": 60.8846,
+    "Longitud": 14.3786,
+    "Höjd (m)": 260,
+    "Aktiv": "Nej"
+  },
+  {
+    "Id": 126440,
+    "Namn": "Sillre V",
+    "Latitud": 62.76291,
+    "Longitud": 16.7387,
+    "Höjd (m)": 210,
+    "Aktiv": "Nej"
+  },
+  {
+    "Id": 63440,
+    "Namn": "Simlångsdalen",
+    "Latitud": 56.7154,
+    "Longitud": 13.1247,
+    "Höjd (m)": 75,
+    "Aktiv": "Nej"
+  },
+  {
+    "Id": 83050,
+    "Namn": "Simonstorp",
+    "Latitud": 58.0788,
+    "Longitud": 13.3957,
+    "Höjd (m)": 190,
+    "Aktiv": "Nej"
+  },
+  {
+    "Id": 86470,
+    "Namn": "Simonstorp_ö",
+    "Latitud": 58.78468,
+    "Longitud": 16.15439,
+    "Höjd (m)": 80,
+    "Aktiv": "Nej"
+  },
+  {
+    "Id": 54330,
+    "Namn": "Simrishamn",
+    "Latitud": 55.544900000000005,
+    "Longitud": 14.357800000000001,
+    "Höjd (m)": 8,
+    "Aktiv": "Nej"
+  },
+  {
+    "Id": 63450,
+    "Namn": "Singeshult",
+    "Latitud": 56.7429,
+    "Longitud": 13.3608,
+    "Höjd (m)": 165,
+    "Aktiv": "Nej"
+  },
+  {
+    "Id": 108100,
+    "Namn": "Singö",
+    "Latitud": 60.1595,
+    "Longitud": 18.7436,
+    "Höjd (m)": 12,
+    "Aktiv": "Nej"
+  },
+  {
+    "Id": 64630,
+    "Namn": "Sjöaryd",
+    "Latitud": 56.5166,
+    "Longitud": 14.75,
+    "Höjd (m)": 150,
+    "Aktiv": "Nej"
+  },
+  {
+    "Id": 139630,
+    "Namn": "Skag",
+    "Latitud": 63.199245648078005,
+    "Longitud": 19.046213089316886,
+    "Höjd (m)": 10,
+    "Aktiv": "Nej"
+  },
+  {
+    "Id": 139110,
+    "Namn": "Skagsudde",
+    "Latitud": 63.1885,
+    "Longitud": 19.0194,
+    "Höjd (m)": 13,
+    "Aktiv": "Nej"
+  },
+  {
+    "Id": 139120,
+    "Namn": "Skagsudde A",
+    "Latitud": 63.187151,
+    "Longitud": 19.01994,
+    "Höjd (m)": 9.343,
+    "Aktiv": "Ja"
+  },
+  {
+    "Id": 83270,
+    "Namn": "Skara",
+    "Latitud": 58.4072,
+    "Longitud": 13.4407,
+    "Höjd (m)": 115,
+    "Aktiv": "Ja"
+  },
+  {
+    "Id": 83620,
+    "Namn": "Skara",
+    "Latitud": 58.400000000000006,
+    "Longitud": 13.450000000000001,
+    "Höjd (m)": 116,
+    "Aktiv": "Nej"
+  },
+  {
+    "Id": 83240,
+    "Namn": "Skara-Ekeberg",
+    "Latitud": 58.4,
+    "Longitud": 13.55,
+    "Höjd (m)": 130,
+    "Aktiv": "Nej"
+  },
+  {
+    "Id": 83200,
+    "Namn": "Skara-Stenum",
+    "Latitud": 58.37,
+    "Longitud": 13.52,
+    "Höjd (m)": 130,
+    "Aktiv": "Nej"
+  },
+  {
+    "Id": 83260,
+    "Namn": "Skara-Västerskog",
+    "Latitud": 58.38,
+    "Longitud": 13.33,
+    "Höjd (m)": 105,
+    "Aktiv": "Nej"
+  },
+  {
+    "Id": 98160,
+    "Namn": "Skarpö A",
+    "Latitud": 59.344558,
+    "Longitud": 18.740434,
+    "Höjd (m)": 19.287,
+    "Aktiv": "Ja"
+  },
+  {
+    "Id": 66500,
+    "Namn": "Skedemosse",
+    "Latitud": 56.823,
+    "Longitud": 16.7337,
+    "Höjd (m)": 25,
+    "Aktiv": "Nej"
+  },
+  {
+    "Id": 150450,
+    "Namn": "Skellefteå",
+    "Latitud": 64.7584,
+    "Longitud": 20.9478,
+    "Höjd (m)": 40,
+    "Aktiv": "Nej"
+  },
+  {
+    "Id": 151380,
+    "Namn": "Skellefteå Flygplats",
+    "Latitud": 64.62440000000001,
+    "Longitud": 21.0717,
+    "Höjd (m)": 48,
+    "Aktiv": "Ja"
+  },
+  {
+    "Id": 105070,
+    "Namn": "Skeppsmora V",
+    "Latitud": 60.12295,
+    "Longitud": 15.12262,
+    "Höjd (m)": 246,
+    "Aktiv": "Nej"
+  },
+  {
+    "Id": 54290,
+    "Namn": "Skillinge A",
+    "Latitud": 55.489012,
+    "Longitud": 14.314383,
+    "Höjd (m)": 4.016,
+    "Aktiv": "Ja"
+  },
+  {
+    "Id": 95500,
+    "Namn": "Skinnskatteberg",
+    "Latitud": 59.8333,
+    "Longitud": 15.6833,
+    "Höjd (m)": 113,
+    "Aktiv": "Nej"
+  },
+  {
+    "Id": 53670,
+    "Namn": "Skivarp",
+    "Latitud": 55.43339756841115,
+    "Longitud": 13.580525730384435,
+    "Höjd (m)": 20,
+    "Aktiv": "Nej"
+  },
+  {
+    "Id": 85280,
+    "Namn": "Skärkind",
+    "Latitud": 58.472,
+    "Longitud": 16.0017,
+    "Höjd (m)": 60,
+    "Aktiv": "Nej"
+  },
+  {
+    "Id": 124390,
+    "Namn": "Skålan",
+    "Latitud": 62.65,
+    "Longitud": 14.1666,
+    "Höjd (m)": 452,
+    "Aktiv": "Nej"
+  },
+  {
+    "Id": 63230,
+    "Namn": "Skånes fagerhult",
+    "Latitud": 56.366600000000005,
+    "Longitud": 13.466600000000001,
+    "Höjd (m)": 118,
+    "Aktiv": "Nej"
+  },
+  {
+    "Id": 83230,
+    "Namn": "Skövde",
+    "Latitud": 58.3949,
+    "Longitud": 13.8436,
+    "Höjd (m)": 150,
+    "Aktiv": "Ja"
+  },
+  {
+    "Id": 53200,
+    "Namn": "Smygehuk",
+    "Latitud": 55.3376,
+    "Longitud": 13.3563,
+    "Höjd (m)": 5,
+    "Aktiv": "Nej"
+  },
+  {
+    "Id": 81220,
+    "Namn": "Smögen",
+    "Latitud": 58.3571,
+    "Longitud": 11.2276,
+    "Höjd (m)": 20,
+    "Aktiv": "Nej"
+  },
+  {
+    "Id": 84580,
+    "Namn": "Snavlunda",
+    "Latitud": 58.9671,
+    "Longitud": 14.8987,
+    "Höjd (m)": 144,
+    "Aktiv": "Nej"
+  },
+  {
+    "Id": 137100,
+    "Namn": "Sollefteå",
+    "Latitud": 63.166700000000006,
+    "Longitud": 17.2802,
+    "Höjd (m)": 20,
+    "Aktiv": "Nej"
+  },
+  {
+    "Id": 97560,
+    "Namn": "Solsidan",
+    "Latitud": 59.4,
+    "Longitud": 17.5639,
+    "Höjd (m)": 15,
+    "Aktiv": "Nej"
+  },
+  {
+    "Id": 106060,
+    "Namn": "Sonnbo",
+    "Latitud": 60.1197,
+    "Longitud": 16.2838,
+    "Höjd (m)": 89,
+    "Aktiv": "Nej"
+  },
+  {
+    "Id": 157860,
+    "Namn": "Sorsele",
+    "Latitud": 65.536974,
+    "Longitud": 17.528993,
+    "Höjd (m)": 344.698,
+    "Aktiv": "Ja"
+  },
+  {
+    "Id": 74340,
+    "Namn": "Spinkabo",
+    "Latitud": 57.5653,
+    "Longitud": 14.4693,
+    "Höjd (m)": 285,
+    "Aktiv": "Nej"
+  },
+  {
+    "Id": 88580,
+    "Namn": "Stabbo",
+    "Latitud": 58.9733,
+    "Longitud": 18.4493,
+    "Höjd (m)": 7,
+    "Aktiv": "Nej"
+  },
+  {
+    "Id": 53720,
+    "Namn": "Staffanstorp",
+    "Latitud": 55.65,
+    "Longitud": 13.2166,
+    "Höjd (m)": 20,
+    "Aktiv": "Nej"
+  },
+  {
+    "Id": 176800,
+    "Namn": "Staloluokta",
+    "Latitud": 67.4083,
+    "Longitud": 16.4199,
+    "Höjd (m)": 600,
+    "Aktiv": "Nej"
+  },
+  {
+    "Id": 86440,
+    "Namn": "Stavsjö Aut",
+    "Latitud": 58.7333,
+    "Longitud": 16.3667,
+    "Höjd (m)": 60,
+    "Aktiv": "Nej"
+  },
+  {
+    "Id": 53540,
+    "Namn": "Stehag",
+    "Latitud": 55.9033,
+    "Longitud": 13.3995,
+    "Höjd (m)": 60,
+    "Aktiv": "Nej"
+  },
+  {
+    "Id": 154730,
+    "Namn": "Stekenjokk A",
+    "Latitud": 65.0942,
+    "Longitud": 14.5085,
+    "Höjd (m)": 1036,
+    "Aktiv": "Ja"
+  },
+  {
+    "Id": 96210,
+    "Namn": "Stenkvista",
+    "Latitud": 59.3221,
+    "Longitud": 16.5577,
+    "Höjd (m)": 35,
+    "Aktiv": "Nej"
+  },
+  {
+    "Id": 157720,
+    "Namn": "Stensele",
+    "Latitud": 65.0706,
+    "Longitud": 17.1536,
+    "Höjd (m)": 325,
+    "Aktiv": "Nej"
+  },
+  {
+    "Id": 54400,
+    "Namn": "Stenshuvud",
+    "Latitud": 55.6646,
+    "Longitud": 14.2595,
+    "Höjd (m)": 112,
+    "Aktiv": "Nej"
+  },
+  {
+    "Id": 78360,
+    "Namn": "Stenstugu Försöksgård",
+    "Latitud": 57.5979,
+    "Longitud": 18.4507,
+    "Höjd (m)": 45,
+    "Aktiv": "Nej"
+  },
+  {
+    "Id": 167860,
+    "Namn": "Stenudden",
+    "Latitud": 66.5343,
+    "Longitud": 17.6677,
+    "Höjd (m)": 453,
+    "Aktiv": "Nej"
+  },
+  {
+    "Id": 106270,
+    "Namn": "Stjärnsund",
+    "Latitud": 60.4551,
+    "Longitud": 16.2662,
+    "Höjd (m)": 130,
+    "Aktiv": "Nej"
+  },
+  {
+    "Id": 98210,
+    "Namn": "Stockholm",
+    "Latitud": 59.341682,
+    "Longitud": 18.054928,
+    "Höjd (m)": 43.133,
+    "Aktiv": "Ja"
+  },
+  {
+    "Id": 98230,
+    "Namn": "Stockholm A",
+    "Latitud": 59.341681,
+    "Longitud": 18.054928,
+    "Höjd (m)": 43.133,
+    "Aktiv": "Ja"
+  },
+  {
+    "Id": 97400,
+    "Namn": "Stockholm-Arlanda",
+    "Latitud": 59.6269,
+    "Longitud": 17.9545,
+    "Höjd (m)": 42,
+    "Aktiv": "Ja"
+  },
+  {
+    "Id": 97200,
+    "Namn": "Stockholm-Bromma",
+    "Latitud": 59.3537,
+    "Longitud": 17.9513,
+    "Höjd (m)": 14,
+    "Aktiv": "Ja"
+  },
+  {
+    "Id": 77180,
+    "Namn": "Stora Karlsö",
+    "Latitud": 57.2893,
+    "Longitud": 17.9623,
+    "Höjd (m)": 40,
+    "Aktiv": "Nej"
+  },
+  {
+    "Id": 73090,
+    "Namn": "Stora Segerstad",
+    "Latitud": 57.1461,
+    "Longitud": 13.5609,
+    "Höjd (m)": 180,
+    "Aktiv": "Nej"
+  },
+  {
+    "Id": 178860,
+    "Namn": "Stora Sjöfallet A",
+    "Latitud": 67.494825,
+    "Longitud": 18.290721,
+    "Höjd (m)": 426.536,
+    "Aktiv": "Ja"
+  },
+  {
+    "Id": 105220,
+    "Namn": "Stora Spånsberget A",
+    "Latitud": 60.381674,
+    "Longitud": 15.137371,
+    "Höjd (m)": 492.257,
+    "Aktiv": "Ja"
+  },
+  {
+    "Id": 133570,
+    "Namn": "Stora Stensjön Aut",
+    "Latitud": 63.9687,
+    "Longitud": 13.7251,
+    "Höjd (m)": 680,
+    "Aktiv": "Nej"
+  },
+  {
+    "Id": 158850,
+    "Namn": "Storberg",
+    "Latitud": 65.5085,
+    "Longitud": 18.9505,
+    "Höjd (m)": 453,
+    "Aktiv": "Nej"
+  },
+  {
+    "Id": 112530,
+    "Namn": "Storbo V",
+    "Latitud": 61.84026,
+    "Longitud": 12.28798,
+    "Höjd (m)": 661,
+    "Aktiv": "Nej"
+  },
+  {
+    "Id": 136360,
+    "Namn": "Storfinnforsen",
+    "Latitud": 63.595,
+    "Longitud": 16.1846,
+    "Höjd (m)": 232,
+    "Aktiv": "Nej"
+  },
+  {
+    "Id": 113610,
+    "Namn": "Storfjället-Sälen",
+    "Latitud": 61.1666,
+    "Longitud": 13.1166,
+    "Höjd (m)": 770,
+    "Aktiv": "Nej"
+  },
+  {
+    "Id": 94320,
+    "Namn": "Storfors",
+    "Latitud": 59.5365,
+    "Longitud": 14.28,
+    "Höjd (m)": 120,
+    "Aktiv": "Nej"
+  },
+  {
+    "Id": 117610,
+    "Namn": "Storjungfrun",
+    "Latitud": 61.1666,
+    "Longitud": 17.3333,
+    "Höjd (m)": 10,
+    "Aktiv": "Nej"
+  },
+  {
+    "Id": 149570,
+    "Namn": "Storliden",
+    "Latitud": 64.95,
+    "Longitud": 19.4833,
+    "Höjd (m)": 390,
+    "Aktiv": "Nej"
+  },
+  {
+    "Id": 132620,
+    "Namn": "Storlien",
+    "Latitud": 63.3158,
+    "Longitud": 12.1009,
+    "Höjd (m)": 595,
+    "Aktiv": "Nej"
+  },
+  {
+    "Id": 132170,
+    "Namn": "Storlien-Storvallen A",
+    "Latitud": 63.282631,
+    "Longitud": 12.121811,
+    "Höjd (m)": 583.124,
+    "Aktiv": "Ja"
+  },
+  {
+    "Id": 132180,
+    "Namn": "Storlien-Visjövalen",
+    "Latitud": 63.3028,
+    "Longitud": 12.1253,
+    "Höjd (m)": 642,
+    "Aktiv": "Nej"
+  },
+  {
+    "Id": 98140,
+    "Namn": "Stormyra",
+    "Latitud": 59.202385,
+    "Longitud": 18.327206,
+    "Höjd (m)": 15.646,
+    "Aktiv": "Nej"
+  },
+  {
+    "Id": 159600,
+    "Namn": "Stormyrheden",
+    "Latitud": 65.78,
+    "Longitud": 19.38,
+    "Höjd (m)": 445,
+    "Aktiv": "Nej"
+  },
+  {
+    "Id": 123480,
+    "Namn": "Storsjö Kapell",
+    "Latitud": 62.8016,
+    "Longitud": 13.0731,
+    "Höjd (m)": 580,
+    "Aktiv": "Nej"
+  },
+  {
+    "Id": 163920,
+    "Namn": "Storöhamn",
+    "Latitud": 65.7306,
+    "Longitud": 23.0924,
+    "Höjd (m)": 7,
+    "Aktiv": "Nej"
+  },
+  {
+    "Id": 163900,
+    "Namn": "Storön A",
+    "Latitud": 65.697197,
+    "Longitud": 23.095864,
+    "Höjd (m)": 2.394,
+    "Aktiv": "Ja"
+  },
+  {
+    "Id": 74650,
+    "Namn": "Strandvallen",
+    "Latitud": 57.85,
+    "Longitud": 14.2833,
+    "Höjd (m)": 110,
+    "Aktiv": "Nej"
+  },
+  {
+    "Id": 97270,
+    "Namn": "Strängnäs",
+    "Latitud": 59.402,
+    "Longitud": 17.0605,
+    "Höjd (m)": 25,
+    "Aktiv": "Nej"
+  },
+  {
+    "Id": 96030,
+    "Namn": "Strängstorp",
+    "Latitud": 59.05,
+    "Longitud": 16.2166,
+    "Höjd (m)": 62,
+    "Aktiv": "Nej"
+  },
+  {
+    "Id": 81560,
+    "Namn": "Strömstad",
+    "Latitud": 58.9333,
+    "Longitud": 11.2,
+    "Höjd (m)": 20,
+    "Aktiv": "Nej"
+  },
+  {
+    "Id": 135520,
+    "Namn": "Strömsund",
+    "Latitud": 63.8548,
+    "Longitud": 15.5894,
+    "Höjd (m)": 373,
+    "Aktiv": "Nej"
+  },
+  {
+    "Id": 53300,
+    "Namn": "Sturup",
+    "Latitud": 55.5231,
+    "Longitud": 13.3787,
+    "Höjd (m)": 72,
+    "Aktiv": "Ja"
+  },
+  {
+    "Id": 94580,
+    "Namn": "Ställdalen",
+    "Latitud": 59.9391,
+    "Longitud": 14.891,
+    "Höjd (m)": 205,
+    "Aktiv": "Ja"
+  },
+  {
+    "Id": 94660,
+    "Namn": "Stångfallet",
+    "Latitud": 59.95,
+    "Longitud": 14.8833,
+    "Höjd (m)": 230,
+    "Aktiv": "Nej"
+  },
+  {
+    "Id": 159970,
+    "Namn": "Suddesjaur",
+    "Latitud": 65.8952,
+    "Longitud": 19.0929,
+    "Höjd (m)": 342,
+    "Aktiv": "Nej"
+  },
+  {
+    "Id": 170790,
+    "Namn": "Sudok",
+    "Latitud": 66.3006,
+    "Longitud": 20.424,
+    "Höjd (m)": 170,
+    "Aktiv": "Nej"
+  },
+  {
+    "Id": 161680,
+    "Namn": "Sunderbyn",
+    "Latitud": 65.7,
+    "Longitud": 21.85,
+    "Höjd (m)": 20,
+    "Aktiv": "Nej"
+  },
+  {
+    "Id": 136640,
+    "Namn": "Sundmo",
+    "Latitud": 63.5,
+    "Longitud": 16.7,
+    "Höjd (m)": 200,
+    "Aktiv": "Nej"
+  },
+  {
+    "Id": 127240,
+    "Namn": "Sundsvall",
+    "Latitud": 62.4066,
+    "Longitud": 17.2664,
+    "Höjd (m)": 35,
+    "Aktiv": "Nej"
+  },
+  {
+    "Id": 127230,
+    "Namn": "Sundsvall-Råsta V",
+    "Latitud": 62.43064,
+    "Longitud": 17.3447,
+    "Höjd (m)": 83,
+    "Aktiv": "Nej"
+  },
+  {
+    "Id": 127310,
+    "Namn": "Sundsvalls Flygplats",
+    "Latitud": 62.5246,
+    "Longitud": 17.441,
+    "Höjd (m)": 4,
+    "Aktiv": "Ja"
+  },
+  {
+    "Id": 93520,
+    "Namn": "Sunne A",
+    "Latitud": 59.863883,
+    "Longitud": 13.116605,
+    "Höjd (m)": 108.947,
+    "Aktiv": "Ja"
+  },
+  {
+    "Id": 93340,
+    "Namn": "SutterHöjden",
+    "Latitud": 59.5833,
+    "Longitud": 13.9333,
+    "Höjd (m)": 153,
+    "Aktiv": "Nej"
+  },
+  {
+    "Id": 115050,
+    "Namn": "Svabensverk",
+    "Latitud": 61.0442,
+    "Longitud": 15.7921,
+    "Höjd (m)": 240,
+    "Aktiv": "Nej"
+  },
+  {
+    "Id": 53560,
+    "Namn": "Svalöv",
+    "Latitud": 55.9081,
+    "Longitud": 13.1174,
+    "Höjd (m)": 72,
+    "Aktiv": "Nej"
+  },
+  {
+    "Id": 98490,
+    "Namn": "Svanberga A",
+    "Latitud": 59.831706,
+    "Longitud": 18.631254,
+    "Höjd (m)": 14.821,
+    "Aktiv": "Ja"
+  },
+  {
+    "Id": 181890,
+    "Namn": "Svappavaara",
+    "Latitud": 67.65010000000001,
+    "Longitud": 21.0558,
+    "Höjd (m)": 327,
+    "Aktiv": "Nej"
+  },
+  {
+    "Id": 81340,
+    "Namn": "Svarteborg",
+    "Latitud": 58.5707,
+    "Longitud": 11.5572,
+    "Höjd (m)": 70,
+    "Aktiv": "Nej"
+  },
+  {
+    "Id": 66460,
+    "Namn": "Svartingstorp",
+    "Latitud": 56.786,
+    "Longitud": 16.3296,
+    "Höjd (m)": 20,
+    "Aktiv": "Nej"
+  },
+  {
+    "Id": 97220,
+    "Namn": "Svartsjö",
+    "Latitud": 59.3595,
+    "Longitud": 17.7392,
+    "Höjd (m)": 10,
+    "Aktiv": "Nej"
+  },
+  {
+    "Id": 124020,
+    "Namn": "Sveg",
+    "Latitud": 62.0191,
+    "Longitud": 14.1904,
+    "Höjd (m)": 432,
+    "Aktiv": "Nej"
+  },
+  {
+    "Id": 124030,
+    "Namn": "Sveg A",
+    "Latitud": 62.046231,
+    "Longitud": 14.406853,
+    "Höjd (m)": 357.187,
+    "Aktiv": "Ja"
+  },
+  {
+    "Id": 99330,
+    "Namn": "Svenska Björn Aut",
+    "Latitud": 59.55,
+    "Longitud": 20.02,
+    "Höjd (m)": 1,
+    "Aktiv": "Nej"
+  },
+  {
+    "Id": 99270,
+    "Namn": "Svenska Högarna",
+    "Latitud": 59.4445,
+    "Longitud": 19.5059,
+    "Höjd (m)": 12,
+    "Aktiv": "Ja"
+  },
+  {
+    "Id": 99280,
+    "Namn": "Svenska Högarna A",
+    "Latitud": 59.4423,
+    "Longitud": 19.502219,
+    "Höjd (m)": 11.811,
+    "Aktiv": "Ja"
+  },
+  {
+    "Id": 140200,
+    "Namn": "Sydostbrotten Aut",
+    "Latitud": 63.3806,
+    "Longitud": 20.0993,
+    "Höjd (m)": 24,
+    "Aktiv": "Nej"
+  },
+  {
+    "Id": 132030,
+    "Namn": "Sylarna A",
+    "Latitud": 63.043754,
+    "Longitud": 12.274849,
+    "Höjd (m)": 1030.11,
+    "Aktiv": "Ja"
+  },
+  {
+    "Id": 81010,
+    "Namn": "Säby",
+    "Latitud": 58.0201,
+    "Longitud": 11.6015,
+    "Höjd (m)": 10,
+    "Aktiv": "Nej"
+  },
+  {
+    "Id": 52660,
+    "Namn": "Säbyholm",
+    "Latitud": 55.9,
+    "Longitud": 12.8333,
+    "Höjd (m)": 10,
+    "Aktiv": "Nej"
+  },
+  {
+    "Id": 92100,
+    "Namn": "Säffle",
+    "Latitud": 59.14069,
+    "Longitud": 12.93357,
+    "Höjd (m)": 52.926,
+    "Aktiv": "Nej"
+  },
+  {
+    "Id": 113100,
+    "Namn": "Sälen",
+    "Latitud": 61.1691,
+    "Longitud": 13.2593,
+    "Höjd (m)": 360,
+    "Aktiv": "Nej"
+  },
+  {
+    "Id": 113070,
+    "Namn": "Sälen-Högfjället V",
+    "Latitud": 61.15829,
+    "Longitud": 13.11383,
+    "Höjd (m)": 751,
+    "Aktiv": "Nej"
+  },
+  {
+    "Id": 113410,
+    "Namn": "Särna",
+    "Latitud": 61.7068,
+    "Longitud": 13.1335,
+    "Höjd (m)": 437,
+    "Aktiv": "Nej"
+  },
+  {
+    "Id": 113420,
+    "Namn": "Särna A",
+    "Latitud": 61.6912,
+    "Longitud": 13.1865,
+    "Höjd (m)": 425,
+    "Aktiv": "Ja"
+  },
+  {
+    "Id": 105210,
+    "Namn": "Säter",
+    "Latitud": 60.35,
+    "Longitud": 15.75,
+    "Höjd (m)": 160,
+    "Aktiv": "Nej"
+  },
+  {
+    "Id": 161920,
+    "Namn": "Sävast V",
+    "Latitud": 65.75272,
+    "Longitud": 21.76498,
+    "Höjd (m)": 9,
+    "Aktiv": "Nej"
+  },
+  {
+    "Id": 71470,
+    "Namn": "Säve",
+    "Latitud": 57.7786,
+    "Longitud": 11.8824,
+    "Höjd (m)": 20,
+    "Aktiv": "Nej"
+  },
+  {
+    "Id": 71500,
+    "Namn": "Säve-Skålvisered",
+    "Latitud": 57.8305,
+    "Longitud": 11.92,
+    "Höjd (m)": 20,
+    "Aktiv": "Nej"
+  },
+  {
+    "Id": 105410,
+    "Namn": "Sågmyra",
+    "Latitud": 60.7004,
+    "Longitud": 15.3263,
+    "Höjd (m)": 257,
+    "Aktiv": "Nej"
+  },
+  {
+    "Id": 64390,
+    "Namn": "Sånnahult",
+    "Latitud": 56.5875,
+    "Longitud": 14.8014,
+    "Höjd (m)": 175,
+    "Aktiv": "Nej"
+  },
+  {
+    "Id": 82260,
+    "Namn": "Såtenäs",
+    "Latitud": 58.4358,
+    "Longitud": 12.7075,
+    "Höjd (m)": 54,
+    "Aktiv": "Ja"
+  },
+  {
+    "Id": 82250,
+    "Namn": "Såtenäs D",
+    "Latitud": 58.4397,
+    "Longitud": 12.6928,
+    "Höjd (m)": 55,
+    "Aktiv": "Nej"
+  },
+  {
+    "Id": 99450,
+    "Namn": "Söderarm A",
+    "Latitud": 59.753119,
+    "Longitud": 19.405373,
+    "Höjd (m)": 14.006,
+    "Aktiv": "Ja"
+  },
+  {
+    "Id": 117170,
+    "Namn": "Söderhamn",
+    "Latitud": 61.3198,
+    "Longitud": 17.0967,
+    "Höjd (m)": 10,
+    "Aktiv": "Nej"
+  },
+  {
+    "Id": 117160,
+    "Namn": "Söderhamn A",
+    "Latitud": 61.2691,
+    "Longitud": 17.0983,
+    "Höjd (m)": 26,
+    "Aktiv": "Nej"
+  },
+  {
+    "Id": 97120,
+    "Namn": "Södertälje",
+    "Latitud": 59.214104,
+    "Longitud": 17.629082,
+    "Höjd (m)": 43.221,
+    "Aktiv": "Ja"
+  },
+  {
+    "Id": 127630,
+    "Namn": "Söråker",
+    "Latitud": 62.5166,
+    "Longitud": 17.5166,
+    "Höjd (m)": 45,
+    "Aktiv": "Nej"
+  },
+  {
+    "Id": 113110,
+    "Namn": "Tandådalen Aut",
+    "Latitud": 61.1766,
+    "Longitud": 13.0164,
+    "Höjd (m)": 830,
+    "Aktiv": "Nej"
+  },
+  {
+    "Id": 178970,
+    "Namn": "Tarfala A",
+    "Latitud": 67.91235,
+    "Longitud": 18.610118,
+    "Höjd (m)": 1143.653,
+    "Aktiv": "Ja"
+  },
+  {
+    "Id": 53580,
+    "Namn": "Teckomatorp",
+    "Latitud": 55.8778,
+    "Longitud": 13.0917,
+    "Höjd (m)": 30,
+    "Aktiv": "Nej"
+  },
+  {
+    "Id": 137560,
+    "Namn": "Tegelträsk",
+    "Latitud": 63.9515,
+    "Longitud": 17.904,
+    "Höjd (m)": 380,
+    "Aktiv": "Nej"
+  },
+  {
+    "Id": 84630,
+    "Namn": "Tidan",
+    "Latitud": 58.55,
+    "Longitud": 14,
+    "Höjd (m)": 90,
+    "Aktiv": "Nej"
+  },
+  {
+    "Id": 73660,
+    "Namn": "Tinghalla",
+    "Latitud": 57.9666,
+    "Longitud": 13.850000000000001,
+    "Höjd (m)": 278,
+    "Aktiv": "Nej"
+  },
+  {
+    "Id": 64320,
+    "Namn": "Tingsryd-Degerhaga",
+    "Latitud": 56.537545,
+    "Longitud": 14.898908,
+    "Höjd (m)": 162.965,
+    "Aktiv": "Ja"
+  },
+  {
+    "Id": 169790,
+    "Namn": "Tjåkaape Mo",
+    "Latitud": 66.3002,
+    "Longitud": 19.2,
+    "Höjd (m)": 581,
+    "Aktiv": "Ja"
+  },
+  {
+    "Id": 96480,
+    "Namn": "Tomta",
+    "Latitud": 59.8,
+    "Longitud": 16.55,
+    "Höjd (m)": 55,
+    "Aktiv": "Nej"
+  },
+  {
+    "Id": 74300,
+    "Namn": "Tomtabacken A",
+    "Latitud": 57.498089,
+    "Longitud": 14.464492,
+    "Höjd (m)": 355.895,
+    "Aktiv": "Ja"
+  },
+  {
+    "Id": 188840,
+    "Namn": "Tornehamn Aut",
+    "Latitud": 68.4324,
+    "Longitud": 18.6281,
+    "Höjd (m)": 512,
+    "Aktiv": "Nej"
+  },
+  {
+    "Id": 189760,
+    "Namn": "Torneträsk",
+    "Latitud": 68.2201,
+    "Longitud": 19.7123,
+    "Höjd (m)": 393,
+    "Aktiv": "Nej"
+  },
+  {
+    "Id": 126290,
+    "Namn": "Torpshammar A",
+    "Latitud": 62.4943,
+    "Longitud": 16.2774,
+    "Höjd (m)": 99,
+    "Aktiv": "Ja"
+  },
+  {
+    "Id": 103080,
+    "Namn": "Torsby",
+    "Latitud": 60.1075,
+    "Longitud": 12.9908,
+    "Höjd (m)": 127,
+    "Aktiv": "Nej"
+  },
+  {
+    "Id": 71430,
+    "Namn": "Torslanda",
+    "Latitud": 57.7166,
+    "Longitud": 11.7833,
+    "Höjd (m)": 3,
+    "Aktiv": "Nej"
+  },
+  {
+    "Id": 63600,
+    "Namn": "Torup",
+    "Latitud": 56.9632,
+    "Longitud": 13.0712,
+    "Höjd (m)": 85,
+    "Aktiv": "Nej"
+  },
+  {
+    "Id": 63590,
+    "Namn": "Torup A",
+    "Latitud": 56.949431,
+    "Longitud": 13.060081,
+    "Höjd (m)": 132.532,
+    "Aktiv": "Ja"
+  },
+  {
+    "Id": 76380,
+    "Namn": "Tovehult",
+    "Latitud": 57.642,
+    "Longitud": 16.5682,
+    "Höjd (m)": 25,
+    "Aktiv": "Nej"
+  },
+  {
+    "Id": 84020,
+    "Namn": "Tranås",
+    "Latitud": 58.0389,
+    "Longitud": 14.9853,
+    "Höjd (m)": 155,
+    "Aktiv": "Nej"
+  },
+  {
+    "Id": 85020,
+    "Namn": "Tranås Aut",
+    "Latitud": 58.03,
+    "Longitud": 15.0206,
+    "Höjd (m)": 185,
+    "Aktiv": "Nej"
+  },
+  {
+    "Id": 53230,
+    "Namn": "Trelleborg",
+    "Latitud": 55.381,
+    "Longitud": 13.1279,
+    "Höjd (m)": 5,
+    "Aktiv": "Nej"
+  },
+  {
+    "Id": 133160,
+    "Namn": "Trillevallen V",
+    "Latitud": 63.2631,
+    "Longitud": 13.2166,
+    "Höjd (m)": 611,
+    "Aktiv": "Nej"
+  },
+  {
+    "Id": 53510,
+    "Namn": "Trollenäs",
+    "Latitud": 55.8666,
+    "Longitud": 13.25,
+    "Höjd (m)": 55,
+    "Aktiv": "Nej"
+  },
+  {
+    "Id": 82620,
+    "Namn": "Trollhättan",
+    "Latitud": 58.3,
+    "Longitud": 12.3166,
+    "Höjd (m)": 42,
+    "Aktiv": "Nej"
+  },
+  {
+    "Id": 82190,
+    "Namn": "Trollhättans Flygplats",
+    "Latitud": 58.3141,
+    "Longitud": 12.3292,
+    "Höjd (m)": 43,
+    "Aktiv": "Nej"
+  },
+  {
+    "Id": 87540,
+    "Namn": "Trosa",
+    "Latitud": 58.9,
+    "Longitud": 17.5666,
+    "Höjd (m)": 5,
+    "Aktiv": "Nej"
+  },
+  {
+    "Id": 71360,
+    "Namn": "Trubaduren Aut",
+    "Latitud": 57.596,
+    "Longitud": 11.6352,
+    "Höjd (m)": 1,
+    "Aktiv": "Nej"
+  },
+  {
+    "Id": 113230,
+    "Namn": "Trängslet",
+    "Latitud": 61.3804,
+    "Longitud": 13.7273,
+    "Höjd (m)": 425,
+    "Aktiv": "Nej"
+  },
+  {
+    "Id": 97100,
+    "Namn": "Tullinge A",
+    "Latitud": 59.178503,
+    "Longitud": 17.909265,
+    "Höjd (m)": 44.858,
+    "Aktiv": "Ja"
+  },
+  {
+    "Id": 86010,
+    "Namn": "Tyllinge",
+    "Latitud": 58.0166,
+    "Longitud": 16.0833,
+    "Höjd (m)": 110,
+    "Aktiv": "Nej"
+  },
+  {
+    "Id": 122260,
+    "Namn": "Tännäs A",
+    "Latitud": 62.449379,
+    "Longitud": 12.667573,
+    "Höjd (m)": 723.013,
+    "Aktiv": "Ja"
+  },
+  {
+    "Id": 155910,
+    "Namn": "Tärnaby",
+    "Latitud": 65.7166,
+    "Longitud": 15.25,
+    "Höjd (m)": 450,
+    "Aktiv": "Nej"
+  },
+  {
+    "Id": 72520,
+    "Namn": "Uddabo",
+    "Latitud": 57.8701,
+    "Longitud": 12.7074,
+    "Höjd (m)": 245,
+    "Aktiv": "Nej"
+  },
+  {
+    "Id": 81210,
+    "Namn": "Uddevalla",
+    "Latitud": 58.355,
+    "Longitud": 11.9541,
+    "Höjd (m)": 10,
+    "Aktiv": "Nej"
+  },
+  {
+    "Id": 54580,
+    "Namn": "Ugerup",
+    "Latitud": 55.9657,
+    "Longitud": 14.1168,
+    "Höjd (m)": 20,
+    "Aktiv": "Nej"
+  },
+  {
+    "Id": 72090,
+    "Namn": "Ullared A",
+    "Latitud": 57.113375,
+    "Longitud": 12.773209,
+    "Höjd (m)": 122.356,
+    "Aktiv": "Ja"
+  },
+  {
+    "Id": 128590,
+    "Namn": "Ullånger",
+    "Latitud": 62.9948,
+    "Longitud": 18.1794,
+    "Höjd (m)": 45,
+    "Aktiv": "Nej"
+  },
+  {
+    "Id": 73470,
+    "Namn": "Ulricehamn",
+    "Latitud": 57.8052,
+    "Longitud": 13.4083,
+    "Höjd (m)": 175,
+    "Aktiv": "Ja"
+  },
+  {
+    "Id": 135500,
+    "Namn": "Ulriksfors",
+    "Latitud": 63.8345,
+    "Longitud": 15.6164,
+    "Höjd (m)": 285,
+    "Aktiv": "Nej"
+  },
+  {
+    "Id": 97490,
+    "Namn": "Ultuna",
+    "Latitud": 59.8139,
+    "Longitud": 17.6469,
+    "Höjd (m)": 15,
+    "Aktiv": "Nej"
+  },
+  {
+    "Id": 97210,
+    "Namn": "Ulvhäll",
+    "Latitud": 59.3619,
+    "Longitud": 17.044,
+    "Höjd (m)": 5,
+    "Aktiv": "Nej"
+  },
+  {
+    "Id": 147460,
+    "Namn": "Ulvoberg",
+    "Latitud": 64.7627,
+    "Longitud": 17.2165,
+    "Höjd (m)": 520,
+    "Aktiv": "Nej"
+  },
+  {
+    "Id": 114360,
+    "Namn": "Ulvsjö",
+    "Latitud": 61.6022,
+    "Longitud": 14.184700000000001,
+    "Höjd (m)": 585,
+    "Aktiv": "Nej"
+  },
+  {
+    "Id": 64650,
+    "Namn": "Ulvö",
+    "Latitud": 56.599999021842315,
+    "Longitud": 14.647172540982794,
+    "Höjd (m)": 145,
+    "Aktiv": "Nej"
+  },
+  {
+    "Id": 140500,
+    "Namn": "Umeå",
+    "Latitud": 63.8302,
+    "Longitud": 20.2901,
+    "Höjd (m)": 10,
+    "Aktiv": "Nej"
+  },
+  {
+    "Id": 140480,
+    "Namn": "Umeå Flygplats",
+    "Latitud": 63.794700000000006,
+    "Longitud": 20.291800000000002,
+    "Höjd (m)": 14,
+    "Aktiv": "Ja"
+  },
+  {
+    "Id": 108170,
+    "Namn": "Understen",
+    "Latitud": 60.2761,
+    "Longitud": 18.9227,
+    "Höjd (m)": 12,
+    "Aktiv": "Nej"
+  },
+  {
+    "Id": 133200,
+    "Namn": "Undersåker",
+    "Latitud": 63.3269,
+    "Longitud": 13.3826,
+    "Höjd (m)": 330,
+    "Aktiv": "Nej"
+  },
+  {
+    "Id": 65020,
+    "Namn": "Ungskär",
+    "Latitud": 56.0419,
+    "Longitud": 15.8081,
+    "Höjd (m)": 2,
+    "Aktiv": "Nej"
+  },
+  {
+    "Id": 107270,
+    "Namn": "Untra",
+    "Latitud": 60.4393,
+    "Longitud": 17.3409,
+    "Höjd (m)": 35,
+    "Aktiv": "Nej"
+  },
+  {
+    "Id": 97520,
+    "Namn": "Uppsala",
+    "Latitud": 59.8585,
+    "Longitud": 17.6252,
+    "Höjd (m)": 13,
+    "Aktiv": "Nej"
+  },
+  {
+    "Id": 97510,
+    "Namn": "Uppsala Aut",
+    "Latitud": 59.8586,
+    "Longitud": 17.6253,
+    "Höjd (m)": 13,
+    "Aktiv": "Ja"
+  },
+  {
+    "Id": 97530,
+    "Namn": "Uppsala Flygplats",
+    "Latitud": 59.8953,
+    "Longitud": 17.5935,
+    "Höjd (m)": 21,
+    "Aktiv": "Ja"
+  },
+  {
+    "Id": 81640,
+    "Namn": "Ursholmen",
+    "Latitud": 58.8333,
+    "Longitud": 11,
+    "Höjd (m)": 6,
+    "Aktiv": "Nej"
+  },
+  {
+    "Id": 64290,
+    "Namn": "Urshult-Kunninge",
+    "Latitud": 56.4782,
+    "Longitud": 14.8024,
+    "Höjd (m)": 145,
+    "Aktiv": "Nej"
+  },
+  {
+    "Id": 151640,
+    "Namn": "Ursviken",
+    "Latitud": 64.7166,
+    "Longitud": 21.15,
+    "Höjd (m)": 5,
+    "Aktiv": "Nej"
+  },
+  {
+    "Id": 64400,
+    "Namn": "Uråsa",
+    "Latitud": 56.6833,
+    "Longitud": 14.95,
+    "Höjd (m)": 167,
+    "Aktiv": "Nej"
+  },
+  {
+    "Id": 55570,
+    "Namn": "Utklippan A",
+    "Latitud": 55.9557,
+    "Longitud": 15.7077,
+    "Höjd (m)": 3,
+    "Aktiv": "Ja"
+  },
+  {
+    "Id": 95640,
+    "Namn": "Uttersberg",
+    "Latitud": 59.75,
+    "Longitud": 15.6666,
+    "Höjd (m)": 95,
+    "Aktiv": "Nej"
+  },
+  {
+    "Id": 107450,
+    "Namn": "Utvalnäs Aut",
+    "Latitud": 60.7547,
+    "Longitud": 17.3574,
+    "Höjd (m)": 5,
+    "Aktiv": "Nej"
+  },
+  {
+    "Id": 88570,
+    "Namn": "Utö",
+    "Latitud": 58.9502,
+    "Longitud": 18.2669,
+    "Höjd (m)": 40,
+    "Aktiv": "Nej"
+  },
+  {
+    "Id": 169860,
+    "Namn": "Vajmat V",
+    "Latitud": 66.50502,
+    "Longitud": 19.67495,
+    "Höjd (m)": 325,
+    "Aktiv": "Nej"
+  },
+  {
+    "Id": 78030,
+    "Namn": "Valar",
+    "Latitud": 57.0278,
+    "Longitud": 18.2194,
+    "Höjd (m)": 15,
+    "Aktiv": "Nej"
+  },
+  {
+    "Id": 86130,
+    "Namn": "Valdemarsvik",
+    "Latitud": 58.2148,
+    "Longitud": 16.5828,
+    "Höjd (m)": 10,
+    "Aktiv": "Nej"
+  },
+  {
+    "Id": 96000,
+    "Namn": "Valla",
+    "Latitud": 59.0185,
+    "Longitud": 16.3709,
+    "Höjd (m)": 50,
+    "Aktiv": "Nej"
+  },
+  {
+    "Id": 72080,
+    "Namn": "Varberg",
+    "Latitud": 57.109282,
+    "Longitud": 12.296092,
+    "Höjd (m)": 33.965,
+    "Aktiv": "Nej"
+  },
+  {
+    "Id": 93240,
+    "Namn": "Varpnäs",
+    "Latitud": 59.4042,
+    "Longitud": 13.2667,
+    "Höjd (m)": 68,
+    "Aktiv": "Nej"
+  },
+  {
+    "Id": 105630,
+    "Namn": "Vassbo",
+    "Latitud": 60.5333,
+    "Longitud": 15.5333,
+    "Höjd (m)": 120,
+    "Aktiv": "Nej"
+  },
+  {
+    "Id": 188810,
+    "Namn": "Vassijaure",
+    "Latitud": 68.4316,
+    "Longitud": 18.2839,
+    "Höjd (m)": 537,
+    "Aktiv": "Nej"
+  },
+  {
+    "Id": 52550,
+    "Namn": "Ven",
+    "Latitud": 55.900000000000006,
+    "Longitud": 12.716600000000001,
+    "Höjd (m)": 20,
+    "Aktiv": "Nej"
+  },
+  {
+    "Id": 75630,
+    "Namn": "Vetlanda",
+    "Latitud": 57.4166,
+    "Longitud": 15.0666,
+    "Höjd (m)": 200,
+    "Aktiv": "Nej"
+  },
+  {
+    "Id": 160960,
+    "Namn": "Vidsel",
+    "Latitud": 65.8801,
+    "Longitud": 20.1315,
+    "Höjd (m)": 180,
+    "Aktiv": "Nej"
+  },
+  {
+    "Id": 160970,
+    "Namn": "Vidsel Mo",
+    "Latitud": 65.8769,
+    "Longitud": 20.1543,
+    "Höjd (m)": 182,
+    "Aktiv": "Ja"
+  },
+  {
+    "Id": 137030,
+    "Namn": "Viksbäcken",
+    "Latitud": 63.05,
+    "Longitud": 17.75,
+    "Höjd (m)": 6,
+    "Aktiv": "Nej"
+  },
+  {
+    "Id": 107020,
+    "Namn": "Viksta",
+    "Latitud": 60.0694,
+    "Longitud": 17.6181,
+    "Höjd (m)": 103,
+    "Aktiv": "Nej"
+  },
+  {
+    "Id": 146350,
+    "Namn": "Vilhelmina A",
+    "Latitud": 64.579825,
+    "Longitud": 16.838565,
+    "Höjd (m)": 348.198,
+    "Aktiv": "Ja"
+  },
+  {
+    "Id": 94170,
+    "Namn": "Villingsberg",
+    "Latitud": 59.2833,
+    "Longitud": 14.7,
+    "Höjd (m)": 148,
+    "Aktiv": "Nej"
+  },
+  {
+    "Id": 75400,
+    "Namn": "Vimmerby",
+    "Latitud": 57.6687,
+    "Longitud": 15.8518,
+    "Höjd (m)": 110,
+    "Aktiv": "Nej"
+  },
+  {
+    "Id": 156940,
+    "Namn": "Vindel-Björkheden",
+    "Latitud": 65.8211,
+    "Longitud": 16.7114,
+    "Höjd (m)": 350,
+    "Aktiv": "Nej"
+  },
+  {
+    "Id": 157930,
+    "Namn": "Vindel-Storsjö",
+    "Latitud": 65.7666,
+    "Longitud": 17.05,
+    "Höjd (m)": 345,
+    "Aktiv": "Nej"
+  },
+  {
+    "Id": 149120,
+    "Namn": "Vindeln-Sunnansjönäs",
+    "Latitud": 64.1386,
+    "Longitud": 19.7618,
+    "Höjd (m)": 237,
+    "Aktiv": "Ja"
+  },
+  {
+    "Id": 71380,
+    "Namn": "Vinga A",
+    "Latitud": 57.632214,
+    "Longitud": 11.604796,
+    "Höjd (m)": 18.205,
+    "Aktiv": "Ja"
+  },
+  {
+    "Id": 95030,
+    "Namn": "Vingåker",
+    "Latitud": 59.0782,
+    "Longitud": 15.8163,
+    "Höjd (m)": 60,
+    "Aktiv": "Nej"
+  },
+  {
+    "Id": 106500,
+    "Namn": "Vintjärn",
+    "Latitud": 60.8321,
+    "Longitud": 16.0581,
+    "Höjd (m)": 348,
+    "Aktiv": "Nej"
+  },
+  {
+    "Id": 78390,
+    "Namn": "Visby",
+    "Latitud": 57.636,
+    "Longitud": 18.2891,
+    "Höjd (m)": 28,
+    "Aktiv": "Nej"
+  },
+  {
+    "Id": 78400,
+    "Namn": "Visby Flygplats",
+    "Latitud": 57.6614,
+    "Longitud": 18.3428,
+    "Höjd (m)": 42,
+    "Aktiv": "Ja"
+  },
+  {
+    "Id": 84060,
+    "Namn": "Visingsö",
+    "Latitud": 58.0908,
+    "Longitud": 14.401,
+    "Höjd (m)": 110,
+    "Aktiv": "Nej"
+  },
+  {
+    "Id": 84050,
+    "Namn": "Visingsö A",
+    "Latitud": 58.094814,
+    "Longitud": 14.405769,
+    "Höjd (m)": 93.582,
+    "Aktiv": "Ja"
+  },
+  {
+    "Id": 65310,
+    "Namn": "Vissefjärda",
+    "Latitud": 56.5124,
+    "Longitud": 15.6235,
+    "Höjd (m)": 114,
+    "Aktiv": "Nej"
+  },
+  {
+    "Id": 181900,
+    "Namn": "Vittangi",
+    "Latitud": 67.6943,
+    "Longitud": 21.6335,
+    "Höjd (m)": 250,
+    "Aktiv": "Ja"
+  },
+  {
+    "Id": 166870,
+    "Namn": "Vuoggatjålme",
+    "Latitud": 66.5759,
+    "Longitud": 16.3511,
+    "Höjd (m)": 500,
+    "Aktiv": "Nej"
+  },
+  {
+    "Id": 98590,
+    "Namn": "Väddö",
+    "Latitud": 59.9833,
+    "Longitud": 18.8166,
+    "Höjd (m)": 10,
+    "Aktiv": "Nej"
+  },
+  {
+    "Id": 81350,
+    "Namn": "Väderöarna A",
+    "Latitud": 58.575989,
+    "Longitud": 11.066088,
+    "Höjd (m)": 22.356,
+    "Aktiv": "Ja"
+  },
+  {
+    "Id": 81620,
+    "Namn": "Väderöbod",
+    "Latitud": 58.55,
+    "Longitud": 11.0333,
+    "Höjd (m)": 7,
+    "Aktiv": "Nej"
+  },
+  {
+    "Id": 82230,
+    "Namn": "Vänersborg",
+    "Latitud": 58.354316,
+    "Longitud": 12.3585,
+    "Höjd (m)": 47.996,
+    "Aktiv": "Nej"
+  },
+  {
+    "Id": 97620,
+    "Namn": "Vängsö",
+    "Latitud": 59.1166,
+    "Longitud": 17.2,
+    "Höjd (m)": 15,
+    "Aktiv": "Nej"
+  },
+  {
+    "Id": 139540,
+    "Namn": "Vännäs",
+    "Latitud": 63.9187,
+    "Longitud": 19.6986,
+    "Höjd (m)": 87,
+    "Aktiv": "Nej"
+  },
+  {
+    "Id": 98200,
+    "Namn": "Värtan",
+    "Latitud": 59.35,
+    "Longitud": 18.1,
+    "Höjd (m)": 20,
+    "Aktiv": "Nej"
+  },
+  {
+    "Id": 107180,
+    "Namn": "Väsby",
+    "Latitud": 60.3,
+    "Longitud": 17.4333,
+    "Höjd (m)": 35,
+    "Aktiv": "Nej"
+  },
+  {
+    "Id": 150270,
+    "Namn": "Västanträsk",
+    "Latitud": 64.4502,
+    "Longitud": 20.4055,
+    "Höjd (m)": 140,
+    "Aktiv": "Nej"
+  },
+  {
+    "Id": 85270,
+    "Namn": "Västerlösa",
+    "Latitud": 58.4447,
+    "Longitud": 15.3772,
+    "Höjd (m)": 75,
+    "Aktiv": "Nej"
+  },
+  {
+    "Id": 83340,
+    "Namn": "Västerplana",
+    "Latitud": 58.5586,
+    "Longitud": 13.3508,
+    "Höjd (m)": 128,
+    "Aktiv": "Nej"
+  },
+  {
+    "Id": 76470,
+    "Namn": "Västervik",
+    "Latitud": 57.7213,
+    "Longitud": 16.4683,
+    "Höjd (m)": 33,
+    "Aktiv": "Nej"
+  },
+  {
+    "Id": 96350,
+    "Namn": "Västerås",
+    "Latitud": 59.597171,
+    "Longitud": 16.600081,
+    "Höjd (m)": 15.836,
+    "Aktiv": "Ja"
+  },
+  {
+    "Id": 96370,
+    "Namn": "Västerås",
+    "Latitud": 59.6166,
+    "Longitud": 16.55,
+    "Höjd (m)": 10,
+    "Aktiv": "Nej"
+  },
+  {
+    "Id": 138070,
+    "Namn": "Västmarkum A",
+    "Latitud": 63.124252,
+    "Longitud": 18.251805,
+    "Höjd (m)": 141.392,
+    "Aktiv": "Ja"
+  },
+  {
+    "Id": 107530,
+    "Namn": "Västra Banken Aut",
+    "Latitud": 60.88,
+    "Longitud": 17.93,
+    "Höjd (m)": 25,
+    "Aktiv": "Nej"
+  },
+  {
+    "Id": 85630,
+    "Namn": "Västra Ny",
+    "Latitud": 58.65,
+    "Longitud": 15.05,
+    "Höjd (m)": 120,
+    "Aktiv": "Nej"
+  },
+  {
+    "Id": 64520,
+    "Namn": "Växjö",
+    "Latitud": 56.8427,
+    "Longitud": 14.8176,
+    "Höjd (m)": 170,
+    "Aktiv": "Nej"
+  },
+  {
+    "Id": 64510,
+    "Namn": "Växjö A",
+    "Latitud": 56.846284,
+    "Longitud": 14.829566,
+    "Höjd (m)": 198.861,
+    "Aktiv": "Ja"
+  },
+  {
+    "Id": 64560,
+    "Namn": "Växjö-Kronoberg",
+    "Latitud": 56.9252,
+    "Longitud": 14.7333,
+    "Höjd (m)": 182,
+    "Aktiv": "Nej"
+  },
+  {
+    "Id": 82010,
+    "Namn": "Vårgårda-Hägrunga",
+    "Latitud": 58.0166,
+    "Longitud": 12.8333,
+    "Höjd (m)": 148,
+    "Aktiv": "Nej"
+  },
+  {
+    "Id": 73190,
+    "Namn": "Våthultström",
+    "Latitud": 57.3166,
+    "Longitud": 13.4333,
+    "Höjd (m)": 163,
+    "Aktiv": "Nej"
+  },
+  {
+    "Id": 52620,
+    "Namn": "Weibullsholm",
+    "Latitud": 55.8722,
+    "Longitud": 12.8556,
+    "Höjd (m)": 5,
+    "Aktiv": "Nej"
+  },
+  {
+    "Id": 97070,
+    "Namn": "Wiad",
+    "Latitud": 59.1116,
+    "Longitud": 17.7219,
+    "Höjd (m)": 12,
+    "Aktiv": "Nej"
+  },
+  {
+    "Id": 173900,
+    "Namn": "Ylinenjärvi A",
+    "Latitud": 66.622258,
+    "Longitud": 23.46345,
+    "Höjd (m)": 133.672,
+    "Aktiv": "Ja"
+  },
+  {
+    "Id": 53260,
+    "Namn": "Ystad",
+    "Latitud": 55.441,
+    "Longitud": 13.8278,
+    "Höjd (m)": 32,
+    "Aktiv": "Nej"
+  },
+  {
+    "Id": 124110,
+    "Namn": "Ytterhogdal",
+    "Latitud": 62.181725,
+    "Longitud": 14.947772,
+    "Höjd (m)": 263.585,
+    "Aktiv": "Ja"
+  },
+  {
+    "Id": 147170,
+    "Namn": "Yxsjö",
+    "Latitud": 64.2833,
+    "Longitud": 17.5166,
+    "Höjd (m)": 350,
+    "Aktiv": "Nej"
+  },
+  {
+    "Id": 85490,
+    "Namn": "Zinkgruvan",
+    "Latitud": 58.806146,
+    "Longitud": 15.125272,
+    "Höjd (m)": 213.468,
+    "Aktiv": "Nej"
+  },
+  {
+    "Id": 84470,
+    "Namn": "Älgarås",
+    "Latitud": 58.790600000000005,
+    "Longitud": 14.318800000000001,
+    "Höjd (m)": 130,
+    "Aktiv": "Nej"
+  },
+  {
+    "Id": 114140,
+    "Namn": "Älvdalen A",
+    "Latitud": 61.253616,
+    "Longitud": 14.035505,
+    "Höjd (m)": 251.633,
+    "Aktiv": "Ja"
+  },
+  {
+    "Id": 114160,
+    "Namn": "Älvdalen II",
+    "Latitud": 61.2549,
+    "Longitud": 14.0348,
+    "Höjd (m)": 250,
+    "Aktiv": "Nej"
+  },
+  {
+    "Id": 94560,
+    "Namn": "ÄlvHöjden",
+    "Latitud": 59.9978,
+    "Longitud": 14.7889,
+    "Höjd (m)": 340,
+    "Aktiv": "Nej"
+  },
+  {
+    "Id": 161690,
+    "Namn": "Älvsby Skogsskola",
+    "Latitud": 65.6833,
+    "Longitud": 21.0666,
+    "Höjd (m)": 40,
+    "Aktiv": "Nej"
+  },
+  {
+    "Id": 161910,
+    "Namn": "Älvsbyn A",
+    "Latitud": 65.669133,
+    "Longitud": 21.061973,
+    "Höjd (m)": 43.384,
+    "Aktiv": "Ja"
+  },
+  {
+    "Id": 62710,
+    "Namn": "Ängelholm",
+    "Latitud": 56.25,
+    "Longitud": 12.85,
+    "Höjd (m)": 10,
+    "Aktiv": "Nej"
+  },
+  {
+    "Id": 73690,
+    "Namn": "Äspered",
+    "Latitud": 57.93309232541144,
+    "Longitud": 13.180542632706377,
+    "Höjd (m)": 294,
+    "Aktiv": "Nej"
+  },
+  {
+    "Id": 97150,
+    "Namn": "Åkers Styckebruk",
+    "Latitud": 59.2511,
+    "Longitud": 17.0879,
+    "Höjd (m)": 20,
+    "Aktiv": "Nej"
+  },
+  {
+    "Id": 83540,
+    "Namn": "Åkershus",
+    "Latitud": 58.898,
+    "Longitud": 13.2517,
+    "Höjd (m)": 50,
+    "Aktiv": "Nej"
+  },
+  {
+    "Id": 97700,
+    "Namn": "Ålandsdal",
+    "Latitud": 59.866345441876845,
+    "Longitud": 17.279910410836187,
+    "Höjd (m)": 40,
+    "Aktiv": "Nej"
+  },
+  {
+    "Id": 179740,
+    "Namn": "Ålloluokta",
+    "Latitud": 67.1261,
+    "Longitud": 19.4976,
+    "Höjd (m)": 370,
+    "Aktiv": "Nej"
+  },
+  {
+    "Id": 134620,
+    "Namn": "Ålviken",
+    "Latitud": 63.88245800503966,
+    "Longitud": 14.480252790565844,
+    "Höjd (m)": 325,
+    "Aktiv": "Nej"
+  },
+  {
+    "Id": 134520,
+    "Namn": "Ålåsen",
+    "Latitud": 63.8683,
+    "Longitud": 14.6063,
+    "Höjd (m)": 450,
+    "Aktiv": "Nej"
+  },
+  {
+    "Id": 106570,
+    "Namn": "Åmot A",
+    "Latitud": 60.961403,
+    "Longitud": 16.427891,
+    "Höjd (m)": 161.678,
+    "Aktiv": "Ja"
+  },
+  {
+    "Id": 106580,
+    "Namn": "Åmotsbruk",
+    "Latitud": 60.9645,
+    "Longitud": 16.4631,
+    "Höjd (m)": 145,
+    "Aktiv": "Nej"
+  },
+  {
+    "Id": 92030,
+    "Namn": "Åmål",
+    "Latitud": 59.0542,
+    "Longitud": 12.6969,
+    "Höjd (m)": 60,
+    "Aktiv": "Nej"
+  },
+  {
+    "Id": 133230,
+    "Namn": "Åre",
+    "Latitud": 63.4,
+    "Longitud": 13.1,
+    "Höjd (m)": 440,
+    "Aktiv": "Nej"
+  },
+  {
+    "Id": 133250,
+    "Namn": "Åre-Björnänge V",
+    "Latitud": 63.37375,
+    "Longitud": 13.16067,
+    "Höjd (m)": 403,
+    "Aktiv": "Ja"
+  },
+  {
+    "Id": 133260,
+    "Namn": "Åreskutan Aut",
+    "Latitud": 63.4304,
+    "Longitud": 13.0746,
+    "Höjd (m)": 1280,
+    "Aktiv": "Nej"
+  },
+  {
+    "Id": 92380,
+    "Namn": "Årjäng",
+    "Latitud": 59.3833,
+    "Longitud": 12.1666,
+    "Höjd (m)": 130,
+    "Aktiv": "Nej"
+  },
+  {
+    "Id": 82090,
+    "Namn": "Åsbräcka-Torpabron V",
+    "Latitud": 58.19969,
+    "Longitud": 12.15406,
+    "Höjd (m)": 17,
+    "Aktiv": "Ja"
+  },
+  {
+    "Id": 75100,
+    "Namn": "Åseda",
+    "Latitud": 57.1462,
+    "Longitud": 15.3987,
+    "Höjd (m)": 230,
+    "Aktiv": "Nej"
+  },
+  {
+    "Id": 147100,
+    "Namn": "Åsele",
+    "Latitud": 64.159812,
+    "Longitud": 17.349447,
+    "Höjd (m)": 318.481,
+    "Aktiv": "Nej"
+  },
+  {
+    "Id": 147090,
+    "Namn": "Åsele A",
+    "Latitud": 64.165033,
+    "Longitud": 17.315325,
+    "Höjd (m)": 307.712,
+    "Aktiv": "Ja"
+  },
+  {
+    "Id": 94050,
+    "Namn": "Åtorp",
+    "Latitud": 59.0966,
+    "Longitud": 14.3678,
+    "Höjd (m)": 105,
+    "Aktiv": "Nej"
+  },
+  {
+    "Id": 85130,
+    "Namn": "Åtvidaberg",
+    "Latitud": 58.2,
+    "Longitud": 15.9833,
+    "Höjd (m)": 100,
+    "Aktiv": "Nej"
+  },
+  {
+    "Id": 82650,
+    "Namn": "Ödebyn",
+    "Latitud": 58.7833,
+    "Longitud": 12.1833,
+    "Höjd (m)": 150,
+    "Aktiv": "Nej"
+  },
+  {
+    "Id": 84140,
+    "Namn": "Ödeshög D",
+    "Latitud": 58.254577,
+    "Longitud": 14.65299,
+    "Höjd (m)": 120.381,
+    "Aktiv": "Nej"
+  },
+  {
+    "Id": 82660,
+    "Namn": "Ödskölt",
+    "Latitud": 58.8458,
+    "Longitud": 12.1472,
+    "Höjd (m)": 175,
+    "Aktiv": "Nej"
+  },
+  {
+    "Id": 85220,
+    "Namn": "Öjebro",
+    "Latitud": 58.3833,
+    "Longitud": 15.2,
+    "Höjd (m)": 85,
+    "Aktiv": "Nej"
+  },
+  {
+    "Id": 161800,
+    "Namn": "Öjebyn",
+    "Latitud": 65.3566,
+    "Longitud": 21.389,
+    "Höjd (m)": 5,
+    "Aktiv": "Nej"
+  },
+  {
+    "Id": 87520,
+    "Namn": "Ökna",
+    "Latitud": 59.0833,
+    "Longitud": 16.3167,
+    "Höjd (m)": 35,
+    "Aktiv": "Nej"
+  },
+  {
+    "Id": 77220,
+    "Namn": "Ölands Norra Udde",
+    "Latitud": 57.366542,
+    "Longitud": 17.097571,
+    "Höjd (m)": 2.039,
+    "Aktiv": "Nej"
+  },
+  {
+    "Id": 77210,
+    "Namn": "Ölands Norra Udde A",
+    "Latitud": 57.367077,
+    "Longitud": 17.095401,
+    "Höjd (m)": 2.762,
+    "Aktiv": "Ja"
+  },
+  {
+    "Id": 66040,
+    "Namn": "Ölands Södra Grund Aut",
+    "Latitud": 56.07,
+    "Longitud": 16.68,
+    "Höjd (m)": 1,
+    "Aktiv": "Nej"
+  },
+  {
+    "Id": 66120,
+    "Namn": "Ölands Södra Udde",
+    "Latitud": 56.1957,
+    "Longitud": 16.401,
+    "Höjd (m)": 3,
+    "Aktiv": "Nej"
+  },
+  {
+    "Id": 66110,
+    "Namn": "Ölands Södra Udde A",
+    "Latitud": 56.19766,
+    "Longitud": 16.400492,
+    "Höjd (m)": 1.53,
+    "Aktiv": "Ja"
+  },
+  {
+    "Id": 66400,
+    "Namn": "Ölandsbron V",
+    "Latitud": 56.66694,
+    "Longitud": 16.4609,
+    "Höjd (m)": 0,
+    "Aktiv": "Nej"
+  },
+  {
+    "Id": 66630,
+    "Namn": "Ölvingstorp",
+    "Latitud": 56.6166,
+    "Longitud": 16.1166,
+    "Höjd (m)": 15,
+    "Aktiv": "Nej"
+  },
+  {
+    "Id": 84260,
+    "Namn": "Örberga",
+    "Latitud": 58.4274,
+    "Longitud": 14.826,
+    "Höjd (m)": 105,
+    "Aktiv": "Nej"
+  },
+  {
+    "Id": 72290,
+    "Namn": "Örby",
+    "Latitud": 57.4833,
+    "Longitud": 12.7,
+    "Höjd (m)": 90,
+    "Aktiv": "Nej"
+  },
+  {
+    "Id": 95160,
+    "Namn": "Örebro",
+    "Latitud": 59.278200000000005,
+    "Longitud": 15.1574,
+    "Höjd (m)": 35,
+    "Aktiv": "Nej"
+  },
+  {
+    "Id": 95620,
+    "Namn": "Örebro",
+    "Latitud": 59.244800000000005,
+    "Longitud": 15.285400000000001,
+    "Höjd (m)": 36,
+    "Aktiv": "Nej"
+  },
+  {
+    "Id": 95170,
+    "Namn": "Örebro Aut",
+    "Latitud": 59.2671,
+    "Longitud": 15.2686,
+    "Höjd (m)": 23,
+    "Aktiv": "Nej"
+  },
+  {
+    "Id": 95130,
+    "Namn": "Örebro Flygplats",
+    "Latitud": 59.2289,
+    "Longitud": 15.0455,
+    "Höjd (m)": 53,
+    "Aktiv": "Ja"
+  },
+  {
+    "Id": 95140,
+    "Namn": "Örebro Flygplats",
+    "Latitud": 59.2334,
+    "Longitud": 15.05,
+    "Höjd (m)": 57,
+    "Aktiv": "Nej"
+  },
+  {
+    "Id": 108640,
+    "Namn": "Öregrund",
+    "Latitud": 60.3333,
+    "Longitud": 18.4333,
+    "Höjd (m)": 7,
+    "Aktiv": "Nej"
+  },
+  {
+    "Id": 52510,
+    "Namn": "Örja Aut",
+    "Latitud": 55.8798,
+    "Longitud": 12.8705,
+    "Höjd (m)": 11,
+    "Aktiv": "Nej"
+  },
+  {
+    "Id": 138240,
+    "Namn": "Örnsköldsviks Flygplats",
+    "Latitud": 63.4119,
+    "Longitud": 18.9797,
+    "Höjd (m)": 108,
+    "Aktiv": "Ja"
+  },
+  {
+    "Id": 108320,
+    "Namn": "Örskär A",
+    "Latitud": 60.525619,
+    "Longitud": 18.372944,
+    "Höjd (m)": 6.539,
+    "Aktiv": "Ja"
+  },
+  {
+    "Id": 53470,
+    "Namn": "Örtofta",
+    "Latitud": 55.7833,
+    "Longitud": 13.25,
+    "Höjd (m)": 20,
+    "Aktiv": "Nej"
+  },
+  {
+    "Id": 78280,
+    "Namn": "Östergarnsholm A",
+    "Latitud": 57.440752,
+    "Longitud": 18.983913,
+    "Höjd (m)": 8.127,
+    "Aktiv": "Ja"
+  },
+  {
+    "Id": 134100,
+    "Namn": "Östersund",
+    "Latitud": 63.1736,
+    "Longitud": 14.6786,
+    "Höjd (m)": 345,
+    "Aktiv": "Nej"
+  },
+  {
+    "Id": 102190,
+    "Namn": "Östmark-Lämbacken",
+    "Latitud": 60.306,
+    "Longitud": 12.6977,
+    "Höjd (m)": 160,
+    "Aktiv": "Nej"
+  },
+  {
+    "Id": 102200,
+    "Namn": "Östmark-Rännberg",
+    "Latitud": 60.3328,
+    "Longitud": 12.6775,
+    "Höjd (m)": 198,
+    "Aktiv": "Nej"
+  },
+  {
+    "Id": 102210,
+    "Namn": "Östmark-Röjdåsen",
+    "Latitud": 60.3548,
+    "Longitud": 12.6491,
+    "Höjd (m)": 308,
+    "Aktiv": "Nej"
+  },
+  {
+    "Id": 102170,
+    "Namn": "Östmark-Åsarna",
+    "Latitud": 60.2788,
+    "Longitud": 12.8538,
+    "Höjd (m)": 135,
+    "Aktiv": "Ja"
+  },
+  {
+    "Id": 172790,
+    "Namn": "Överkalix-Svartbyn",
+    "Latitud": 66.2646,
+    "Longitud": 22.8365,
+    "Höjd (m)": 46,
+    "Aktiv": "Nej"
+  },
+  {
+    "Id": 172770,
+    "Namn": "Överkalix-Svartbyn A",
+    "Latitud": 66.261762,
+    "Longitud": 22.842747,
+    "Höjd (m)": 61.024,
+    "Aktiv": "Ja"
+  },
+  {
+    "Id": 173810,
+    "Namn": "Övertorneå",
+    "Latitud": 66.386036,
+    "Longitud": 23.615537,
+    "Höjd (m)": 59.508,
+    "Aktiv": "Ja"
+  },
+  {
+    "Id": 133470,
+    "Namn": "Överäng",
+    "Latitud": 63.7788,
+    "Longitud": 13.0734,
+    "Höjd (m)": 450,
+    "Aktiv": "Nej"
+  },
+  {
+    "Id": 86700,
+    "Namn": "Övre Gränsö",
+    "Latitud": 58.34999698053246,
+    "Longitud": 16.83330307811414,
+    "Höjd (m)": 5,
+    "Aktiv": "Nej"
+  }
+]

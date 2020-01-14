@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">RockPaperScissors</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="btnNewGame">New Game</string>
+    <string name="btnRock">Rock</string>
+    <string name="btnPaper">Paper</string>
+    <string name="btnScissor">Scissor</string>
+    <string name="humanPts">Human Points</string>
+    <string name="compPts">Computer Points</string>
+    <string name="winner">Reach 3 to win!</string>
+</resources>

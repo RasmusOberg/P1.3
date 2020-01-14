@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="main_choose_game">Välj spel</string>
+    <string name="main_btnStart">Start spel</string>
+    <string name="main_badPlace">Felaktig plats</string>
+    <string name="game_goal">Gå till</string>
+    <string name="game_latitude">Latitude</string>
+    <string name="game_longitude">Longitude</string>
+    <string name="game_your_location">Här är du:</string>
+    <string name="game_distance">Avstånd till målet</string>
+    <string name="goal_quote_title">Ett citat:</string>
+    <string name="main_name">Namn:</string>
+    <string name="string_main_name">String/main_name</string>
+    <string name="demostring">Hello</string>
+</resources>

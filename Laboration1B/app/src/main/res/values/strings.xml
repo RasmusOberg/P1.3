@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Laboration1B</string>
+    <string name="hello">Hello students!</string>
+    <string name="name">Name:</string>
+    <string name="phone">Phone:</string>
+    <string name="mail">Mail:</string>
+    <string name="dash">- - - - -</string>
+    <string name="summary">Summary</string>
+</resources>

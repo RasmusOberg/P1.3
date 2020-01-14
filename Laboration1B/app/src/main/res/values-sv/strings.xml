@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Laboration1B</string>
+    <string name="hello">Hej studenter!</string>
+    <string name="name">Namn:</string>
+    <string name="phone">Telefon:</string>
+    <string name="mail">Epost:</string>
+    <string name="dash">- - - - -</string>
+    <string name="summary">Sammanfattning</string>
+</resources>

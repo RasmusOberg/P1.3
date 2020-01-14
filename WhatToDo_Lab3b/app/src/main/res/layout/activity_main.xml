@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".MainActivity">
+
+
+    <fragment
+        android:id="@+id/fragment_whatToDo"
+        android:name="com.example.whattodo_lab3b.WhatToDoFragment"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        tools:layout_editor_absoluteX="172dp"
+        tools:layout_editor_absoluteY="145dp" />
+
+    <fragment
+        android:id="@+id/fragment_instruction"
+        android:name="com.example.whattodo_lab3b.InstructionFragment"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        tools:layout_editor_absoluteX="205dp"
+        tools:layout_editor_absoluteY="375dp" />
+</LinearLayout>
